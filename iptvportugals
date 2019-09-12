@@ -1,173 +1,392 @@
-#EXTM3U
-#EXTINF:0,PT: TVE Internacional
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/34670
-#EXTINF:0,PT: RTP 1
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33402
-#EXTINF:0,PT: RTP 2
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33401
-#EXTINF:0,PT: RTP 3
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33400
-#EXTINF:0,PT: RTP-Açores
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33399
-#EXTINF:0,PT: RTP Africa
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33299
-#EXTINF:0,PT: RTP Madeira
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33398
-#EXTINF:0,PT: RTP Memoria
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33397
-#EXTINF:0,PT: SIC
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33396
-#EXTINF:0,PT: SIC Caras
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33391
-#EXTINF:0,PT: SIC K
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33395
-#EXTINF:0,PT: SIC Mulher
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33392
-#EXTINF:0,PT: SIC NOTICIAS
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33394
-#EXTINF:0,PT: SIC Radical
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33393
-#EXTINF:0,PT: TV Cancao Nova
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33295
-#EXTINF:0,PT: TV RECORD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33388
-#EXTINF:0,PT: Tv Cine 1 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33355
-#EXTINF:0,PT: Tv Cine 2 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33354
-#EXTINF:0,PT: Tv Cine 3 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33353
-#EXTINF:0,PT: Tv Cine 4 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33352
-#EXTINF:0,PT: TVI
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33390
-#EXTINF:0,PT: TVI 24
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33389
-#EXTINF:0,PT: TVI Ficcao
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33373
-#EXTINF:0,PT: TVI Reality
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33365
-#EXTINF:0,PT:  TVSeries HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33364
-#EXTINF:0,PT: 24 KITCHEN HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33339
-#EXTINF:0,PT: A BOLA TV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33367
-#EXTINF:0,PT: Afro Music Channel
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33310
-#EXTINF:0,PT: AMC HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33371
-#EXTINF:0,PT: AXN Black HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33375
-#EXTINF:0,PT: AXN HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33376
-#EXTINF:0,PT: AXN White HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33374
-#EXTINF:0,PT: FTV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33309
-#EXTINF:0,PT: BabyTV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33308
-#EXTINF:0,PT: BTV 1
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33325
-#EXTINF:0,PT: Cahttp://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33342
-#EXTINF:0,PT: Cacavision
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33341
-#EXTINF:0,PT: Odisseia
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33306
-#EXTINF:0,PT: Canal Panda
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33351
-#EXTINF:0,PT: Canal Q
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33370
-#EXTINF:0,PT: CBS Reality
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33363
-#EXTINF:0,PT: Cinemundo
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33359
-#EXTINF:0,PT: Biggs Tv
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33369
-#EXTINF:0,PT: Crime  Investigation TV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33340
-#EXTINF:0,PT: Discovery Channel
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33344
-#EXTINF:0,PT: DISCOVERY HD SHOWCASE
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33343
-#EXTINF:0,PT: Disney Channel
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33349
-#EXTINF:0,PT: Disney Junior
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33350
-#EXTINF:0,PT: My Cuisine
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33338
-#EXTINF:0,PT: E! Entertainment
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33362
-#EXTINF:0,PT: Eurosport 1
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33330
-#EXTINF:0,PT: Eurosport 2
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33329
-#EXTINF:0,PT: FOX Comedy
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33377
-#EXTINF:0,PT: FOX Crime HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33384
-#EXTINF:0,PT: FOX HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33385
-#EXTINF:0,PT: ID HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33381
-#EXTINF:0,PT: FOX Life HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33382
-#EXTINF:0,PT: Fox Movies
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33379
-#EXTINF:0,PT: Fuel TV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33366
-#EXTINF:0,PT: Tv Globo
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33386
-#EXTINF:0,PT: Tv Globo Now
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33387
-#EXTINF:0,PT: HISTORIA
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33337
-#EXTINF:0,PT: Hollywood HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33356
-#EXTINF:0,PT: JimJam
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33316
-#EXTINF:0,PT: Nick Jr
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33302
-#EXTINF:0,PT: Motorvision
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33319
-#EXTINF:0,PT: NAT GEO WILD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33345
-#EXTINF:0,PT: National Geographic HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33347
-#EXTINF:0,PT: Nickelodeon
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33300
-#EXTINF:0,PT: PFC Internacional
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33322
-#EXTINF:0,PT: PORTO CANAL
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33326
-#EXTINF:0,PT: Real Madrid TV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33317
-#EXTINF:0,PT: SPORT TV+
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33336
-#EXTINF:0,PT: SPORT TV 1 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33335
-#EXTINF:0,PT: SPORT TV 2 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33334
-#EXTINF:0,PT: SPORT TV 3 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33333
-#EXTINF:0,PT: SPORT TV 4
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33332
-#EXTINF:0,PT: SPORT TV 5
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33331
-#EXTINF:0,PT: SPORTING TV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33327
-#EXTINF:0,PT: Canal 11 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33372
-#EXTINF:0,PT: TLC
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33298
-#EXTINF:0,PT: Toros TV
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33328
-#EXTINF:0,PT: Travel Channel HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/33296
-#EXTINF:0,PT: Televisión de Galicia
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/34671
-#EXTINF:0,PT: Eleven Sports 1 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/37901
-#EXTINF:0,PT: Eleven Sports 2 HD
-http://2gb1.tvcdn.online:7477/2HvWUMgiSF/zLbBjClLRD/37902
-5
+#EXTINF:-1,=== PORTUGESE by aurelio ===
+http://
+#EXTINF:-1,PT: 24 Kitchen HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90969
+#EXTINF:-1,PT: A & E
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90968
+#EXTINF:-1,PT: A BOLA TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90967
+#EXTINF:-1,PT: AMC
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90966
+#EXTINF:-1,PT: AXN BLACK HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90965
+#EXTINF:-1,PT: AXN HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90964
+#EXTINF:-1,PT: AXN WHITE
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90963
+#EXTINF:-1,PT: BABY TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90962
+#EXTINF:-1,PT: BARCA TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90961
+#EXTINF:-1,PT: BENEFICA TV1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90960
+#EXTINF:-1,PT: BENFICA TV2 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90959
+#EXTINF:-1,PT: BH News
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90958
+#EXTINF:-1,PT: CACA E PESCA
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90957
+#EXTINF:-1,PT: Cacavision HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90956
+#EXTINF:-1,PT: Canal Panda
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90955
+#EXTINF:-1,PT: Cartoon Network
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90954
+#EXTINF:-1,PT: CBS Reality
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90953
+#EXTINF:-1,PT: Cinemundo
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90952
+#EXTINF:-1,PT: CM TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90951
+#EXTINF:-1,PT: Discovery Channel
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90950
+#EXTINF:-1,PT: Disney Channel
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90949
+#EXTINF:-1,PT: Disney Junior
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90948
+#EXTINF:-1,PT: E! Entertainment
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90947
+#EXTINF:-1,PT: Economico TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90946
+#EXTINF:-1,PT: Euronews
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90945
+#EXTINF:-1,PT: Eurosport
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90944
+#EXTINF:-1,PT: Eurosport 2
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90943
+#EXTINF:-1,PT: Food Network
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90942
+#EXTINF:-1,PT: Fox Comedy
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90941
+#EXTINF:-1,PT: Fox Crime HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90940
+#EXTINF:-1,PT: FOX HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90939
+#EXTINF:-1,PT: Fox Life
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90938
+#EXTINF:-1,PT: Fox Movies
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90937
+#EXTINF:-1,PT: Fuel TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90936
+#EXTINF:-1,PT: Globo Premium
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90935
+#EXTINF:-1,PT: Historia
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90934
+#EXTINF:-1,PT: Hollywood HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90933
+#EXTINF:-1,PT: JIM JAM
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90932
+#EXTINF:-1,PT: JR News
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90931
+#EXTINF:-1,PT: MCM TOP
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90930
+#EXTINF:-1,PT: MOTORS TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90929
+#EXTINF:-1,PT: Motorvision
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90928
+#EXTINF:-1,PT: MOV HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90927
+#EXTINF:-1,PT: MTV Portugal
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90926
+#EXTINF:-1,PT: Nat Geo Wild
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90925
+#EXTINF:-1,PT: National Geographic HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90924
+#EXTINF:-1,PT: Nickelodeon
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90923
+#EXTINF:-1,PT: Odisseia
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90922
+#EXTINF:-1,PT: PANDA BIGGS
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90921
+#EXTINF:-1,PT: PFC
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90920
+#EXTINF:-1,PT: Porto Canal
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90919
+#EXTINF:-1,PT: REAL MADRID TV HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90918
+#EXTINF:-1,PT: RT GLOBAL
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90917
+#EXTINF:-1,PT: RTP 1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90916
+#EXTINF:-1,PT: RTP 2
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90915
+#EXTINF:-1,PT: RTP 3
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90914
+#EXTINF:-1,PT: RTP Acores
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90913
+#EXTINF:-1,PT: RTP Africa
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90912
+#EXTINF:-1,PT: RTP International
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90911
+#EXTINF:-1,PT: RTP Madeira
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90910
+#EXTINF:-1,PT: RTP MEMORIA
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90909
+#EXTINF:-1,PT: SIC
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90908
+#EXTINF:-1,PT: SIC K
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90907
+#EXTINF:-1,PT: SIC MULHER
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90906
+#EXTINF:-1,PT: SIC Noticias
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90905
+#EXTINF:-1,PT: Sic Radical
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90904
+#EXTINF:-1,PT: Sport TV 1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90903
+#EXTINF:-1,PT: Sport TV 2 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90902
+#EXTINF:-1,PT: Sport TV 3 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90901
+#EXTINF:-1,PT: Sport TV 4 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90900
+#EXTINF:-1,PT: Sport TV 5 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90899
+#EXTINF:-1,PT: Sporting TV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90898
+#EXTINF:-1,PT: SyFy
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90897
+#EXTINF:-1,PT: TLC
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90896
+#EXTINF:-1,PT: Travel Channel HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90895
+#EXTINF:-1,PT: TV Cine 1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90894
+#EXTINF:-1,PT: TV Cine 2 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90893
+#EXTINF:-1,PT: TV Cine 3 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90892
+#EXTINF:-1,PT: TV Cine 4 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90891
+#EXTINF:-1,PT: TV Lisboa
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90890
+#EXTINF:-1,PT: TV Record
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90889
+#EXTINF:-1,PT: TV Series
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90888
+#EXTINF:-1,PT: TVI FICCAO
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90887
+#EXTINF:-1,PT: TVI HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90886
+#EXTINF:-1,PT: TVI REALITY
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90885
+#EXTINF:-1,PT: TVI24
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/90884
+#EXTINF:-1,BEIN_SPORTS 1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64159
+#EXTINF:-1,BEIN_SPORTS 2 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64155
+#EXTINF:-1,BEIN_SPORTS 3 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64154
+#EXTINF:-1,BEIN_SPORTS 4 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64153
+#EXTINF:-1,BEIN_SPORTS 5 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64152
+#EXTINF:-1,BEIN_SPORTS 6 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64151
+#EXTINF:-1,BEIN_SPORTS 7 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64150
+#EXTINF:-1,BEIN_SPORTS 8 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64149
+#EXTINF:-1,BEIN_SPORTS 9 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64148
+#EXTINF:-1,BEIN_SPORTS 10 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64158
+#EXTINF:-1,BEIN_SPORTS 11
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64157
+#EXTINF:-1,BEIN_SPORTS 12
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64156
+#EXTINF:-1,BEIN_SPORT 1 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64171
+#EXTINF:-1,BEIN_SPORT 2 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64170
+#EXTINF:-1,BEIN_SPORT 3 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64169
+#EXTINF:-1,BEIN_SPORT 4 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64168
+#EXTINF:-1,BEIN_SPORT 5 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64167
+#EXTINF:-1,BEIN_SPORT 6 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64166
+#EXTINF:-1,BEIN_SPORT 7 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64165
+#EXTINF:-1,BEIN_SPORT 8 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64164
+#EXTINF:-1,BEIN_SPORT 9 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64163
+#EXTINF:-1,BEIN_SPORT 10 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64162
+#EXTINF:-1,BEIN_SPORT 11 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64161
+#EXTINF:-1,BEIN_SPORT 12 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64160
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 1
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78869
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 1
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78879
+#EXTINF:-1,G BeinSport: beIN FHD1 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78858
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 10
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78878
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 2
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78867
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 2
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78877
+#EXTINF:-1,G BeinSport: beIN FHD2 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78856
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 3
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78866
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 3
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78876
+#EXTINF:-1,G BeinSport: beIN FHD3 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78855
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 4
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78865
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 4
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78875
+#EXTINF:-1,G BeinSport: beIN FHD4 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78854
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 5
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78864
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 5
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78874
+#EXTINF:-1,G BeinSport: beIN FHD5 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78853
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 6
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78863
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 6
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78873
+#EXTINF:-1,G BeinSport: beIN FHD6 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78852
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 7
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78862
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 7
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78872
+#EXTINF:-1,G BeinSport: beIN FHD7 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78851
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 8
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78861
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 8
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78871
+#EXTINF:-1,G BeinSport: beIN FHD8 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78850
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 9
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78860
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS HD ʜᴅᴸᴼ 9
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78870
+#EXTINF:-1,G BeinSport: beIN FHD9 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78849
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS SD ʜᴅᴸᴼ 10
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78868
+#EXTINF:-1,G BeinSport: beIN FHD10 (hevc)
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78857
+#EXTINF:-1,beINʜᴅᴸᴼ: SPORTS Global HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78859
+#EXTINF:-1,beINʜᴅᴸᴼ: SPORTS News HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78888
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 1
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78887
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 2
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78886
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 3
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78885
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 4
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78884
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 5
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78883
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 6
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78882
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 7
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78881
+#EXTINF:-1,beINʜᴅᴸᴼ SPORTS FHD ʜᴅᴸᴼ 8
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/78880
+#EXTINF:-1,BEIN_Be_Junior
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64187
+#EXTINF:-1,BEIN_DMAX
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64186
+#EXTINF:-1,BEIN_DRAMA 1
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64185
+#EXTINF:-1,BEIN_DREAMWORKS
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64184
+#EXTINF:-1,BEIN_DTX
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64183
+#EXTINF:-1,BEIN_Fatafeat
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64182
+#EXTINF:-1,BEIN_FOX
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64181
+#EXTINF:-1,BEIN_FOX_MOVIES
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64180
+#EXTINF:-1,BEIN_FOX_MOVIES_ACTION
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64179
+#EXTINF:-1,BEIN_FOX_MOVIES_FAMILY
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64178
+#EXTINF:-1,BEIN_GEM
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64177
+#EXTINF:-1,BEIN_GOURMET
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64176
+#EXTINF:-1,BEIN_HGTV
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64175
+#EXTINF:-1,BEIN_MOVIES_1_HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64195
+#EXTINF:-1,BEIN_MOVIES_2_HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64194
+#EXTINF:-1,BEIN_MOVIES_3_HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64193
+#EXTINF:-1,BEIN_MOVIES_4_HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64192
+#EXTINF:-1,BEIN_SERIES 1
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64174
+#EXTINF:-1,BEIN_SERIES 2
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64173
+#EXTINF:-1,BEIN_TRAVEL
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64172
+#EXTINF:-1,BEIN_AMC
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64190
+#EXTINF:-1,BEIN_BABY
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64189
+#EXTINF:-1,BEIN_BARAEEM
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/64188
+#EXTINF:-1,V3: ON Sport HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91805
+#EXTINF:-1,V3: Ksa Sport  1 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91813
+#EXTINF:-1,V3: Ksa Sport  1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91812
+#EXTINF:-1,V3: Ksa Sport  2 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91811
+#EXTINF:-1,V3: Ksa Sport  2 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91810
+#EXTINF:-1,V3: Ksa Sport 1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91809
+#EXTINF:-1,V3: KSA Sport 1 UHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91808
+#EXTINF:-1,V3: Ksa Sport 2 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91807
+#EXTINF:-1,V3: KSA Sport 2 UHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91806
+#EXTINF:-1,V3: Al Kass Five HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91826
+#EXTINF:-1,V3: Al Kass Four HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91825
+#EXTINF:-1,V3: Al Kass One HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91824
+#EXTINF:-1,V3: Al Kass Seven HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91823
+#EXTINF:-1,V3: Al Kass Six HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91822
+#EXTINF:-1,V3: Al Kass Three HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91821
+#EXTINF:-1,V3: Al Kass Two HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91820
+#EXTINF:-1,V3: Dawri Plus 1 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91819
+#EXTINF:-1,V3: Dawri Plus 2 FHD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91818
+#EXTINF:-1,V3: Dawri Plus 3 FHD°
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91817
+#EXTINF:-1,V3: Dubai Sport 1 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91816
+#EXTINF:-1,V3: Dubai Sport 2 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91815
+#EXTINF:-1,V3: Dubai Sport 3 HD
+http://iptvtool.es:9977/RUiUzc1TSE/RtmTbEDELS/91814
