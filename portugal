@@ -1,4 +1,620 @@
+
 #EXTM3U
+#EXTINF:-1,|PT| 24KITCHEN
+http://tv.bestiptv-shop.com:7000/873974867/439074973/257
+#EXTINF:-1,|PT| A BOLA TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/207
+#EXTINF:-1,|PT| AFRO MUSIC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/205
+#EXTINF:-1,|PT| AMC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/256
+#EXTINF:-1,|PT| AXN Black
+http://tv.bestiptv-shop.com:7000/873974867/439074973/204
+#EXTINF:-1,|PT| AXN BLACK HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/160
+#EXTINF:-1,|PT| AXN HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/203
+#EXTINF:-1,|PT| AXN WHITE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/202
+#EXTINF:-1,|PT| BABY FIRST
+http://tv.bestiptv-shop.com:7000/873974867/439074973/166
+#EXTINF:-1,|PT| BABY TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/255
+#EXTINF:-1,|PT| BBC ENTERTAINMENT
+http://tv.bestiptv-shop.com:7000/873974867/439074973/165
+#EXTINF:-1,|PT| BBC WORLD NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/164
+#EXTINF:-1,|PT| BENIFICA TV1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/201
+#EXTINF:-1,|PT| BENIFICA TV1HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/200
+#EXTINF:-1,|PT| BIGGS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/254
+#EXTINF:-1,|PT| BLAZE
+http://tv.bestiptv-shop.com:7000/873974867/439074973/206
+#EXTINF:-1,|PT| BTV 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/163
+#EXTINF:-1,|PT| CAZA Y PESCA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/199
+#EXTINF:-1,|PT| CANAL HISTORIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/253
+#EXTINF:-1,|PT| CANAL PANDA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/252
+#EXTINF:-1,|PT| CANAL Q
+http://tv.bestiptv-shop.com:7000/873974867/439074973/251
+#EXTINF:-1,|PT| CASAVISION
+http://tv.bestiptv-shop.com:7000/873974867/439074973/249
+#EXTINF:-1,|PT| CBS REALITY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/248
+#EXTINF:-1,|PT| CINEMUNDO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/247
+#EXTINF:-1,|PT| CM TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/198
+#EXTINF:-1,|PT| CNN
+http://tv.bestiptv-shop.com:7000/873974867/439074973/162
+#EXTINF:-1,|PT| DISCOVERY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/197
+#EXTINF:-1,|PT| DISCOVERY SHOWCASE FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/168
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/246
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://tv.bestiptv-shop.com:7000/873974867/439074973/245
+#EXTINF:-1,|PT| E!
+http://tv.bestiptv-shop.com:7000/873974867/439074973/196
+#EXTINF:-1,|PT| EURONEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/159
+#EXTINF:-1,|PT| EUROSPORT 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/244
+#EXTINF:-1,|PT| EUROSPORT 1HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/154
+#EXTINF:-1,|PT| EUROSPORT 2
+http://tv.bestiptv-shop.com:7000/873974867/439074973/243
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/153
+#EXTINF:-1,|PT| FOOD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/242
+#EXTINF:-1,|PT| FOX COMEDY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/167
+#EXTINF:-1,|PT| FOX CRIME HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/195
+#EXTINF:-1,|PT| FOX HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/194
+#EXTINF:-1,|PT| FOX LIFE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/241
+#EXTINF:-1,|PT| FOX MOVIES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/240
+#EXTINF:-1,|PT| FOXCRIME HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/158
+#EXTINF:-1,|PT| FUEL TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/239
+#EXTINF:-1,|PT| GLOBO NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/157
+#EXTINF:-1,|PT| GLOBO PREM
+http://tv.bestiptv-shop.com:7000/873974867/439074973/193
+#EXTINF:-1,|PT| HOLLYWOOD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/238
+#EXTINF:-1,|PT| JIM JAM
+http://tv.bestiptv-shop.com:7000/873974867/439074973/237
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://tv.bestiptv-shop.com:7000/873974867/439074973/236
+#EXTINF:-1,|PT| MCS Lifestyle
+http://tv.bestiptv-shop.com:7000/873974867/439074973/235
+#EXTINF:-1,|PT| MOTORSPORT TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/234
+#EXTINF:-1,|PT| MOTORVISION
+http://tv.bestiptv-shop.com:7000/873974867/439074973/233
+#EXTINF:-1,|PT| MTV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/191
+#EXTINF:-1,|PT| NAT GEO HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/192
+#EXTINF:-1,|PT| NAT GEO WILD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/190
+#EXTINF:-1,|PT| NBA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/232
+#EXTINF:-1,|PT| NICKELODEON
+http://tv.bestiptv-shop.com:7000/873974867/439074973/231
+#EXTINF:-1,|PT| ODISSEIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/189
+#EXTINF:-1,|PT| PFC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/188
+#EXTINF:-1,|PT| PORTO CANAL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/230
+#EXTINF:-1,|PT| RECORD NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/259
+#EXTINF:-1,|PT| RTP 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/170
+#EXTINF:-1,|PT| RTP 2
+http://tv.bestiptv-shop.com:7000/873974867/439074973/169
+#EXTINF:-1,|PT| RTP 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/152
+#EXTINF:-1,|PT| RTP ACORES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/229
+#EXTINF:-1,|PT| RTP AFRICA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/258
+#EXTINF:-1,|PT| RTP MADEIRA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/161
+#EXTINF:-1,|PT| RTP MEMORIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/228
+#EXTINF:-1,|PT| RTP1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/187
+#EXTINF:-1,|PT| RTP3
+http://tv.bestiptv-shop.com:7000/873974867/439074973/186
+#EXTINF:-1,|PT| SIC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/185
+#EXTINF:-1,|PT| SIC CARAS HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/184
+#EXTINF:-1,|PT| SIC HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/227
+#EXTINF:-1,|PT| SIC K
+http://tv.bestiptv-shop.com:7000/873974867/439074973/183
+#EXTINF:-1,|PT| SIC MULHER
+http://tv.bestiptv-shop.com:7000/873974867/439074973/226
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/225
+#EXTINF:-1,|PT| SIC RADICAL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/224
+#EXTINF:-1,|PT| SPORT TV+ FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/181
+#EXTINF:-1,|PT| SPORT TV1 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/182
+#EXTINF:-1,|PT| SPORT TV1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/223
+#EXTINF:-1,|PT| SPORT TV2 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/180
+#EXTINF:-1,|PT| SPORT TV2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/222
+#EXTINF:-1,|PT| SPORT TV3 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/179
+#EXTINF:-1,|PT| SPORT TV3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/221
+#EXTINF:-1,|PT| SPORT TV4 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/178
+#EXTINF:-1,|PT| SPORT TV4 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/220
+#EXTINF:-1,|PT| SPORT TV5 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/219
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541369
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541368
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541367
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541366
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541365
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541364
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541363
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541362
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541361
+#EXTINF:-1,|PT| SPORTING TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/177
+#EXTINF:-1,|PT| SYFY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/218
+#EXTINF:-1,|PT| SYFY HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/156
+#EXTINF:-1,|PT| TLC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/176
+#EXTINF:-1,|PT| TOROS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/217
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/216
+#EXTINF:-1,|PT| TV GLOBO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/215
+#EXTINF:-1,|PT| TV RECORD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/214
+#EXTINF:-1,|PT| TV SERIE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/155
+#EXTINF:-1,|PT| TV SERIES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/213
+#EXTINF:-1,|PT| TVCINE 1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/175
+#EXTINF:-1,|PT| TVCINE 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/174
+#EXTINF:-1,|PT| TVCINE 3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/173
+#EXTINF:-1,|PT| TVCINE 4 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/172
+#EXTINF:-1,|PT| TVI
+http://tv.bestiptv-shop.com:7000/873974867/439074973/171
+#EXTINF:-1,|PT| TVI FICCAO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/212
+#EXTINF:-1,|PT| TVI HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/211
+#EXTINF:-1,|PT| TVI REALITY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/210
+#EXTINF:-1,|PT| TVI24
+http://tv.bestiptv-shop.com:7000/873974867/439074973/209
+#EXTINF:-1,|PT| MCS LIFE STYLE
+http://tv.bestiptv-shop.com:7000/873974867/439074973/208
+EXTM3U
+#EXTINF:-1,PT: A&E
+http://212.8.243.9:80/AV7q/1xnzi17EKn/2214
+#EXTINF:-1,PT: AXN
+http://212.8.243.9:80/AV7q/1xnzi17EKn/2692
+#EXTINF:-1,PT: AXN Black
+http://212.8.243.9:80/AV7q/1xnzi17EKn/2690
+#EXTINF:-1,PT: National Geographic
+http://212.8.243.9:80/AV7q/1xnzi17EKn/4712
+#EXTINF:-1,PT: ODISSEIA
+http://212.8.243.9:80/AV7q/1xnzi17EKn/4572
+#EXTINF:-1,PT: RTP ِِِACores
+http://212.8.243.9:80/AV7q/1xnzi17EKn/2210
+#EXTINF:-1,PT: RTP Memoria
+http://212.8.243.9:80/AV7q/1xnzi17EKn/2208
+#EXTINF:-1,PT: Sic
+http://212.8.243.9:80/AV7q/1xnzi17EKn/4710
+#EXTINF:-1,PT: Sic Caras
+http://212.8.243.9:80/AV7q/1xnzi17EKn/4575
+#EXTINF:-1,PT: Sic Mulher
+http://212.8.243.9:80/AV7q/1xnzi17EKn/4576
+#EXTINF:-1,PT: ID HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/2686
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24984
+#EXTINF:-1,PT: AFRO MUSIC CHANNEL
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24981
+#EXTINF:-1,PT: AMC FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24980
+#EXTINF:-1,PT: AXN White HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24976
+#EXTINF:-1,PT: BABY TV
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24974
+#EXTINF:-1,PT: Benfica TV HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24972
+#EXTINF:-1,PT: BLOOMBERG
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24967
+#EXTINF:-1,PT: CACA E PESCA
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24962
+#EXTINF:-1,PT: CANAL TOROS
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24952
+#EXTINF:-1,PT: CBS REALITY
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24943
+#EXTINF:-1,PT: Chelsea TV HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24941
+#EXTINF:-1,PT: Cine Mundo HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24934
+#EXTINF:-1,PT: CMTV HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24932
+#EXTINF:-1,PT: Crimen & Investigation
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24930
+#EXTINF:-1,PT: Discovery Channel HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24929
+#EXTINF:-1,PT: Disney Channel HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24926
+#EXTINF:-1,PT: Disney JR
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24925
+#EXTINF:-1,PT: E! Entertainment HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24923
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24920
+#EXTINF:-1,PT: Eurosport 2 HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24911
+#EXTINF:-1,PT: Fox Comedy HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24906
+#EXTINF:-1,PT: FOX HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24904
+#EXTINF:-1,PT: Fox Life HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24903
+#EXTINF:-1,PT: Fox Movies HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24902
+#EXTINF:-1,PT: Fuel TV HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24901
+#EXTINF:-1,PT: Globo Now HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24898
+#EXTINF:-1,PT: Historia HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24896
+#EXTINF:-1,PT: Hollywood HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24894
+#EXTINF:-1,PT: JIM JAM
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24893
+#EXTINF:-1,PT: Kombat Sports
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24891
+#EXTINF:-1,PT: Localvisao
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24889
+#EXTINF:-1,PT: NAT GEO HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24876
+#EXTINF:-1,PT: Nat Geo Wild HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24875
+#EXTINF:-1,PT: NBA HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24874
+#EXTINF:-1,PT: Niclelodeon HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24872
+#EXTINF:-1,PT: PFC HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24868
+#EXTINF:-1,PT: PORTO
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24866
+#EXTINF:-1,PT: Real Madrid TV
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24861
+#EXTINF:-1,PT: RTP 1 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24857
+#EXTINF:-1,PT: RTP 2 HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24856
+#EXTINF:-1,PT: RTP 3 HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24855
+#EXTINF:-1,PT: RTP Ã§ores
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24846
+#EXTINF:-1,PT: RTP ÁFRICA HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24847
+#EXTINF:-1,PT: RTP International
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24851
+#EXTINF:-1,PT: Sic K HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24842
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24839
+#EXTINF:-1,PT: SIC Radical HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24838
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24836
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24835
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24834
+#EXTINF:-1,PT: SPORT TV HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24831
+#EXTINF:-1,PT: SPORTING TV HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24828
+#EXTINF:-1,PT: TLC EUROPE
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24817
+#EXTINF:-1,PT: Trace
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24812
+#EXTINF:-1,PT: Travel Channel FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24810
+#EXTINF:-1,PT: TV Galicia
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24809
+#EXTINF:-1,PT: TVC Series HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24798
+#EXTINF:-1,PT: TVCine 1 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24797
+#EXTINF:-1,PT: TVCine 2 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24796
+#EXTINF:-1,PT: TVCine 3 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24795
+#EXTINF:-1,PT: TVCine 4 FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24794
+#EXTINF:-1,PT: TVI FHD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24788
+#EXTINF:-1,PT: TVI Ficcao HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24787
+#EXTINF:-1,PT: TVI Reality HD
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24784
+#EXTINF:-1,PT: VH1 Classic
+http://212.8.243.9:80/AV7q/1xnzi17EKn/24782
+#EXTINF:-1,PT:  Fox Crime
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41140
+#EXTINF:-1,PT:  Historia
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41141
+#EXTINF:-1,PT: 24 KITCHEN
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41142
+#EXTINF:-1,PT: A & E
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41143
+#EXTINF:-1,PT: A BOLA TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41144
+#EXTINF:-1,PT: AMC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41145
+#EXTINF:-1,PT: AMC HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41138
+#EXTINF:-1,PT: AXN
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41146
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41137
+#EXTINF:-1,PT: AXN HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41136
+#EXTINF:-1,PT: AXN WHITE
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41147
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41135
+#EXTINF:-1,PT: BABY TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41148
+#EXTINF:-1,PT: BENFICA TV 1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41149
+#EXTINF:-1,PT: BENFICA TV 2
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41150
+#EXTINF:-1,PT: BTV 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41134
+#EXTINF:-1,PT: CAÇA & PESCA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41151
+#EXTINF:-1,PT: CANAL HISTÓRIA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41152
+#EXTINF:-1,PT: CANAL PANDA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41153
+#EXTINF:-1,PT: CANAL Q
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41154
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41155
+#EXTINF:-1,PT: CBS REALITY
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41156
+#EXTINF:-1,PT: CINEMUNDO
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41157
+#EXTINF:-1,PT: CM TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41158
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41159
+#EXTINF:-1,PT: Discovery HD Showcase
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41160
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41161
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41162
+#EXTINF:-1,PT: E! Entertainment
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41163
+#EXTINF:-1,PT: EUROSPORT
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41164
+#EXTINF:-1,PT: Eurosport 1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41109
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41133
+#EXTINF:-1,PT: Eurosport new
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41110
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41132
+#EXTINF:-1,PT: Fox Comedy
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41165
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41131
+#EXTINF:-1,PT: FOX CRIME
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41166
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41130
+#EXTINF:-1,PT: FOX HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41129
+#EXTINF:-1,PT: FOX LIFE
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41167
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41128
+#EXTINF:-1,PT: FOX MOVIES
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41168
+#EXTINF:-1,PT: FOX TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41169
+#EXTINF:-1,PT: FUEL TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41170
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41127
+#EXTINF:-1,PT: GLOBO
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41171
+#EXTINF:-1,PT: HOLLYWOOD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41172
+#EXTINF:-1,PT: JIM JAM
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41173
+#EXTINF:-1,PT: MOTORS TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41174
+#EXTINF:-1,PT: MOTORVISION
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41175
+#EXTINF:-1,PT: MOTORVISION TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41176
+#EXTINF:-1,PT: MOV HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41177
+#EXTINF:-1,PT: Mtv Portuga
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41178
+#EXTINF:-1,PT: MTV PORTUGAL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41179
+#EXTINF:-1,PT: Nat Geo Wild
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41181
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41180
+#EXTINF:-1,PT: NICKELODEON
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41182
+#EXTINF:-1,PT: ODISSEIA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41183
+#EXTINF:-1,PT: PFC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41184
+#EXTINF:-1,PT: PORTO CANAL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41185
+#EXTINF:-1,PT: RTP 1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41186
+#EXTINF:-1,PT: RTP 2
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41187
+#EXTINF:-1,PT: RTP 3
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41188
+#EXTINF:-1,PT: RTP AÇORES
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41189
+#EXTINF:-1,PT: RTP ÁFRICA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41190
+#EXTINF:-1,PT: RTP MADEIRA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41139
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41191
+#EXTINF:-1,PT: Sic
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41192
+#EXTINF:-1,PT: SIC MULHER
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41193
+#EXTINF:-1,PT: SIC NOTICIAS
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41194
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41126
+#EXTINF:-1,PT: SIC RADICAL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41195
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41125
+#EXTINF:-1,PT: SPORT TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41124
+#EXTINF:-1,PT: SPORT TV   HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41123
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41196
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41122
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41197
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41121
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41223
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41198
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41120
+#EXTINF:-1,PT: SPORT TV 3HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41111
+#EXTINF:-1,PT: SPORT TV 4
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41199
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41119
+#EXTINF:-1,PT: SPORT TV 4HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41200
+#EXTINF:-1,PT: SPORT TV 5
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41201
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41118
+#EXTINF:-1,PT: SPORT TV 5HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41202
+#EXTINF:-1,PT: SPORTING TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41203
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41117
+#EXTINF:-1,PT: SYFY
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41204
+#EXTINF:-1,PT: SyFy HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41116
+#EXTINF:-1,PT: TLC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41205
+#EXTINF:-1,PT: TOUROS TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41206
+#EXTINF:-1,PT: TV CINE 1  HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41207
+#EXTINF:-1,PT: TV CINE 2  HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41208
+#EXTINF:-1,PT: TV CINE 3 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41209
+#EXTINF:-1,PT: TV CINE 4
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41210
+#EXTINF:-1,PT: TV GLOBO
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41211
+#EXTINF:-1,PT: TV Globo Premium
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41212
+#EXTINF:-1,PT: TV RECORD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41213
+#EXTINF:-1,PT: TVC HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41214
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41115
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41114
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41113
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41112
+#EXTINF:-1,PT: TVCseries
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41215
+#EXTINF:-1,PT: TVI
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41216
+#EXTINF:-1,PT: TVI 24
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41217
+#EXTINF:-1,PT: TVI REALITY
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41218
+#EXTINF:-1,PT: TVI Reality (A Quinta)
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41219
+#EXTINF:-1,PT: VH1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41220
+#EXTINF:-1,PT: VH1 CLASSIC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41221
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41222
 #EXTINF:-1,(PT) 24 Kitchen HD
 http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10298
 #EXTINF:-1,(PT) AMC
@@ -37,7 +653,6 @@ http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10292
 http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10303
 #EXTINF:-1,(PT) RTP 2
 http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10302
-a
 #EXTINF:-1,(PT) RTP 3
 http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10301
 #EXTINF:-1,(PT) RTP Madeira
@@ -78,963 +693,6 @@ http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10304
 http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10287
 #EXTINF:-1,(PT) TVSeries HD
 http://ip.xcn.link:80/rB2VHj1wGh/GseH4no45a/10308
-#EXTINF:-1,PT: A Bola TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36984
-#EXTINF:-1,PT: Afro Music Channel
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36983
-#EXTINF:-1,PT: AMC
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36982
-#EXTINF:-1,PT: AMC FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36981
-#EXTINF:-1,PT: ARTV Parlamento
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36980
-#EXTINF:-1,PT: AXN Black
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36979
-#EXTINF:-1,PT: AXN Black FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36978
-#EXTINF:-1,PT: AXN FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36977
-#EXTINF:-1,PT: AXN White
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36976
-#EXTINF:-1,PT: AXN White FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36975
-#EXTINF:-1,PT: Baby TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36974
-#EXTINF:-1,PT: BBC World News
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36973
-#EXTINF:-1,PT: Blaze
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36972
-#EXTINF:-1,PT: Bloomberg
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36971
-#EXTINF:-1,PT: BOOMERANG
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36970
-#EXTINF:-1,PT: BTV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36969
-#EXTINF:-1,PT: BTV FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36968
-#EXTINF:-1,PT: BTV HD (Low)
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36967
-#EXTINF:-1,PT: Caça e Pesca
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36966
-#EXTINF:-1,PT: Caçavision
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36965
-#EXTINF:-1,PT: Canal História
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36964
-#EXTINF:-1,PT: Canal Panda
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36963
-#EXTINF:-1,PT: Canal Q
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36962
-#EXTINF:-1,PT: CBS Reality
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36960
-#EXTINF:-1,PT: CineMundo
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36959
-#EXTINF:-1,PT: CMTV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36958
-#EXTINF:-1,PT: CMTV FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36957
-#EXTINF:-1,PT: CNBC
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36956
-#EXTINF:-1,PT: CNN
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36955
-#EXTINF:-1,PT: Crime Investigation
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36954
-#EXTINF:-1,PT: Discovery Channel
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36953
-#EXTINF:-1,PT: Discovery Showcase FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36952
-#EXTINF:-1,PT: Disney Channel
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36951
-#EXTINF:-1,PT: Disney Junior
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36950
-#EXTINF:-1,PT: Dog TV FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36949
-#EXTINF:-1,PT: E! Entertainment
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36948
-#EXTINF:-1,PT: Eleven Sports 1 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36947
-#EXTINF:-1,PT: Eleven Sports 1 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36946
-#EXTINF:-1,PT: Eleven Sports 1 HD (Low)
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36945
-#EXTINF:-1,PT: Eleven Sports 2 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36944
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36943
-#EXTINF:-1,PT: Eleven Sports 2 HD (Low)
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36942
-#EXTINF:-1,PT: Eleven Sports 3 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36941
-#EXTINF:-1,PT: Eleven Sports 4 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36940
-#EXTINF:-1,PT: Eleven Sports 5 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36939
-#EXTINF:-1,PT: Eleven Sports 6 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36938
-#EXTINF:-1,PT: Euronews
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36937
-#EXTINF:-1,PT: Eurosport 1 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36936
-#EXTINF:-1,PT: Eurosport 2 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36935
-#EXTINF:-1,PT: Fashion TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36934
-#EXTINF:-1,PT: Fight Network FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36933
-#EXTINF:-1,PT: Fine Living Network FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36932
-#EXTINF:-1,PT: Food Network FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36931
-#EXTINF:-1,PT: Fox Comedy
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36930
-#EXTINF:-1,PT: Fox Comedy FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36929
-#EXTINF:-1,PT: Fox Crime
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36928
-#EXTINF:-1,PT: Fox Crime FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36927
-#EXTINF:-1,PT: Fox FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36926
-#EXTINF:-1,PT: Fox Life
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36925
-#EXTINF:-1,PT: Fox Life FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36924
-#EXTINF:-1,PT: Fox Movies
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36923
-#EXTINF:-1,PT: Fox Movies FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36922
-#EXTINF:-1,PT: Fox News
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36921
-#EXTINF:-1,PT: Fuel TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36920
-#EXTINF:-1,PT: Fuel TV FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36919
-#EXTINF:-1,PT: Hollywood
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36918
-#EXTINF:-1,PT: Hollywood FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36917
-#EXTINF:-1,PT: IConcerts FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36916
-#EXTINF:-1,PT: ID Investigation Discovery FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36915
-#EXTINF:-1,PT: Jim Jam
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36914
-#EXTINF:-1,PT: Kombat Sport
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36913
-#EXTINF:-1,PT: LocalVisao HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36912
-#EXTINF:-1,PT: Luxe.TV FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36911
-#EXTINF:-1,PT: MCM Pop
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36910
-#EXTINF:-1,PT: MCM Top
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36909
-#EXTINF:-1,PT: Mezzo
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36908
-#EXTINF:-1,PT: Motorvision HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36907
-#EXTINF:-1,PT: MTV Portugal
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36906
-#EXTINF:-1,PT: My Cuisinne
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36905
-#EXTINF:-1,PT: Nat Geo
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36904
-#EXTINF:-1,PT: Nat Geo FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36903
-#EXTINF:-1,PT: Nat Geo Wild
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36902
-#EXTINF:-1,PT: Nat Geo Wild FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36901
-#EXTINF:-1,PT: NBA
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36900
-#EXTINF:-1,PT: NBA FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36899
-#EXTINF:-1,PT: Nick JR.
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36898
-#EXTINF:-1,PT: Nickelodeon
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36897
-#EXTINF:-1,PT: NOS STUDIOS
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36896
-#EXTINF:-1,PT: NRJ Hits
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36895
-#EXTINF:-1,PT: Odisseia
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36894
-#EXTINF:-1,PT: Outdoor Channel FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36893
-#EXTINF:-1,PT: Panda Biggs
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36892
-#EXTINF:-1,PT: PFC
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36891
-#EXTINF:-1,PT: Porto Canal
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36890
-#EXTINF:-1,PT: Porto Canal FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36889
-#EXTINF:-1,PT: Real Madrid TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36888
-#EXTINF:-1,PT: RTP 1
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36887
-#EXTINF:-1,PT: RTP 1 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36886
-#EXTINF:-1,PT: RTP 2
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36885
-#EXTINF:-1,PT: RTP 2 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36884
-#EXTINF:-1,PT: RTP 3
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36883
-#EXTINF:-1,PT: RTP Açores
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36882
-#EXTINF:-1,PT: RTP Africa
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36881
-#EXTINF:-1,PT: RTP Madeira
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36880
-#EXTINF:-1,PT: RTP Memoria
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36879
-#EXTINF:-1,PT: S   HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36878
-#EXTINF:-1,PT: Santuario Fatima
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36877
-#EXTINF:-1,PT: SIC
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36876
-#EXTINF:-1,PT: SIC Caras
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36875
-#EXTINF:-1,PT: SIC Caras FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36874
-#EXTINF:-1,PT: SIC FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36873
-#EXTINF:-1,PT: Sic Kids
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36872
-#EXTINF:-1,PT: SIC Mulher
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36871
-#EXTINF:-1,PT: SIC Mulher FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36870
-#EXTINF:-1,PT: SIC Noticias
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36869
-#EXTINF:-1,PT: SIC Noticias FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36868
-#EXTINF:-1,PT: SIC Radical
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36867
-#EXTINF:-1,PT: SIC Radical FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36866
-#EXTINF:-1,PT: Sky News
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36865
-#EXTINF:-1,PT: Sport TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36864
-#EXTINF:-1,PT: Sport TV  FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36863
-#EXTINF:-1,PT: Sport TV 1
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36862
-#EXTINF:-1,PT: Sport TV 1 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36861
-#EXTINF:-1,PT: Sport TV 1 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36860
-#EXTINF:-1,PT: Sport TV 1 HD (Low)
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36859
-#EXTINF:-1,PT: Sport TV 2
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36858
-#EXTINF:-1,PT: Sport TV 2 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36857
-#EXTINF:-1,PT: Sport TV 2 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36856
-#EXTINF:-1,PT: Sport TV 2 HD (Low)
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36855
-#EXTINF:-1,PT: Sport TV 3
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36854
-#EXTINF:-1,PT: Sport TV 3 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36853
-#EXTINF:-1,PT: Sport TV 3 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36852
-#EXTINF:-1,PT: Sport TV 4
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36851
-#EXTINF:-1,PT: Sport TV 4 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36850
-#EXTINF:-1,PT: Sport TV 4 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36849
-#EXTINF:-1,PT: Sport TV 4K UHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36848
-#EXTINF:-1,PT: Sport TV 5
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36847
-#EXTINF:-1,PT: Sport TV 5 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36846
-#EXTINF:-1,PT: Sport TV 5 HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36845
-#EXTINF:-1,PT: Sporting TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36844
-#EXTINF:-1,PT: Sporting TV FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36843
-#EXTINF:-1,PT: SyFy
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36842
-#EXTINF:-1,PT: SyFy FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36841
-#EXTINF:-1,PT: TLC
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36840
-#EXTINF:-1,PT: Toros TV
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36839
-#EXTINF:-1,PT: Trace&Urban
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36838
-#EXTINF:-1,PT: Travel Channel FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36837
-#EXTINF:-1,PT: TV Globo NOW
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36836
-#EXTINF:-1,PT: TV Globo Premium
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36835
-#EXTINF:-1,PT: TV Record HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36834
-#EXTINF:-1,PT: TVCine 1
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36833
-#EXTINF:-1,PT: TVCine 1 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36832
-#EXTINF:-1,PT: TVCine 2
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36831
-#EXTINF:-1,PT: TVCine 2 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36830
-#EXTINF:-1,PT: TVCine 3
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36829
-#EXTINF:-1,PT: TVCine 3 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36828
-#EXTINF:-1,PT: TVCine 4
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36827
-#EXTINF:-1,PT: TVCine 4 FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36826
-#EXTINF:-1,PT: TVI
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36825
-#EXTINF:-1,PT: TVI 24
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36824
-#EXTINF:-1,PT: TVI FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36823
-#EXTINF:-1,PT: TVI Ficção
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36822
-#EXTINF:-1,PT: TVI Reality
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36821
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 1
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36820
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 2
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36819
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 3
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36818
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 4
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36817
-#EXTINF:-1,PT: TVI Reality Mosaico
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36816
-#EXTINF:-1,PT: TVSéries
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36815
-#EXTINF:-1,PT: TVSéries FHD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36814
-#EXTINF:-1,PT: VH1
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36813
-#EXTINF:-1,PT: VH1 Classic
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36812
-#EXTINF:-1,PT: ZAP VIVA HD
-http://www.sansat.net:25461/12X102zx2/JAWFun5xIq/36811
-#EXTINF:-1,||PT||  TV RECORD
-http://mainbalance.tk:2086/austin/austin/69263
-#EXTINF:-1,||PT|| CACA E PESCA
-http://mainbalance.tk:2086/austin/austin/69297
-#EXTINF:-1,||PT|| CARTOON NETWORK
-http://mainbalance.tk:2086/austin/austin/69296
-#EXTINF:-1,||PT|| CINE MUNDO
-http://mainbalance.tk:2086/austin/austin/69295
-#EXTINF:-1,||PT|| DISNEY CHANNEL
-http://mainbalance.tk:2086/austin/austin/69294
-#EXTINF:-1,||PT|| DISNEY JUNIOR
-http://mainbalance.tk:2086/austin/austin/69293
-#EXTINF:-1,||PT|| FOX CRIME HD
-http://mainbalance.tk:2086/austin/austin/69292
-#EXTINF:-1,||PT|| FOX MOVIES
-http://mainbalance.tk:2086/austin/austin/69291
-#EXTINF:-1,||PT|| HOLLYWOOD
-http://mainbalance.tk:2086/austin/austin/69290
-#EXTINF:-1,||PT|| MTV PORTUGAL
-http://mainbalance.tk:2086/austin/austin/69289
-#EXTINF:-1,||PT|| PANDA TV
-http://mainbalance.tk:2086/austin/austin/69288
-#EXTINF:-1,||PT|| PORTO CANAL
-http://mainbalance.tk:2086/austin/austin/69287
-#EXTINF:-1,||PT|| RTP 2
-http://mainbalance.tk:2086/austin/austin/69286
-#EXTINF:-1,||PT|| RTP 3
-http://mainbalance.tk:2086/austin/austin/69285
-#EXTINF:-1,||PT|| RTP ACORES
-http://mainbalance.tk:2086/austin/austin/69284
-#EXTINF:-1,||PT|| RTP AFRICA
-http://mainbalance.tk:2086/austin/austin/69283
-#EXTINF:-1,||PT|| RTP MADEIRA
-http://mainbalance.tk:2086/austin/austin/69282
-#EXTINF:-1,||PT|| RTP MEMORIA
-http://mainbalance.tk:2086/austin/austin/69281
-#EXTINF:-1,||PT|| SIC CARAS
-http://mainbalance.tk:2086/austin/austin/69278
-#EXTINF:-1,||PT|| SIC HD
-http://mainbalance.tk:2086/austin/austin/69277
-#EXTINF:-1,||PT|| SIC MULHER
-http://mainbalance.tk:2086/austin/austin/69276
-#EXTINF:-1,||PT|| SIC NOTICIAS
-http://mainbalance.tk:2086/austin/austin/69275
-#EXTINF:-1,||PT|| SIC RADICAL
-http://mainbalance.tk:2086/austin/austin/69274
-#EXTINF:-1,||PT|| SPORT TV 1 HD
-http://mainbalance.tk:2086/austin/austin/69273
-#EXTINF:-1,||PT|| SPORT TV 3 HD
-http://mainbalance.tk:2086/austin/austin/69271
-#EXTINF:-1,||PT|| SPORT TV 4HD
-http://mainbalance.tk:2086/austin/austin/69270
-#EXTINF:-1,||PT|| SPORT TV2 HD
-http://mainbalance.tk:2086/austin/austin/69272
-#EXTINF:-1,||PT|| SPORT TV5HD
-http://mainbalance.tk:2086/austin/austin/69269
-#EXTINF:-1,||PT|| TV CINE  2
-http://mainbalance.tk:2086/austin/austin/69267
-#EXTINF:-1,||PT|| TV CINE 1
-http://mainbalance.tk:2086/austin/austin/69268
-#EXTINF:-1,||PT|| TV CINE 3
-http://mainbalance.tk:2086/austin/austin/69266
-#EXTINF:-1,||PT|| TV CINE 4
-http://mainbalance.tk:2086/austin/austin/69265
-#EXTINF:-1,||PT|| TV GLOBO
-http://mainbalance.tk:2086/austin/austin/69264
-#EXTINF:-1,||PT|| TV SERIES HD
-http://mainbalance.tk:2086/austin/austin/69262
-#EXTINF:-1,||PT|| TVI 24 HD
-http://mainbalance.tk:2086/austin/austin/69280
-#EXTINF:-1,||PT|| TVI FHD
-http://mainbalance.tk:2086/austin/austin/69279
-#EXTINF:-1,PT- 24 Kitchen HD
-http://linux-app.tv:6204/ernsme/erns57me/8876
-#EXTINF:-1,PT- A&E
-http://linux-app.tv:6204/ernsme/erns57me/8875
-#EXTINF:-1,PT- ABOLA TV
-http://linux-app.tv:6204/ernsme/erns57me/8874
-#EXTINF:-1,PT- Afro Music
-http://linux-app.tv:6204/ernsme/erns57me/8873
-#EXTINF:-1,PT- AXN BLACK HD
-http://linux-app.tv:6204/ernsme/erns57me/8872
-#EXTINF:-1,PT- AXN HD
-http://linux-app.tv:6204/ernsme/erns57me/8871
-#EXTINF:-1,PT- AXN WHITE
-http://linux-app.tv:6204/ernsme/erns57me/8870
-#EXTINF:-1,PT- Baby Tv
-http://linux-app.tv:6204/ernsme/erns57me/8869
-#EXTINF:-1,PT- Biggs
-http://linux-app.tv:6204/ernsme/erns57me/8868
-#EXTINF:-1,PT- BTV 1 HD
-http://linux-app.tv:6204/ernsme/erns57me/8867
-#EXTINF:-1,PT- Caca & Pesca
-http://linux-app.tv:6204/ernsme/erns57me/8866
-#EXTINF:-1,PT- Canal Historia
-http://linux-app.tv:6204/ernsme/erns57me/8865
-#EXTINF:-1,PT- CANAL PANDA
-http://linux-app.tv:6204/ernsme/erns57me/8864
-#EXTINF:-1,PT- Cancao Nova
-http://linux-app.tv:6204/ernsme/erns57me/8863
-#EXTINF:-1,PT- CBS Reality
-http://linux-app.tv:6204/ernsme/erns57me/8861
-#EXTINF:-1,PT- CINEMUNDO
-http://linux-app.tv:6204/ernsme/erns57me/8860
-#EXTINF:-1,PT- CMTV
-http://linux-app.tv:6204/ernsme/erns57me/8859
-#EXTINF:-1,PT- Discovery Channel
-http://linux-app.tv:6204/ernsme/erns57me/8858
-#EXTINF:-1,PT- Discovery Showcase HD
-http://linux-app.tv:6204/ernsme/erns57me/8857
-#EXTINF:-1,PT- Disney Channel
-http://linux-app.tv:6204/ernsme/erns57me/8856
-#EXTINF:-1,PT- E! Entertaunment
-http://linux-app.tv:6204/ernsme/erns57me/8855
-#EXTINF:-1,PT- EUroNews
-http://linux-app.tv:6204/ernsme/erns57me/8854
-#EXTINF:-1,PT- EUROSPORT 1
-http://linux-app.tv:6204/ernsme/erns57me/8853
-#EXTINF:-1,PT- EUROSPORT 2
-http://linux-app.tv:6204/ernsme/erns57me/8852
-#EXTINF:-1,PT- EuroSport 2 XTRA HD
-http://linux-app.tv:6204/ernsme/erns57me/8851
-#EXTINF:-1,PT- EUROSPORT NEWS
-http://linux-app.tv:6204/ernsme/erns57me/8850
-#EXTINF:-1,PT- FOX COMEDY
-http://linux-app.tv:6204/ernsme/erns57me/8849
-#EXTINF:-1,PT- FOX Crime HD
-http://linux-app.tv:6204/ernsme/erns57me/8848
-#EXTINF:-1,PT- FOX HD
-http://linux-app.tv:6204/ernsme/erns57me/8847
-#EXTINF:-1,PT- Fox Life HD
-http://linux-app.tv:6204/ernsme/erns57me/8846
-#EXTINF:-1,PT- FOX Movies
-http://linux-app.tv:6204/ernsme/erns57me/8845
-#EXTINF:-1,PT- Fuel TV
-http://linux-app.tv:6204/ernsme/erns57me/8844
-#EXTINF:-1,PT- FX
-http://linux-app.tv:6204/ernsme/erns57me/8843
-#EXTINF:-1,PT- Globo
-http://linux-app.tv:6204/ernsme/erns57me/8842
-#EXTINF:-1,PT- Globo Premium
-http://linux-app.tv:6204/ernsme/erns57me/8841
-#EXTINF:-1,PT- Historia
-http://linux-app.tv:6204/ernsme/erns57me/8840
-#EXTINF:-1,PT- Hollywood HD
-http://linux-app.tv:6204/ernsme/erns57me/8839
-#EXTINF:-1,PT- MCM Pop
-http://linux-app.tv:6204/ernsme/erns57me/8838
-#EXTINF:-1,PT- Motors TV
-http://linux-app.tv:6204/ernsme/erns57me/8837
-#EXTINF:-1,PT- Motorvision
-http://linux-app.tv:6204/ernsme/erns57me/8836
-#EXTINF:-1,PT- MOV
-http://linux-app.tv:6204/ernsme/erns57me/8835
-#EXTINF:-1,PT- MTV Portugal
-http://linux-app.tv:6204/ernsme/erns57me/8834
-#EXTINF:-1,PT- Nat Geo Wild
-http://linux-app.tv:6204/ernsme/erns57me/8833
-#EXTINF:-1,PT- National Geographic HD
-http://linux-app.tv:6204/ernsme/erns57me/8832
-#EXTINF:-1,PT- Nickelodeon
-http://linux-app.tv:6204/ernsme/erns57me/8831
-#EXTINF:-1,PT- Odisseia
-http://linux-app.tv:6204/ernsme/erns57me/8830
-#EXTINF:-1,PT- PFC
-http://linux-app.tv:6204/ernsme/erns57me/8829
-#EXTINF:-1,PT- Porto Canal
-http://linux-app.tv:6204/ernsme/erns57me/8828
-#EXTINF:-1,PT- Record News
-http://linux-app.tv:6204/ernsme/erns57me/8827
-#EXTINF:-1,PT- RTP 1
-http://linux-app.tv:6204/ernsme/erns57me/8826
-#EXTINF:-1,PT- RTP 2
-http://linux-app.tv:6204/ernsme/erns57me/8825
-#EXTINF:-1,PT- RTP 3
-http://linux-app.tv:6204/ernsme/erns57me/8824
-#EXTINF:-1,PT- RTP Acores
-http://linux-app.tv:6204/ernsme/erns57me/8823
-#EXTINF:-1,PT- RTP Ãfrica
-http://linux-app.tv:6204/ernsme/erns57me/8822
-#EXTINF:-1,PT- RTP Madeira
-http://linux-app.tv:6204/ernsme/erns57me/8821
-#EXTINF:-1,PT- RTP Memoria
-http://linux-app.tv:6204/ernsme/erns57me/8820
-#EXTINF:-1,PT- SIC
-http://linux-app.tv:6204/ernsme/erns57me/8819
-#EXTINF:-1,PT- SIC Caras
-http://linux-app.tv:6204/ernsme/erns57me/8818
-#EXTINF:-1,PT- SIC HD
-http://linux-app.tv:6204/ernsme/erns57me/8817
-#EXTINF:-1,PT- SIC K
-http://linux-app.tv:6204/ernsme/erns57me/8816
-#EXTINF:-1,PT- SIC Kids HD
-http://linux-app.tv:6204/ernsme/erns57me/8815
-#EXTINF:-1,PT- SIC Mulher
-http://linux-app.tv:6204/ernsme/erns57me/8814
-#EXTINF:-1,PT- SIC Noticias
-http://linux-app.tv:6204/ernsme/erns57me/8813
-#EXTINF:-1,PT- SIC Noticias HD
-http://linux-app.tv:6204/ernsme/erns57me/8812
-#EXTINF:-1,PT- SIC Radical
-http://linux-app.tv:6204/ernsme/erns57me/8811
-#EXTINF:-1,PT- SPORT TV
-http://linux-app.tv:6204/ernsme/erns57me/8810
-#EXTINF:-1,PT- SPORT TV   HD
-http://linux-app.tv:6204/ernsme/erns57me/8809
-#EXTINF:-1,PT- SPORTING TV
-http://linux-app.tv:6204/ernsme/erns57me/8808
-#EXTINF:-1,PT- SPORTTV 1 HD
-http://linux-app.tv:6204/ernsme/erns57me/8807
-#EXTINF:-1,PT- SPORTTV 1 SD
-http://linux-app.tv:6204/ernsme/erns57me/8806
-#EXTINF:-1,PT- SPORTTV 2 HD
-http://linux-app.tv:6204/ernsme/erns57me/8805
-#EXTINF:-1,PT- SPORTTV 2 SD
-http://linux-app.tv:6204/ernsme/erns57me/8804
-#EXTINF:-1,PT- SPORTTV 3 HD
-http://linux-app.tv:6204/ernsme/erns57me/8803
-#EXTINF:-1,PT- SPORTTV 3 SD
-http://linux-app.tv:6204/ernsme/erns57me/8802
-#EXTINF:-1,PT- SPORTTV 4 HD
-http://linux-app.tv:6204/ernsme/erns57me/8801
-#EXTINF:-1,PT- SPORTTV 5 HD
-http://linux-app.tv:6204/ernsme/erns57me/8800
-#EXTINF:-1,PT- TLC
-http://linux-app.tv:6204/ernsme/erns57me/8799
-#EXTINF:-1,PT- TPA Angola
-http://linux-app.tv:6204/ernsme/erns57me/8798
-#EXTINF:-1,PT- Travel Channel HD
-http://linux-app.tv:6204/ernsme/erns57me/8797
-#EXTINF:-1,PT- TV Globo Premium
-http://linux-app.tv:6204/ernsme/erns57me/8796
-#EXTINF:-1,PT- TVCINE 1 HD
-http://linux-app.tv:6204/ernsme/erns57me/8795
-#EXTINF:-1,PT- TVCINE 2 HD
-http://linux-app.tv:6204/ernsme/erns57me/8794
-#EXTINF:-1,PT- TVCINE 3 HD
-http://linux-app.tv:6204/ernsme/erns57me/8793
-#EXTINF:-1,PT- TVCINE 4 HD
-http://linux-app.tv:6204/ernsme/erns57me/8792
-#EXTINF:-1,PT- TVE Internacional
-http://linux-app.tv:6204/ernsme/erns57me/8791
-#EXTINF:-1,PT- TVI
-http://linux-app.tv:6204/ernsme/erns57me/8790
-#EXTINF:-1,PT- Tvi 24
-http://linux-app.tv:6204/ernsme/erns57me/8789
-#EXTINF:-1,PT- TVI FICCAO
-http://linux-app.tv:6204/ernsme/erns57me/8788
-#EXTINF:-1,PT- TVI REALITY
-http://linux-app.tv:6204/ernsme/erns57me/8787
-#EXTINF:-1,PT: RTP 1
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2211
-#EXTINF:-1,PT: RTP 1 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/162611
-#EXTINF:-1,PT: RTP 1 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205663
-#EXTINF:-1,PT: RTP 2
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2212
-#EXTINF:-1,PT: RTP 2 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205664
-#EXTINF:-1,PT: RTP 2 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/162612
-#EXTINF:-1,PT: SIC
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2216
-#EXTINF:-1,PT: SIC HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/169304
-#EXTINF:-1,PT: SIC 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205665
-#EXTINF:-1,PT: TVI
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2220
-#EXTINF:-1,PT: TVI HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/169303
-#EXTINF:-1,PT: TVI 24
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2221
-#EXTINF:-1,PT: TVI FICÇAO
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136631
-#EXTINF:-1,PT: RTP 3
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136263
-#EXTINF:-1,PT: RTP3 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196604
-#EXTINF:-1,PT: RTP ACORES
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2213
-#EXTINF:-1,PT: SIC RADICAL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136264
-#EXTINF:-1,PT: RTP AFRICA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136684
-#EXTINF:-1,PT: RTP MADEIRA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2215
-#EXTINF:-1,PT: RTP MEMORIA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2214
-#EXTINF:-1,PT: SIC CARAS
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136630
-#EXTINF:-1,PT: SIC MULHER
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2218
-#EXTINF:-1,PT: SICMULHER HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196605
-#EXTINF:-1,PT: SIC NOTICIAS
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2219
-#EXTINF:-1,PT: SIC NOTICIAS HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196692
-#EXTINF:-1,PT: CMTV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2204
-#EXTINF:-1,PT: CMTV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132907
-#EXTINF:-1,PT: ZAP VIVA HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/198367
-#EXTINF:-1,PT: TVI REALITY
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136659
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 1 PT
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/178148
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 2 PT
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/178147
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 3 PT
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/178146
-#EXTINF:-1,PT: TVI Reality Camara Exclusiva 4 PT
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/178145
-#EXTINF:-1,PT: TVI Reality Mosaico PT
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/178144
-#EXTINF:-1,PT: 24 KITCHEN HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2203
-#EXTINF:-1,PT: CANÇAO NOVA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/165587
-#EXTINF:-1,PT: CANAL Q
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132901
-#EXTINF:-1,PT: CBS REALITY
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132903
-#EXTINF:-1,PT: E! ENTERTAINMENT
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132910
-#EXTINF:-1,PT: FASHION TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136676
-#EXTINF:-1,PT: FOX NEWS
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132917
-#EXTINF:-1,PT: GLOBO PORTUGAL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132897
-#EXTINF:-1,PT: GLOBO PORTUGAL HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196609
-#EXTINF:-1,PT: GLOBO NOW
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2209
-#EXTINF:-1,PT: TV  FATIMA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/165588
-#EXTINF:-1,PT: TVC 1
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/194449
-#EXTINF:-1,PT: TVC 1 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2234
-#EXTINF:-1,PT: TVC 1 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/207333
-#EXTINF:-1,PT: TVC 2
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/194450
-#EXTINF:-1,PT: TVC 2 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2235
-#EXTINF:-1,PT: TVC 2 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/207334
-#EXTINF:-1,PT: TVC 3
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/194460
-#EXTINF:-1,PT: TVC 3 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2236
-#EXTINF:-1,PT: TVC 3 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/207342
-#EXTINF:-1,PT: TVC 4
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/194461
-#EXTINF:-1,PT: TVC 4 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2237
-#EXTINF:-1,PT: TVC 4 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/207343
-#EXTINF:-1,PT: NOS STUDIO
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/202823
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/198788
-#EXTINF:-1,PT: NOS STUDIOS 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205662
-#EXTINF:-1,PT: AXN
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136668
-#EXTINF:-1,PT: AXN HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2233
-#EXTINF:-1,PT: AXN 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205656
-#EXTINF:-1,PT: AXN WHITE
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/167482
-#EXTINF:-1,PT: AXN WHITE HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132925
-#EXTINF:-1,PT: AXN WHITE 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205658
-#EXTINF:-1,PT: AXN BLACK
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/167481
-#EXTINF:-1,PT: AXN BLACK HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132924
-#EXTINF:-1,PT: AXN BLACK 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205657
-#EXTINF:-1,PT: AMC
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132923
-#EXTINF:-1,PT: AMC HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/169311
-#EXTINF:-1,PT: HOLLYWOOD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132921
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132922
-#EXTINF:-1,PT: SYFY
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/169312
-#EXTINF:-1,PT: SYFY HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2243
-#EXTINF:-1,PT:  TV SERIES
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136266
-#EXTINF:-1,PT:  TV SERIES HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/169310
-#EXTINF:-1,PT: FOX
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/198366
-#EXTINF:-1,PT: FOX HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2206
-#EXTINF:-1,PT: FOX 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205661
-#EXTINF:-1,PT: FOX COMEDY
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2208
-#EXTINF:-1,PT: FOX COMEDY HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132912
-#EXTINF:-1,PT: FOX CRIME
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132913
-#EXTINF:-1,PT: FOX CRIME HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132914
-#EXTINF:-1,PT: FOX LIFE
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/167480
-#EXTINF:-1,PT: FOX LIFE HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132915
-#EXTINF:-1,PT: FOX MOVIES
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2207
-#EXTINF:-1,PT: FOX MOVIES HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132916
-#EXTINF:-1,PT: CINEMUNDO
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132905
-#EXTINF:-1,PT: CINEMUNDO HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196608
-#EXTINF:-1,PT: SUNDANCE HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132891
-#EXTINF:-1,PT: CANAL 11
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/203036
-#EXTINF:-1,PT: CANAL 11 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/203037
-#EXTINF:-1,PT: CANAL 11 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205660
-#EXTINF:-1,PT: SPORT TV +
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161969
-#EXTINF:-1,PT: SPORT TV + HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136265
-#EXTINF:-1,PT: SPORT TV 1
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161955
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/1455
-#EXTINF:-1,PT: SPORT TV 1 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205666
-#EXTINF:-1,PT: SPORT TV 2
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161957
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/1456
-#EXTINF:-1,PT: SPORT TV 2 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205667
-#EXTINF:-1,PT: SPORT TV 3
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161966
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/1457
-#EXTINF:-1,PT: SPORT TV 3 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205668
-#EXTINF:-1,PT: SPORT TV 4
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161967
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/1458
-#EXTINF:-1,PT: SPORT TV 5
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161968
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/1459
-#EXTINF:-1,PT: SPORT TV NBA HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/183821
-#EXTINF:-1,PT: CHELSEA TV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132904
-#EXTINF:-1,PT: BTV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161970
-#EXTINF:-1,PT: BTV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2229
-#EXTINF:-1,PT: BTV 1080P
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/205659
-#EXTINF:-1,PT: ELEVEN SPORTS 1 SD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/164977
-#EXTINF:-1,PT: ELEVEN SPORT 1 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/158069
-#EXTINF:-1,PT: ELEVEN SPORT 2 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/158902
-#EXTINF:-1,PT: ELEVEN SPORTS 2 SD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/164978
-#EXTINF:-1,PT: ELEVEN SPORTS 3 SD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/164979
-#EXTINF:-1,PT: ELEVEN SPORTS 4 SD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/164980
-#EXTINF:-1,PT: ELEVEN SPORTS 5 SD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/164981
-#EXTINF:-1,PT: ELEVEN SPORTS 6 SD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/164982
-#EXTINF:-1,PT: ELEVENSPORT 3 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/159765
-#EXTINF:-1,PT: ELEVENSPORT 4 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/159766
-#EXTINF:-1,PT: ELEVENSPORT 5 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/159767
-#EXTINF:-1,PT: ELEVENSPORT 6 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/159768
-#EXTINF:-1,PT: EUROSPORT 1
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136682
-#EXTINF:-1,PT: EUROSPORT 1 HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2231
-#EXTINF:-1,PT: EUROSPORT 2
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132911
-#EXTINF:-1,PT: FIGHT NETWORH HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136665
-#EXTINF:-1,PT: KOMBAT SPORT
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132886
-#EXTINF:-1,PT: A BOLA TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136661
-#EXTINF:-1,PT: NBA TV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132918
-#EXTINF:-1,PT: PORTO CANAL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2210
-#EXTINF:-1,PT: REAL MADRID TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136663
-#EXTINF:-1,PT: CAÇA E PESCA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132898
-#EXTINF:-1,PT: CAÇAVISION
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132899
-#EXTINF:-1,PT: SPORTING TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2232
-#EXTINF:-1,PT: SPORTING TV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/161971
-#EXTINF:-1,PT: TV RECORD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2225
-#EXTINF:-1,PT: TOROS TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136662
-#EXTINF:-1,PT: PFC INTERNACIONAL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136666
-#EXTINF:-1,PT: MCM POP
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132890
-#EXTINF:-1,PT: MTV PORTUGAL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136673
-#EXTINF:-1,PT: MEZZO
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136675
-#EXTINF:-1,PT: ICONCERTS HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132884
-#EXTINF:-1,PT: AFRO MUSIC CHANNEL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136674
-#EXTINF:-1,PT: VH1
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136670
-#EXTINF:-1,PT: CANAL PANDA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2222
-#EXTINF:-1,PT: BIGGS
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/180946
-#EXTINF:-1,PT: NICKELODEON
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136669
-#EXTINF:-1,PT: NICK JR.
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/181786
-#EXTINF:-1,PT: SIC K
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2217
-#EXTINF:-1,PT: BABY TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136667
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2223
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2224
-#EXTINF:-1,PT: BLOOMBERG
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136683
-#EXTINF:-1,PT: JIM JAM
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132885
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132920
-#EXTINF:-1,PT: NAT GEO WILD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2228
-#EXTINF:-1,PT: MOTORVISION
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132896
-#EXTINF:-1,PT: FOOD NETWORK
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/181785
-#EXTINF:-1,PT: LOCALVISAO TV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132888
-#EXTINF:-1,PT: LUXE TV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132892
-#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136671
-#EXTINF:-1,PT: TRAVEL CHANNEL HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136677
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2226
-#EXTINF:-1,PT: DISCOVERY CHANNEL HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196607
-#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132908
-#EXTINF:-1,PT: FINE LIVING NETWORK HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136679
-#EXTINF:-1,PT: TRACE URBAN
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136672
-#EXTINF:-1,PT: CRIME + INVESTIGATION TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136629
-#EXTINF:-1,PT: HISTORIA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/2227
-#EXTINF:-1,PT: ODISSEIA
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136678
-#EXTINF:-1,PT: BLAZE
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/158901
-#EXTINF:-1,PT: BLAZE HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196603
-#EXTINF:-1,PT: FUEL TV
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136664
-#EXTINF:-1,PT: TLC
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/136681
-#EXTINF:-1,PT: ODISSEIA HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/196606
-#EXTINF:-1,PT: DOG TV HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132909
-#EXTINF:-1,PT: NAT GEO WILD HD
-http://ip.sltv.be:8000/estcndmrr1996/O9QI39xc6K/132919
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+
