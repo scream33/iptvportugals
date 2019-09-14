@@ -701,72 +701,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b64000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-EXTINF:-1,PT: SPORT TV 1
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7638.m3u8
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7637.m3u8
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1148.m3u8
-#EXTINF:-1,PT: SPORT TV 2
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7636.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7635.m3u8
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1149.m3u8
-#EXTINF:-1,PT: SPORT TV 3
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7634.m3u8
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7633.m3u8
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1150.m3u8
-#EXTINF:-1,PT: SPORT TV 4
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7632.m3u8
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7631.m3u8
-#EXTINF:-1,PT: SPORT TV 4 FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1152.m3u8
-#EXTINF:-1,PT: SPORT TV 5
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7630.m3u8
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7629.m3u8
-#EXTINF:-1,PT: SPORT TV 5 FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1154.m3u8
-#EXTINF:-1,PT: SPORT TV NBA FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/16627.m3u8
-#EXTINF:-1,PT: Eleven Sport 1 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14600.m3u8
-#EXTINF:-1,PT: Eleven Sports 1 FHD VIP
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/13628.m3u8
-#EXTINF:-1,PT: Eleven Sport 2 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14599.m3u8
-#EXTINF:-1,PT: Eleven Sports 2 FHD VIP
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/13627.m3u8
-#EXTINF:-1,PT: Eleven Sport 3 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14598.m3u8
-#EXTINF:-1,PT: Eleven Sports 3 FHD VIP
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/13626.m3u8
-#EXTINF:-1,PT: Eleven Sport 4 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14597.m3u8
-#EXTINF:-1,PT: Eleven Sports 4 FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/13625.m3u8
-#EXTINF:-1,PT: Eleven Sport 5 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14596.m3u8
-#EXTINF:-1,PT: Eleven Sports 5 FHD VIP
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/13624.m3u8
-#EXTINF:-1,PT: Eleven Sport 6 HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14595.m3u8
-#EXTINF:-1,PT: Eleven Sports 6 FHD VIP
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/13623.m3u8
-#EXTINF:-1,PT: SPORTING TV
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1155.m3u8
-#EXTINF:-1,PT: SPORTINGTV FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/7639.m3u8
-#EXTINF:-1,PT: BENFICA TV
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14582.m3u8
-#EXTINF:-1,PT: BTV HD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/14581.m3u8
-#EXTINF:-1,PT: BTV FHD
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1085.m3u8
-#EXTINF:-1,PT: MOTORSPORT TV
-http://iptv.re-stream.tv:25461/live/jotacoorre@live.com.pt/5cPg0xlXat/1126.m3u8
-#EXTINF:-1,PT: Mototrs TV HD
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1,PT| [COLOR yellow][I][B]BENFICA[/B][/I][/COLOR](005)
+http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16894.m3u8
