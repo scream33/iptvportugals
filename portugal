@@ -11,363 +11,236 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1
-#EXTINF:-1,RTP 1 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2710.m3u8
-#EXTINF:-1,RTP 1 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/42409.m3u8
-#EXTINF:-1,RTP 1 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2714.m3u8
-#EXTINF:-1,RTP 2 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2709.m3u8
-#EXTINF:-1,RTP 2 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2713.m3u8
-#EXTINF:-1,RTP Memória PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2706.m3u8
-#EXTINF:-1,RTP Internacional PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5622.m3u8
-#EXTINF:-1,RTP África PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2711.m3u8
-#EXTINF:-1,RTP Madeira PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2707.m3u8
-#EXTINF:-1,RTP Açores PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2712.m3u8
-#EXTINF:-1,SIC PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2703.m3u8
-#EXTINF:-1,SIC FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2696.m3u8
-#EXTINF:-1,SIC Radical PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2700.m3u8
-#EXTINF:-1,SIC Radical FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2699.m3u8
-#EXTINF:-1,SIC Mulher PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2702.m3u8
-#EXTINF:-1,SIC Caras PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2705.m3u8
-#EXTINF:-1,SIC Caras HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2697.m3u8
-#EXTINF:-1,TVI PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3845.m3u8
-#EXTINF:-1,TVI FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3840.m3u8
-#EXTINF:-1,TVI Ficção PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3846.m3u8
-#EXTINF:-1,TVI Reality PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3842.m3u8
-#EXTINF:-1,TV Globo PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/14232.m3u8
-#EXTINF:-1,TV Globo NOW PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2736.m3u8
-#EXTINF:-1,TV Record PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2680.m3u8
-#EXTINF:-1,Canal 180 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62537.m3u8
-#EXTINF:-1,CTC HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62538.m3u8
-#EXTINF:-1,========== Crianças ==========
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13973.m3u8
-#EXTINF:-1,Baby First PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2769.m3u8
-#EXTINF:-1,Baby TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2768.m3u8
-#EXTINF:-1,JimJam PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2732.m3u8
-#EXTINF:-1,Canal Panda PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2762.m3u8
-#EXTINF:-1,Panda Biggs PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2763.m3u8
-#EXTINF:-1,Disney Junior PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2755.m3u8
-#EXTINF:-1,Disney Channel PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3841.m3u8
-#EXTINF:-1,Cartoon Network PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2761.m3u8
-#EXTINF:-1,Nickelodeon PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2719.m3u8
-#EXTINF:-1,Nick Jr. PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62544.m3u8
-#EXTINF:-1,SIC Kids PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2704.m3u8
-#EXTINF:-1,========== Filmes ==========
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13974.m3u8
-#EXTINF:-1,TVCine 1 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2684.m3u8
-#EXTINF:-1,TVCine 1 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2685.m3u8
-#EXTINF:-1,TVCine 2 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2683.m3u8
-#EXTINF:-1,TVCine 2 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2686.m3u8
-#EXTINF:-1,TVCine 3 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2682.m3u8
-#EXTINF:-1,TVCine 3 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2687.m3u8
-#EXTINF:-1,TVCine 4 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2681.m3u8
-#EXTINF:-1,TVCine 4 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2688.m3u8
-#EXTINF:-1,TV Séries FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3843.m3u8
-#EXTINF:-1,Syfy PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2692.m3u8
-#EXTINF:-1,Syfy FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2693.m3u8
-#EXTINF:-1,Hollywood PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2733.m3u8
-#EXTINF:-1,Hollywood FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2734.m3u8
-#EXTINF:-1,AMC PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2777.m3u8
-#EXTINF:-1,AMC FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2776.m3u8
-#EXTINF:-1,AXN FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2771.m3u8
-#EXTINF:-1,AXN Black FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2772.m3u8
-#EXTINF:-1,AXN White FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2770.m3u8
-#EXTINF:-1,FOX FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2743.m3u8
-#EXTINF:-1,FOX Comedy PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2745.m3u8
-#EXTINF:-1,FOX Comedy FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2740.m3u8
-#EXTINF:-1,Fox Crime PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/43689.m3u8
-#EXTINF:-1,FOX Crime FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2739.m3u8
-#EXTINF:-1,FOX Life FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2741.m3u8
-#EXTINF:-1,FOX Movies PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2746.m3u8
-#EXTINF:-1,FOX Movies HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2742.m3u8
-#EXTINF:-1,CineMundo PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2759.m3u8
-#EXTINF:-1,Nos Studios FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/73310.m3u8
-#EXTINF:-1,========== Notícia ==========
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13975.m3u8
-#EXTINF:-1,SIC Notícias PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2701.m3u8
-#EXTINF:-1,SIC Notícias FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2698.m3u8
-#EXTINF:-1,TVI 24 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3844.m3u8
-#EXTINF:-1,RTP 3 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2708.m3u8
-#EXTINF:-1,CMTV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2758.m3u8
-#EXTINF:-1,Porto Canal PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2716.m3u8
-#EXTINF:-1,Euronews PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/33162.m3u8
-#EXTINF:-1,BBC World News PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2773.m3u8
-#EXTINF:-1,========== Esportes ==========
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13976.m3u8
-#EXTINF:-1,SportTV+ PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3613.m3u8
-#EXTINF:-1,SportTV+ FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13248.m3u8
-#EXTINF:-1,SportTV 1 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2678.m3u8
-#EXTINF:-1,SportTV 1 SD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/7426.m3u8
-#EXTINF:-1,SportTV 1 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/7425.m3u8
-#EXTINF:-1,SportTV 1 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3618.m3u8
-#EXTINF:-1,SportTV 2 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2677.m3u8
-#EXTINF:-1,SportTV 2 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3617.m3u8
-#EXTINF:-1,SportTV 3 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2676.m3u8
-#EXTINF:-1,SportTV 3 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3616.m3u8
-#EXTINF:-1,SportTV 4 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2675.m3u8
-#EXTINF:-1,SportTV 4 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3615.m3u8
-#EXTINF:-1,SportTV 4 4K PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/15021.m3u8
-#EXTINF:-1,SportTV 5 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2674.m3u8
-#EXTINF:-1,SportTV 5 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/48359.m3u8
-#EXTINF:-1,SportTV 5 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/3614.m3u8
-#EXTINF:-1,SportTV UHD 4K PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/15064.m3u8
-#EXTINF:-1,SportTV NBA HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62545.m3u8
-#EXTINF:-1,SportTV NBA FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62546.m3u8
-#EXTINF:-1,BTV 1 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13247.m3u8
-#EXTINF:-1,BTV 1 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2767.m3u8
-#EXTINF:-1,BTV 1 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2766.m3u8
-#EXTINF:-1,Eleven Sports 1 HD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22714.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22713.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD 4:3 VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/16066.m3u8
-#EXTINF:-1,Eleven Sports 2 HD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22716.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22715.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD 4:3 VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/16065.m3u8
-#EXTINF:-1,Eleven Sports 3 HD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22718.m3u8
-#EXTINF:-1,Eleven Sports 3 FHD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22717.m3u8
-#EXTINF:-1,Eleven Sports 3 FHD 4:3 VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/16064.m3u8
-#EXTINF:-1,Eleven Sports 4 HD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22720.m3u8
-#EXTINF:-1,Eleven Sports 4 FHD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22719.m3u8
-#EXTINF:-1,Eleven Sports 4 FHD 4:3 VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/16063.m3u8
-#EXTINF:-1,Eleven Sports 5 HD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22722.m3u8
-#EXTINF:-1,Eleven Sports 5 FHD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22721.m3u8
-#EXTINF:-1,Eleven Sports 5 FHD 4:3 VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/16062.m3u8
-#EXTINF:-1,Eleven Sports 6 HD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22724.m3u8
-#EXTINF:-1,Eleven Sports 6 FHD VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/22723.m3u8
-#EXTINF:-1,Eleven Sports 6 FHD 4:3 VIP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/16061.m3u8
-#EXTINF:-1,Canal 11 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/73313.m3u8
-#EXTINF:-1,Canal 11 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/73315.m3u8
-#EXTINF:-1,Canal 11 FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/73314.m3u8
-#EXTINF:-1,Sporting TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2694.m3u8
-#EXTINF:-1,Sporting TV FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2695.m3u8
-#EXTINF:-1,A Bola TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2780.m3u8
-#EXTINF:-1,Real Madrid TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2715.m3u8
-#EXTINF:-1,Eurosport 1 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2753.m3u8
-#EXTINF:-1,Eurosport 1 HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2752.m3u8
-#EXTINF:-1,Eurosport 2 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2751.m3u8
-#EXTINF:-1,PFC PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2717.m3u8
-#EXTINF:-1,Motorvision TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2727.m3u8
-#EXTINF:-1,Kombat Sport PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2731.m3u8
-#EXTINF:-1,Fight Network FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2749.m3u8
-#EXTINF:-1,Fuel TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2738.m3u8
-#EXTINF:-1,Fuel TV FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2747.m3u8
-#EXTINF:-1,========== Música ==========
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13977.m3u8
-#EXTINF:-1,MTV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2724.m3u8
-#EXTINF:-1,MTV DANCE PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62542.m3u8
-#EXTINF:-1,MTV MUSIC PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62540.m3u8
-#EXTINF:-1,MTV ROCKS PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62541.m3u8
-#EXTINF:-1,VH1 PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5613.m3u8
-#EXTINF:-1,Trace Urban PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5612.m3u8
-#EXTINF:-1,MCM POP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2730.m3u8
-#EXTINF:-1,MCM TOP PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2729.m3u8
-#EXTINF:-1,Mezzo PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5610.m3u8
-#EXTINF:-1,C-Music TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5611.m3u8
-#EXTINF:-1,Afro Music PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2778.m3u8
-#EXTINF:-1,========== Documentários ==========
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/13978.m3u8
-#EXTINF:-1,24 Kitchen HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/6237.m3u8
-#EXTINF:-1,24 Kitchen FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2781.m3u8
-#EXTINF:-1,ARTV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5619.m3u8
-#EXTINF:-1,BBC Entertainment PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2775.m3u8
-#EXTINF:-1,Blaze PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2779.m3u8
-#EXTINF:-1,CBS Reality PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2760.m3u8
-#EXTINF:-1,Canal Q PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5618.m3u8
-#EXTINF:-1,Caça Vision PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2764.m3u8
-#EXTINF:-1,Caça e Pesca PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2765.m3u8
-#EXTINF:-1,Discovery Channel PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2757.m3u8
-#EXTINF:-1,Discovery Showcase HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2756.m3u8
-#EXTINF:-1,Investigation Discovery FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/72122.m3u8
-#EXTINF:-1,E! PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2754.m3u8
-#EXTINF:-1,Fashion TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2748.m3u8
-#EXTINF:-1,História PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2735.m3u8
-#EXTINF:-1,LocalVisão TV HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2744.m3u8
-#EXTINF:-1,My Cuisine PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2721.m3u8
-#EXTINF:-1,National Geographic FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2720.m3u8
-#EXTINF:-1,Nat Geo Wild PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2723.m3u8
-#EXTINF:-1,Nat Geo Wild FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2722.m3u8
-#EXTINF:-1,Crime + Investigation PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/62539.m3u8
-#EXTINF:-1,Odisseia PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2718.m3u8
-#EXTINF:-1,TLC PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2691.m3u8
-#EXTINF:-1,Dog TV FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/73312.m3u8
-#EXTINF:-1,Zap Viva FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/73311.m3u8
-#EXTINF:-1,Travel Channel HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2689.m3u8
-#EXTINF:-1,Toros TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/2690.m3u8
-#EXTINF:-1,TV Fatima PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5617.m3u8
-#EXTINF:-1,Canção Nova PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/5620.m3u8
-#EXTINF:-1,Kuriakos TV FHD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/33164.m3u8
-#EXTINF:-1,Kuriakos TV HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/33165.m3u8
-#EXTINF:-1,Kuriakos TV PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/33166.m3u8
-#EXTINF:-1,TV Maná HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/33167.m3u8
-#EXTINF:-1,Sobrenatural TV HD PT
-http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1/XLcjhKVHhj/33163.m3u8
+#EXTM3U
+#EXTINF:-1,|PT| 24KITCHEN
+http://tv.bestiptv-shop.com:7000/873974867/439074973/257
+#EXTINF:-1,|PT| A BOLA TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/207
+#EXTINF:-1,|PT| AFRO MUSIC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/205
+#EXTINF:-1,|PT| AMC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/256
+#EXTINF:-1,|PT| AXN Black
+http://tv.bestiptv-shop.com:7000/873974867/439074973/204
+#EXTINF:-1,|PT| AXN BLACK HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/160
+#EXTINF:-1,|PT| AXN HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/203
+#EXTINF:-1,|PT| AXN WHITE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/202
+#EXTINF:-1,|PT| BABY FIRST
+http://tv.bestiptv-shop.com:7000/873974867/439074973/166
+#EXTINF:-1,|PT| BABY TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/255
+#EXTINF:-1,|PT| BBC ENTERTAINMENT
+http://tv.bestiptv-shop.com:7000/873974867/439074973/165
+#EXTINF:-1,|PT| BBC WORLD NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/164
+#EXTINF:-1,|PT| BENIFICA TV1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/201
+#EXTINF:-1,|PT| BENIFICA TV1HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/200
+#EXTINF:-1,|PT| BIGGS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/254
+#EXTINF:-1,|PT| BLAZE
+http://tv.bestiptv-shop.com:7000/873974867/439074973/206
+#EXTINF:-1,|PT| BTV 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/163
+#EXTINF:-1,|PT| CAZA Y PESCA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/199
+#EXTINF:-1,|PT| CANAL HISTORIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/253
+#EXTINF:-1,|PT| CANAL PANDA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/252
+#EXTINF:-1,|PT| CANAL Q
+http://tv.bestiptv-shop.com:7000/873974867/439074973/251
+#EXTINF:-1,|PT| CASAVISION
+http://tv.bestiptv-shop.com:7000/873974867/439074973/249
+#EXTINF:-1,|PT| CBS REALITY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/248
+#EXTINF:-1,|PT| CINEMUNDO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/247
+#EXTINF:-1,|PT| CM TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/198
+#EXTINF:-1,|PT| CNN
+http://tv.bestiptv-shop.com:7000/873974867/439074973/162
+#EXTINF:-1,|PT| DISCOVERY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/197
+#EXTINF:-1,|PT| DISCOVERY SHOWCASE FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/168
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/246
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://tv.bestiptv-shop.com:7000/873974867/439074973/245
+#EXTINF:-1,|PT| E!
+http://tv.bestiptv-shop.com:7000/873974867/439074973/196
+#EXTINF:-1,|PT| EURONEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/159
+#EXTINF:-1,|PT| EUROSPORT 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/244
+#EXTINF:-1,|PT| EUROSPORT 1HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/154
+#EXTINF:-1,|PT| EUROSPORT 2
+http://tv.bestiptv-shop.com:7000/873974867/439074973/243
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/153
+#EXTINF:-1,|PT| FOOD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/242
+#EXTINF:-1,|PT| FOX COMEDY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/167
+#EXTINF:-1,|PT| FOX CRIME HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/195
+#EXTINF:-1,|PT| FOX HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/194
+#EXTINF:-1,|PT| FOX LIFE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/241
+#EXTINF:-1,|PT| FOX MOVIES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/240
+#EXTINF:-1,|PT| FOXCRIME HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/158
+#EXTINF:-1,|PT| FUEL TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/239
+#EXTINF:-1,|PT| GLOBO NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/157
+#EXTINF:-1,|PT| GLOBO PREM
+http://tv.bestiptv-shop.com:7000/873974867/439074973/193
+#EXTINF:-1,|PT| HOLLYWOOD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/238
+#EXTINF:-1,|PT| JIM JAM
+http://tv.bestiptv-shop.com:7000/873974867/439074973/237
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://tv.bestiptv-shop.com:7000/873974867/439074973/236
+#EXTINF:-1,|PT| MCS Lifestyle
+http://tv.bestiptv-shop.com:7000/873974867/439074973/235
+#EXTINF:-1,|PT| MOTORSPORT TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/234
+#EXTINF:-1,|PT| MOTORVISION
+http://tv.bestiptv-shop.com:7000/873974867/439074973/233
+#EXTINF:-1,|PT| MTV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/191
+#EXTINF:-1,|PT| NAT GEO HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/192
+#EXTINF:-1,|PT| NAT GEO WILD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/190
+#EXTINF:-1,|PT| NBA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/232
+#EXTINF:-1,|PT| NICKELODEON
+http://tv.bestiptv-shop.com:7000/873974867/439074973/231
+#EXTINF:-1,|PT| ODISSEIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/189
+#EXTINF:-1,|PT| PFC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/188
+#EXTINF:-1,|PT| PORTO CANAL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/230
+#EXTINF:-1,|PT| RECORD NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/259
+#EXTINF:-1,|PT| RTP 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/170
+#EXTINF:-1,|PT| RTP 2
+http://tv.bestiptv-shop.com:7000/873974867/439074973/169
+#EXTINF:-1,|PT| RTP 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/152
+#EXTINF:-1,|PT| RTP ACORES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/229
+#EXTINF:-1,|PT| RTP AFRICA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/258
+#EXTINF:-1,|PT| RTP MADEIRA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/161
+#EXTINF:-1,|PT| RTP MEMORIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/228
+#EXTINF:-1,|PT| RTP1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/187
+#EXTINF:-1,|PT| RTP3
+http://tv.bestiptv-shop.com:7000/873974867/439074973/186
+#EXTINF:-1,|PT| SIC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/185
+#EXTINF:-1,|PT| SIC CARAS HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/184
+#EXTINF:-1,|PT| SIC HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/227
+#EXTINF:-1,|PT| SIC K
+http://tv.bestiptv-shop.com:7000/873974867/439074973/183
+#EXTINF:-1,|PT| SIC MULHER
+http://tv.bestiptv-shop.com:7000/873974867/439074973/226
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/225
+#EXTINF:-1,|PT| SIC RADICAL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/224
+#EXTINF:-1,|PT| SPORT TV+ FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/181
+#EXTINF:-1,|PT| SPORT TV1 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/182
+#EXTINF:-1,|PT| SPORT TV1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/223
+#EXTINF:-1,|PT| SPORT TV2 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/180
+#EXTINF:-1,|PT| SPORT TV2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/222
+#EXTINF:-1,|PT| SPORT TV3 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/179
+#EXTINF:-1,|PT| SPORT TV3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/221
+#EXTINF:-1,|PT| SPORT TV4 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/178
+#EXTINF:-1,|PT| SPORT TV4 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/220
+#EXTINF:-1,|PT| SPORT TV5 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/219
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541369
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541368
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541367
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541366
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541365
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541364
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541363
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541362
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541361
+#EXTINF:-1,|PT| SPORTING TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/177
+#EXTINF:-1,|PT| SYFY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/218
+#EXTINF:-1,|PT| SYFY HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/156
+#EXTINF:-1,|PT| TLC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/176
+#EXTINF:-1,|PT| TOROS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/217
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/216
+#EXTINF:-1,|PT| TV GLOBO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/215
+#EXTINF:-1,|PT| TV RECORD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/214
+#EXTINF:-1,|PT| TV SERIE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/155
+#EXTINF:-1,|PT| TV SERIES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/213
+#EXTINF:-1,|PT| TVCINE 1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/175
+#EXTINF:-1,|PT| TVCINE 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/174
+#EXTINF:-1,|PT| TVCINE 3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/173
+#EXTINF:-1,|PT| TVCINE 4 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/172
+#EXTINF:-1,|PT| TVI
+http://tv.bestiptv-shop.com:7000/873974867/439074973/171
+#EXTINF:-1,|PT| TVI FICCAO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/212
+#EXTINF:-1,|PT| TVI HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/211
+#EXTINF:-1,|PT| TVI REALITY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/210
+#EXTINF:-1,|PT| TVI24
+http://tv.bestiptv-shop.com:7000/873974867/439074973/209
+#EXTINF:-1,|PT| MCS LIFE STYLE
+http://tv.bestiptv-shop.com:7000/873974867/439074973/208
