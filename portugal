@@ -12,313 +12,235 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1
 #EXTM3U
-#EXTINF:-1,PT-Sport_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6106
-#EXTINF:-1,PT-Sport_TV_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6105
-#EXTINF:-1,PT-Sport_TV_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6104
-#EXTINF:-1,PT-Sport_TV_1_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6100
-#EXTINF:-1,PT-Sport_TV_1_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6103
-#EXTINF:-1,PT-Sport_TV_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6099
-#EXTINF:-1,PT-Sport_TV_2_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6096
-#EXTINF:-1,PT-Sport_TV_2_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6098
-#EXTINF:-1,PT-Sport_TV_3_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6093
-#EXTINF:-1,PT-Sport_TV_3
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6095
-#EXTINF:-1,PT-Sport_TV_3_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6094
-#EXTINF:-1,PT-Sport_TV_4_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6090
-#EXTINF:-1,PT-Sport_TV_4
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6092
-#EXTINF:-1,PT-Sport_TV_4_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6091
-#EXTINF:-1,PT-Sport_TV_5
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6089
-#EXTINF:-1,PT-Sport_TV_5_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6086
-#EXTINF:-1,PT-Sport_TV_5_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6088
-#EXTINF:-1,PT-Sporting_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6078
-#EXTINF:-1,PT-Sporting_TV_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6077
-#EXTINF:-1,PT-TV_Globo
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2169
-#EXTINF:-1,PT-Globo_now
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6016
-#EXTINF:-1,PT-Globo_Premium
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6015
-#EXTINF:-1,PT-RTP_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2173
-#EXTINF:-1,PT-RTP_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2172
-#EXTINF:-1,PT-RTP_3 HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6127
-#EXTINF:-1,PT-RTP_1_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6131
-#EXTINF:-1,PT-RTP_2_FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6130
-#EXTINF:-1,PT-RTP_A
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6117
-#EXTINF:-1,PT-RTP_Africa
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6116
-#EXTINF:-1,PT-RTP_Madeira
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6118
-#EXTINF:-1,PT-SIC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5606
-#EXTINF:-1,PT-SIC_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6129
-#EXTINF:-1,PT-SIC_Radical_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6058
-#EXTINF:-1,PT-Sic_Radical
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3405
-#EXTINF:-1,PT-Sic_Mulher
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3406
-#EXTINF:-1,PT-SIC Noticias
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5966
-#EXTINF:-1,PT-Record
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3408
-#EXTINF:-1,PT-REDE TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6012
-#EXTINF:-1,PT-Benfica TV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6014
-#EXTINF:-1,PT-TV_Record_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6013
-#EXTINF:-1,PT-TVCine1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2168
-#EXTINF:-1,PT-TVCine2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2167
-#EXTINF:-1,PT-TVCine3
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2166
-#EXTINF:-1,PT-TVCine4
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5699
-#EXTINF:-1,PT-TVCine_1_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6053
-#EXTINF:-1,PT-TVCine_2_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6052
-#EXTINF:-1,PT-TVCine_3_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6051
-#EXTINF:-1,PT-TVCine_4_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6049
-#EXTINF:-1,PT-TVSeries_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6048
-#EXTINF:-1,PT-TVE_24_Horas
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6029
-#EXTINF:-1,PT-TVE_Internacional
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6028
-#EXTINF:-1,PT-TVI_24
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6126
-#EXTINF:-1,PT-TVI_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6128
-#EXTINF:-1,PT-TVI_Reality
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6123
-#EXTINF:-1,PT-TVI_Reality_Mosaico
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6122
-#EXTINF:-1,PT-24_Kitchen_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6027
-#EXTINF:-1,PT-A_Bola_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6075
-#EXTINF:-1,PT-JIMJAM
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5607
-#EXTINF:-1,PT-A&E
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6026
-#EXTINF:-1,PT-Afro_Music_Channel
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6000
-#EXTINF:-1,PT-AMC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6032
-#EXTINF:-1,PT-AMC_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6033
-#EXTINF:-1,PT-AXN_Black_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6037
-#EXTINF:-1,PT-AXN_HD_(F)
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6040
-#EXTINF:-1,PT-AXN_White_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6039
-#EXTINF:-1,PT-Blaze
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6038
-#EXTINF:-1,PT-SIC_K
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6057
-#EXTINF:-1,PT-Baby_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6056
-#EXTINF:-1,PT-Cartoon_Network
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6061
-#EXTINF:-1,PT-Sic kids
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5989
-#EXTINF:-1,PT-CBS_R
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6020
-#EXTINF:-1,PT-Trace Urban TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6113
-#EXTINF:-1,PT-PANDA Biggs
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6059
-#EXTINF:-1,PT-Bloomberg
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6109
-#EXTINF:-1,PT-BTV_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6085
-#EXTINF:-1,PT-BTV_1_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6083
-#EXTINF:-1,PT-Canal_Panda
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6060
-#EXTINF:-1,PT-Canal Odisseia
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6119
-#EXTINF:-1,PT-Caza_e_Pesca
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5988
-#EXTINF:-1,PT-CBS_Reality
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6111
-#EXTINF:-1,PT-FORCES_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6073
-#EXTINF:-1,PT-Cinemundo
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6045
-#EXTINF:-1,PT-CMTV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6125
-#EXTINF:-1,PT-Fox_Movies
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2170
-#EXTINF:-1,PT-SIC_Caras
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2171
-#EXTINF:-1,PT-Fox_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2175
-#EXTINF:-1,PT-Fox_Crime
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2176
-#EXTINF:-1,PT-Fox_Comedy
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2177
-#EXTINF:-1,PT-Disney_Junior
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2178
-#EXTINF:-1,PT-Disney_Channel
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/2179
-#EXTINF:-1,PT-TVI
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5702
-#EXTINF:-1,PT-TVI_Ficcao
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3402
-#EXTINF:-1,PT-TV_Cseries
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3403
-#EXTINF:-1,PT-BTV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5700
-#EXTINF:-1,PT-CMTV FHD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5701
-#EXTINF:-1,PT-Travel Channel HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5698
-#EXTINF:-1,PT-Toros_tv
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3404
-#EXTINF:-1,PT-RTP_Memoria
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3407
-#EXTINF:-1,PT-Motors_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3409
-#EXTINF:-1,PT-Jim_Jim
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3410
-#EXTINF:-1,PT-Nat Geo Wild
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5608
-#EXTINF:-1,PT-Discovery_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3411
-#EXTINF:-1,PT-Canal_Porto
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3412
-#EXTINF:-1,PT-AXN_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3413
-#EXTINF:-1,PT-Abola_tv
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/3414
-#EXTINF:-1,PT-Crime_Investigation_CI
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6031
-#EXTINF:-1,PT-Discovery_Channel
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5999
-#EXTINF:-1,PT-Discovery_Showcase_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5998
-#EXTINF:-1,PT-MOV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6120
-#EXTINF:-1,PT-E!_Entertainment
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6024
-#EXTINF:-1,PT-Eurosport_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6072
-#EXTINF:-1,PT-Eurosport_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6070
-#EXTINF:-1,PT-Eurosport_News
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6069
-#EXTINF:-1,PT-Fashion_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6110
-#EXTINF:-1,PT-Fight_Network_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6066
-#EXTINF:-1,PT-Fine_Living_Network_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6021
-#EXTINF:-1,PT-Food_Network_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6022
-#EXTINF:-1,PT-FOX_Comedy_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6041
-#EXTINF:-1,PT-FOX_Crime_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6042
-#EXTINF:-1,PT-FOX_Life_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6043
-#EXTINF:-1,PT-FOX_Movies_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6044
-#EXTINF:-1,PT-FOX_News
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6107
-#EXTINF:-1,PT-Fuel_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6064
-#EXTINF:-1,PT-Hollywood
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6047
-#EXTINF:-1,PT-Hollywood_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6046
-#EXTINF:-1,PT-Kuriakos
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5994
-#EXTINF:-1,PT-Localvisao_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6121
-#EXTINF:-1,PT-MCM_TOP
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6006
-#EXTINF:-1,PT-MCS_Extreme
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5991
-#EXTINF:-1,PT-MCS_LifeStyle
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5990
-#EXTINF:-1,PT-Motors TV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6068
-#EXTINF:-1,PT-MTV_Portugal
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6011
-#EXTINF:-1,PT-Nat_Geo_Wild
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5996
-#EXTINF:-1,PT-NBA HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5995
-#EXTINF:-1,PT-National_Geographic_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5997
-#EXTINF:-1,PT-Nickelodeon
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6062
-#EXTINF:-1,PT-Chelsea TV HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5992
-#EXTINF:-1,PT-Outdoor_Channel_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6065
-#EXTINF:-1,PT-PFC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6017
-#EXTINF:-1,PT-Historia
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5993
-#EXTINF:-1,PT-Porto_Canal
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6115
-#EXTINF:-1,PT-Real_Madrid_TV
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6074
-#EXTINF:-1,PT-europe_News
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6108
-#EXTINF:-1,PT-TPA (Angola)
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6004
-#EXTINF:-1,PT-SyFy
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6035
-#EXTINF:-1,PT-SyFy_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6034
-#EXTINF:-1,PT-TLC
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6025
-#EXTINF:-1,PT-VH1 EUROPE
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6005
-#EXTINF:-1,PT-Travel_Channel_HD
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6023
-#EXTINF:-1,PT-VH1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6009
-#EXTINF:-1,PT-VH1_Classic
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/6008
-#EXTINF:-1,PT-trc_Exclusiva_1
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5987
-#EXTINF:-1,PT-trc_Exclusiva_2
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5986
-#EXTINF:-1,PT-trc_Exclusiva_3
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5985
-#EXTINF:-1,PT-trc_Exclusiva_4
-http://best4u.tn:8000/BFKjc0zyYB/ygYlyT3uEG/5984
+#EXTINF:-1,|PT| 24KITCHEN
+http://tv.bestiptv-shop.com:7000/873974867/439074973/257
+#EXTINF:-1,|PT| A BOLA TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/207
+#EXTINF:-1,|PT| AFRO MUSIC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/205
+#EXTINF:-1,|PT| AMC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/256
+#EXTINF:-1,|PT| AXN Black
+http://tv.bestiptv-shop.com:7000/873974867/439074973/204
+#EXTINF:-1,|PT| AXN BLACK HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/160
+#EXTINF:-1,|PT| AXN HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/203
+#EXTINF:-1,|PT| AXN WHITE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/202
+#EXTINF:-1,|PT| BABY FIRST
+http://tv.bestiptv-shop.com:7000/873974867/439074973/166
+#EXTINF:-1,|PT| BABY TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/255
+#EXTINF:-1,|PT| BBC ENTERTAINMENT
+http://tv.bestiptv-shop.com:7000/873974867/439074973/165
+#EXTINF:-1,|PT| BBC WORLD NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/164
+#EXTINF:-1,|PT| BENIFICA TV1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/201
+#EXTINF:-1,|PT| BENIFICA TV1HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/200
+#EXTINF:-1,|PT| BIGGS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/254
+#EXTINF:-1,|PT| BLAZE
+http://tv.bestiptv-shop.com:7000/873974867/439074973/206
+#EXTINF:-1,|PT| BTV 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/163
+#EXTINF:-1,|PT| CAZA Y PESCA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/199
+#EXTINF:-1,|PT| CANAL HISTORIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/253
+#EXTINF:-1,|PT| CANAL PANDA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/252
+#EXTINF:-1,|PT| CANAL Q
+http://tv.bestiptv-shop.com:7000/873974867/439074973/251
+#EXTINF:-1,|PT| CASAVISION
+http://tv.bestiptv-shop.com:7000/873974867/439074973/249
+#EXTINF:-1,|PT| CBS REALITY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/248
+#EXTINF:-1,|PT| CINEMUNDO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/247
+#EXTINF:-1,|PT| CM TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/198
+#EXTINF:-1,|PT| CNN
+http://tv.bestiptv-shop.com:7000/873974867/439074973/162
+#EXTINF:-1,|PT| DISCOVERY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/197
+#EXTINF:-1,|PT| DISCOVERY SHOWCASE FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/168
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/246
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://tv.bestiptv-shop.com:7000/873974867/439074973/245
+#EXTINF:-1,|PT| E!
+http://tv.bestiptv-shop.com:7000/873974867/439074973/196
+#EXTINF:-1,|PT| EURONEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/159
+#EXTINF:-1,|PT| EUROSPORT 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/244
+#EXTINF:-1,|PT| EUROSPORT 1HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/154
+#EXTINF:-1,|PT| EUROSPORT 2
+http://tv.bestiptv-shop.com:7000/873974867/439074973/243
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/153
+#EXTINF:-1,|PT| FOOD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/242
+#EXTINF:-1,|PT| FOX COMEDY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/167
+#EXTINF:-1,|PT| FOX CRIME HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/195
+#EXTINF:-1,|PT| FOX HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/194
+#EXTINF:-1,|PT| FOX LIFE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/241
+#EXTINF:-1,|PT| FOX MOVIES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/240
+#EXTINF:-1,|PT| FOXCRIME HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/158
+#EXTINF:-1,|PT| FUEL TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/239
+#EXTINF:-1,|PT| GLOBO NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/157
+#EXTINF:-1,|PT| GLOBO PREM
+http://tv.bestiptv-shop.com:7000/873974867/439074973/193
+#EXTINF:-1,|PT| HOLLYWOOD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/238
+#EXTINF:-1,|PT| JIM JAM
+http://tv.bestiptv-shop.com:7000/873974867/439074973/237
+#EXTINF:-1,|PT| KOMBAT SPORT
+http://tv.bestiptv-shop.com:7000/873974867/439074973/236
+#EXTINF:-1,|PT| MCS Lifestyle
+http://tv.bestiptv-shop.com:7000/873974867/439074973/235
+#EXTINF:-1,|PT| MOTORSPORT TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/234
+#EXTINF:-1,|PT| MOTORVISION
+http://tv.bestiptv-shop.com:7000/873974867/439074973/233
+#EXTINF:-1,|PT| MTV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/191
+#EXTINF:-1,|PT| NAT GEO HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/192
+#EXTINF:-1,|PT| NAT GEO WILD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/190
+#EXTINF:-1,|PT| NBA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/232
+#EXTINF:-1,|PT| NICKELODEON
+http://tv.bestiptv-shop.com:7000/873974867/439074973/231
+#EXTINF:-1,|PT| ODISSEIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/189
+#EXTINF:-1,|PT| PFC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/188
+#EXTINF:-1,|PT| PORTO CANAL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/230
+#EXTINF:-1,|PT| RECORD NEWS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/259
+#EXTINF:-1,|PT| RTP 1
+http://tv.bestiptv-shop.com:7000/873974867/439074973/170
+#EXTINF:-1,|PT| RTP 2
+http://tv.bestiptv-shop.com:7000/873974867/439074973/169
+#EXTINF:-1,|PT| RTP 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/152
+#EXTINF:-1,|PT| RTP ACORES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/229
+#EXTINF:-1,|PT| RTP AFRICA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/258
+#EXTINF:-1,|PT| RTP MADEIRA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/161
+#EXTINF:-1,|PT| RTP MEMORIA
+http://tv.bestiptv-shop.com:7000/873974867/439074973/228
+#EXTINF:-1,|PT| RTP1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/187
+#EXTINF:-1,|PT| RTP3
+http://tv.bestiptv-shop.com:7000/873974867/439074973/186
+#EXTINF:-1,|PT| SIC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/185
+#EXTINF:-1,|PT| SIC CARAS HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/184
+#EXTINF:-1,|PT| SIC HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/227
+#EXTINF:-1,|PT| SIC K
+http://tv.bestiptv-shop.com:7000/873974867/439074973/183
+#EXTINF:-1,|PT| SIC MULHER
+http://tv.bestiptv-shop.com:7000/873974867/439074973/226
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/225
+#EXTINF:-1,|PT| SIC RADICAL
+http://tv.bestiptv-shop.com:7000/873974867/439074973/224
+#EXTINF:-1,|PT| SPORT TV+ FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/181
+#EXTINF:-1,|PT| SPORT TV1 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/182
+#EXTINF:-1,|PT| SPORT TV1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/223
+#EXTINF:-1,|PT| SPORT TV2 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/180
+#EXTINF:-1,|PT| SPORT TV2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/222
+#EXTINF:-1,|PT| SPORT TV3 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/179
+#EXTINF:-1,|PT| SPORT TV3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/221
+#EXTINF:-1,|PT| SPORT TV4 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/178
+#EXTINF:-1,|PT| SPORT TV4 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/220
+#EXTINF:-1,|PT| SPORT TV5 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/219
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541369
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541368
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541367
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541366
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541365
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541364
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541363
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541362
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 FHD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/575541361
+#EXTINF:-1,|PT| SPORTING TV
+http://tv.bestiptv-shop.com:7000/873974867/439074973/177
+#EXTINF:-1,|PT| SYFY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/218
+#EXTINF:-1,|PT| SYFY HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/156
+#EXTINF:-1,|PT| TLC
+http://tv.bestiptv-shop.com:7000/873974867/439074973/176
+#EXTINF:-1,|PT| TOROS
+http://tv.bestiptv-shop.com:7000/873974867/439074973/217
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/216
+#EXTINF:-1,|PT| TV GLOBO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/215
+#EXTINF:-1,|PT| TV RECORD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/214
+#EXTINF:-1,|PT| TV SERIE HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/155
+#EXTINF:-1,|PT| TV SERIES
+http://tv.bestiptv-shop.com:7000/873974867/439074973/213
+#EXTINF:-1,|PT| TVCINE 1 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/175
+#EXTINF:-1,|PT| TVCINE 2 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/174
+#EXTINF:-1,|PT| TVCINE 3 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/173
+#EXTINF:-1,|PT| TVCINE 4 HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/172
+#EXTINF:-1,|PT| TVI
+http://tv.bestiptv-shop.com:7000/873974867/439074973/171
+#EXTINF:-1,|PT| TVI FICCAO
+http://tv.bestiptv-shop.com:7000/873974867/439074973/212
+#EXTINF:-1,|PT| TVI HD
+http://tv.bestiptv-shop.com:7000/873974867/439074973/211
+#EXTINF:-1,|PT| TVI REALITY
+http://tv.bestiptv-shop.com:7000/873974867/439074973/210
+#EXTINF:-1,|PT| TVI24
+http://tv.bestiptv-shop.com:7000/873974867/439074973/209
+#EXTINF:-1,|PT| MCS LIFE STYLE
+http://tv.bestiptv-shop.com:7000/873974867/439074973/208
