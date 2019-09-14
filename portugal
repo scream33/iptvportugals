@@ -12,155 +12,233 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1
 #EXTM3U
-#EXTINF:-1,PT: A&E
-http://212.8.243.9:80/AV7q/1xnzi17EKn/2214
+#EXTINF:-1,PT:  Fox Crime
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41140
+#EXTINF:-1,PT:  Historia
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41141
+#EXTINF:-1,PT: 24 KITCHEN
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41142
+#EXTINF:-1,PT: A & E
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41143
+#EXTINF:-1,PT: A BOLA TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41144
+#EXTINF:-1,PT: AMC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41145
+#EXTINF:-1,PT: AMC HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41138
 #EXTINF:-1,PT: AXN
-http://212.8.243.9:80/AV7q/1xnzi17EKn/2692
-#EXTINF:-1,PT: AXN Black
-http://212.8.243.9:80/AV7q/1xnzi17EKn/2690
-#EXTINF:-1,PT: National Geographic
-http://212.8.243.9:80/AV7q/1xnzi17EKn/4712
-#EXTINF:-1,PT: ODISSEIA
-http://212.8.243.9:80/AV7q/1xnzi17EKn/4572
-#EXTINF:-1,PT: RTP ِِِACores
-http://212.8.243.9:80/AV7q/1xnzi17EKn/2210
-#EXTINF:-1,PT: RTP Memoria
-http://212.8.243.9:80/AV7q/1xnzi17EKn/2208
-#EXTINF:-1,PT: Sic
-http://212.8.243.9:80/AV7q/1xnzi17EKn/4710
-#EXTINF:-1,PT: Sic Caras
-http://212.8.243.9:80/AV7q/1xnzi17EKn/4575
-#EXTINF:-1,PT: Sic Mulher
-http://212.8.243.9:80/AV7q/1xnzi17EKn/4576
-#EXTINF:-1,PT: ID HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/2686
-#EXTINF:-1,PT: 24 KITCHEN HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24984
-#EXTINF:-1,PT: AFRO MUSIC CHANNEL
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24981
-#EXTINF:-1,PT: AMC FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24980
-#EXTINF:-1,PT: AXN White HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24976
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41146
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41137
+#EXTINF:-1,PT: AXN HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41136
+#EXTINF:-1,PT: AXN WHITE
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41147
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41135
 #EXTINF:-1,PT: BABY TV
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24974
-#EXTINF:-1,PT: Benfica TV HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24972
-#EXTINF:-1,PT: BLOOMBERG
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24967
-#EXTINF:-1,PT: CACA E PESCA
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24962
-#EXTINF:-1,PT: CANAL TOROS
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24952
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41148
+#EXTINF:-1,PT: BENFICA TV 1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41149
+#EXTINF:-1,PT: BENFICA TV 2
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41150
+#EXTINF:-1,PT: BTV 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41134
+#EXTINF:-1,PT: CAÇA & PESCA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41151
+#EXTINF:-1,PT: CANAL HISTÓRIA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41152
+#EXTINF:-1,PT: CANAL PANDA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41153
+#EXTINF:-1,PT: CANAL Q
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41154
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41155
 #EXTINF:-1,PT: CBS REALITY
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24943
-#EXTINF:-1,PT: Chelsea TV HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24941
-#EXTINF:-1,PT: Cine Mundo HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24934
-#EXTINF:-1,PT: CMTV HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24932
-#EXTINF:-1,PT: Crimen & Investigation
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24930
-#EXTINF:-1,PT: Discovery Channel HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24929
-#EXTINF:-1,PT: Disney Channel HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24926
-#EXTINF:-1,PT: Disney JR
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24925
-#EXTINF:-1,PT: E! Entertainment HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24923
-#EXTINF:-1,PT: Eleven Sports 2 HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24920
-#EXTINF:-1,PT: Eurosport 2 HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24911
-#EXTINF:-1,PT: Fox Comedy HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24906
-#EXTINF:-1,PT: FOX HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24904
-#EXTINF:-1,PT: Fox Life HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24903
-#EXTINF:-1,PT: Fox Movies HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24902
-#EXTINF:-1,PT: Fuel TV HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24901
-#EXTINF:-1,PT: Globo Now HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24898
-#EXTINF:-1,PT: Historia HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24896
-#EXTINF:-1,PT: Hollywood HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24894
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41156
+#EXTINF:-1,PT: CINEMUNDO
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41157
+#EXTINF:-1,PT: CM TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41158
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41159
+#EXTINF:-1,PT: Discovery HD Showcase
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41160
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41161
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41162
+#EXTINF:-1,PT: E! Entertainment
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41163
+#EXTINF:-1,PT: EUROSPORT
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41164
+#EXTINF:-1,PT: Eurosport 1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41109
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41133
+#EXTINF:-1,PT: Eurosport new
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41110
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41132
+#EXTINF:-1,PT: Fox Comedy
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41165
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41131
+#EXTINF:-1,PT: FOX CRIME
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41166
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41130
+#EXTINF:-1,PT: FOX HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41129
+#EXTINF:-1,PT: FOX LIFE
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41167
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41128
+#EXTINF:-1,PT: FOX MOVIES
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41168
+#EXTINF:-1,PT: FOX TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41169
+#EXTINF:-1,PT: FUEL TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41170
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41127
+#EXTINF:-1,PT: GLOBO
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41171
+#EXTINF:-1,PT: HOLLYWOOD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41172
 #EXTINF:-1,PT: JIM JAM
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24893
-#EXTINF:-1,PT: Kombat Sports
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24891
-#EXTINF:-1,PT: Localvisao
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24889
-#EXTINF:-1,PT: NAT GEO HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24876
-#EXTINF:-1,PT: Nat Geo Wild HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24875
-#EXTINF:-1,PT: NBA HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24874
-#EXTINF:-1,PT: Niclelodeon HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24872
-#EXTINF:-1,PT: PFC HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24868
-#EXTINF:-1,PT: PORTO
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24866
-#EXTINF:-1,PT: Real Madrid TV
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24861
-#EXTINF:-1,PT: RTP 1 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24857
-#EXTINF:-1,PT: RTP 2 HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24856
-#EXTINF:-1,PT: RTP 3 HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24855
-#EXTINF:-1,PT: RTP Ã§ores
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24846
-#EXTINF:-1,PT: RTP ÁFRICA HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24847
-#EXTINF:-1,PT: RTP International
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24851
-#EXTINF:-1,PT: Sic K HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24842
-#EXTINF:-1,PT: SIC NOTICIAS HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24839
-#EXTINF:-1,PT: SIC Radical HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24838
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24836
-#EXTINF:-1,PT: SPORT TV 2 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24835
-#EXTINF:-1,PT: SPORT TV 3 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24834
-#EXTINF:-1,PT: SPORT TV HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24831
-#EXTINF:-1,PT: SPORTING TV HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24828
-#EXTINF:-1,PT: TLC EUROPE
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24817
-#EXTINF:-1,PT: Trace
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24812
-#EXTINF:-1,PT: Travel Channel FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24810
-#EXTINF:-1,PT: TV Galicia
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24809
-#EXTINF:-1,PT: TVC Series HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24798
-#EXTINF:-1,PT: TVCine 1 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24797
-#EXTINF:-1,PT: TVCine 2 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24796
-#EXTINF:-1,PT: TVCine 3 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24795
-#EXTINF:-1,PT: TVCine 4 FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24794
-#EXTINF:-1,PT: TVI FHD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24788
-#EXTINF:-1,PT: TVI Ficcao HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24787
-#EXTINF:-1,PT: TVI Reality HD
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24784
-#EXTINF:-1,PT: VH1 Classic
-http://212.8.243.9:80/AV7q/1xnzi17EKn/24782
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41173
+#EXTINF:-1,PT: MOTORS TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41174
+#EXTINF:-1,PT: MOTORVISION
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41175
+#EXTINF:-1,PT: MOTORVISION TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41176
+#EXTINF:-1,PT: MOV HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41177
+#EXTINF:-1,PT: Mtv Portuga
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41178
+#EXTINF:-1,PT: MTV PORTUGAL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41179
+#EXTINF:-1,PT: Nat Geo Wild
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41181
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41180
+#EXTINF:-1,PT: NICKELODEON
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41182
+#EXTINF:-1,PT: ODISSEIA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41183
+#EXTINF:-1,PT: PFC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41184
+#EXTINF:-1,PT: PORTO CANAL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41185
+#EXTINF:-1,PT: RTP 1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41186
+#EXTINF:-1,PT: RTP 2
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41187
+#EXTINF:-1,PT: RTP 3
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41188
+#EXTINF:-1,PT: RTP AÇORES
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41189
+#EXTINF:-1,PT: RTP ÁFRICA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41190
+#EXTINF:-1,PT: RTP MADEIRA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41139
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41191
+#EXTINF:-1,PT: Sic
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41192
+#EXTINF:-1,PT: SIC MULHER
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41193
+#EXTINF:-1,PT: SIC NOTICIAS
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41194
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41126
+#EXTINF:-1,PT: SIC RADICAL
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41195
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41125
+#EXTINF:-1,PT: SPORT TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41124
+#EXTINF:-1,PT: SPORT TV   HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41123
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41196
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41122
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41197
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41121
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41223
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41198
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41120
+#EXTINF:-1,PT: SPORT TV 3HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41111
+#EXTINF:-1,PT: SPORT TV 4
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41199
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41119
+#EXTINF:-1,PT: SPORT TV 4HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41200
+#EXTINF:-1,PT: SPORT TV 5
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41201
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41118
+#EXTINF:-1,PT: SPORT TV 5HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41202
+#EXTINF:-1,PT: SPORTING TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41203
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41117
+#EXTINF:-1,PT: SYFY
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41204
+#EXTINF:-1,PT: SyFy HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41116
+#EXTINF:-1,PT: TLC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41205
+#EXTINF:-1,PT: TOUROS TV
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41206
+#EXTINF:-1,PT: TV CINE 1  HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41207
+#EXTINF:-1,PT: TV CINE 2  HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41208
+#EXTINF:-1,PT: TV CINE 3 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41209
+#EXTINF:-1,PT: TV CINE 4
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41210
+#EXTINF:-1,PT: TV GLOBO
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41211
+#EXTINF:-1,PT: TV Globo Premium
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41212
+#EXTINF:-1,PT: TV RECORD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41213
+#EXTINF:-1,PT: TVC HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41214
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41115
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41114
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41113
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41112
+#EXTINF:-1,PT: TVCseries
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41215
+#EXTINF:-1,PT: TVI
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41216
+#EXTINF:-1,PT: TVI 24
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41217
+#EXTINF:-1,PT: TVI REALITY
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41218
+#EXTINF:-1,PT: TVI Reality (A Quinta)
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41219
+#EXTINF:-1,PT: VH1
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41220
+#EXTINF:-1,PT: VH1 CLASSIC
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41221
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://vipfootball.xyz:8080/fahriaydogan/aydogan/41222
