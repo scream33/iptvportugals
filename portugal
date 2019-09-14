@@ -11,127 +11,265 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
 #EXTINF:-1,PT| [COLOR yellow][I][B]BENFICA[/B][/I][/COLOR](005)
 http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16894.m3u8
-#EXTINF:-1,PT| BENFICA (005)
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16894.m3u8
-#EXTINF:-1,PT| DISCOVERY CHANNEL (006)
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16893.m3u8
-#EXTINF:-1,PT| DISNEY CHANNEL (007)
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16892.m3u8
-#EXTINF:-1,PT| DISNEY JUNIOR (008)
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16891.m3u8
-#EXTINF:-1,PT| E! Entertainment (009)
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16890.m3u8
-#EXTINF:-1,PT| EUROSPORT 1 FHD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16743.m3u8
-#EXTINF:-1,PT| EUROSPORT 2 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16742.m3u8
-#EXTINF:-1,PT| Sport TV 1 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16741.m3u8
-#EXTINF:-1,PT| Sport TV 2 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16740.m3u8
-#EXTINF:-1,PT| Sport TV 3 FHD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16739.m3u8
-#EXTINF:-1,PT| Sport TV Plus  HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16738.m3u8
-#EXTINF:-1,PT| SPORTING TV HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16737.m3u8
-#EXTINF:-1,PT| TV CINE 1 HD (010)
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16889.m3u8
-#EXTINF:-1,Brasil | A&E
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19557.m3u8
-#EXTINF:-1,Brasil | Animal Planet
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19556.m3u8
-#EXTINF:-1,Brasil | AXN
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19555.m3u8
-#EXTINF:-1,Brasil | Boomerang
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19554.m3u8
-#EXTINF:-1,Brasil | Canal Sony
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19553.m3u8
-#EXTINF:-1,Brasil | Cartoon Network
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19552.m3u8
-#EXTINF:-1,Brasil | Cinemax
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19551.m3u8
-#EXTINF:-1,Brasil | Comedy Central
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19550.m3u8
-#EXTINF:-1,Brasil | Discovery
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19549.m3u8
-#EXTINF:-1,Brasil | Discovery Civilization
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19548.m3u8
-#EXTINF:-1,Brasil | Discovery Home Health
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19547.m3u8
-#EXTINF:-1,Brasil | Discovery Turbo
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19546.m3u8
-#EXTINF:-1,Brasil | Disney
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19545.m3u8
-#EXTINF:-1,Brasil | Disney Jr
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19544.m3u8
-#EXTINF:-1,Brasil | Disney XD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19543.m3u8
-#EXTINF:-1,Brasil | E!
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19527.m3u8
-#EXTINF:-1,Brasil | ESPN Brasil
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19526.m3u8
-#EXTINF:-1,Brasil | ESPN HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19525.m3u8
-#EXTINF:-1,Brasil | ESPN plus
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19524.m3u8
-#EXTINF:-1,Brasil | Fox
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19542.m3u8
-#EXTINF:-1,Brasil | Fox Life
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19541.m3u8
-#EXTINF:-1,Brasil | FOX Sports 1
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19523.m3u8
-#EXTINF:-1,Brasil | Fox Sports 2
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19522.m3u8
-#EXTINF:-1,Brasil | Globo News
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19521.m3u8
-#EXTINF:-1,Brasil | Globo Premium
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19520.m3u8
-#EXTINF:-1,Brasil | H2
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19534.m3u8
-#EXTINF:-1,Brasil | HBO
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19540.m3u8
-#EXTINF:-1,Brasil | HBO 2
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19539.m3u8
-#EXTINF:-1,Brasil | HBO Family
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19538.m3u8
-#EXTINF:-1,Brasil | HBO Plus
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19537.m3u8
-#EXTINF:-1,Brasil | HBO Signature
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19536.m3u8
-#EXTINF:-1,Brasil | History
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19535.m3u8
-#EXTINF:-1,Brasil | Investiga
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19519.m3u8
-#EXTINF:-1,Brasil | Max
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19518.m3u8
-#EXTINF:-1,Brasil | Max Prime
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19517.m3u8
-#EXTINF:-1,Brasil | National Geographic
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19533.m3u8
-#EXTINF:-1,Brasil | Nick
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19515.m3u8
-#EXTINF:-1,Brasil | Nick Jr
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19514.m3u8
-#EXTINF:-1,Brasil | Paramount
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19513.m3u8
-#EXTINF:-1,Brasil | Space
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19532.m3u8
-#EXTINF:-1,Brasil | SPORT TV 2 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16768.m3u8
-#EXTINF:-1,Brasil | SPORT TV 3 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16767.m3u8
-#EXTINF:-1,Brasil | Syfy
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19531.m3u8
-#EXTINF:-1,Brasil | TNT
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19530.m3u8
-#EXTINF:-1,Brasil | TNT Series
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19529.m3u8
-#EXTINF:-1,Brasil | TV BRASIL CENTRAL
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19512.m3u8
-#EXTINF:-1,Brasil | TV Globo
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19511.m3u8
-#EXTINF:-1,Brasil | Universal
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19510.m3u8
-#EXTINF:-1,Brasil | Warner
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/19528.m3u8
+#EXTINF:-1,PT:RTP 1 HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2993
+#EXTINF:-1,PT: RTP 1
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2166
+#EXTINF:-1,PT: RTP 2
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2167
+#EXTINF:-1,PT: RTP 3
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2168
+#EXTINF:-1,PT:RTP 3
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2975
+#EXTINF:-1,PT: RTP Madeira
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2170
+#EXTINF:-1,PT: RTP Memoria
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2169
+#EXTINF:-1,PT: RTP Acores
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2172
+#EXTINF:-1,PT: RTP Africa
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2171
+#EXTINF:-1,PT: TV Record
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2994
+#EXTINF:-1,PT: AXN Black HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3711
+#EXTINF:-1,PT: Fox HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2193
+#EXTINF:-1,PT: Fox Life HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2194
+#EXTINF:-1,PT: Fox Movies
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3002
+#EXTINF:-1,PT: Fox Comedy
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2996
+#EXTINF:-1,PT: Fox Crime
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2195
+#EXTINF:-1,PT: Cine Mundo
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2183
+#EXTINF:-1,PT: SYFY HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2992
+#EXTINF:-1,PT: SYFY SD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3709
+#EXTINF:-1,PT: AXN White HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2192
+#EXTINF:-1,PT: AXN.HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3710
+#EXTINF:-1,PT: AXN HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2191
+#EXTINF:-1,PT:HOLLYWOOD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2965
+#EXTINF:-1,PT: MOV HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3717
+#EXTINF:-1,PT: TV Cine 1
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2178
+#EXTINF:-1,PT: TV Cine 2
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2179
+#EXTINF:-1,PT: TV Cine 3
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2180
+#EXTINF:-1,PT: TV Cine 4
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2181
+#EXTINF:-1,PT:BABY TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3006
+#EXTINF:-1,PT:CANAL PANDA
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3000
+#EXTINF:-1,PT:PANDA BIGGS
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2978
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2999
+#EXTINF:-1,PT:NICKELODEON
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2995
+#EXTINF:-1,PT: Nickelodeon
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2198
+#EXTINF:-1,PT: Disney JR
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3713
+#EXTINF:-1,PT:JIM JAM
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2981
+#EXTINF:-1,PT: Sic Kids
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3718
+#EXTINF:-1,PT: MCS EXTREME
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2970
+#EXTINF:-1,PT: Porto Canal
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3016
+#EXTINF:-1,PT: Sic Radical
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3714
+#EXTINF:-1,PT: NBA TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3716
+#EXTINF:-1,PT: LIfestyle TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3715
+#EXTINF:-1,PT:TVI REALITY
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2968
+#EXTINF:-1,PT: TV SERIES HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2969
+#EXTINF:-1,PT:TLC
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2962
+#EXTINF:-1,PT:SIC CARAS
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2974
+#EXTINF:-1,PT:REDE TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2976
+#EXTINF:-1,PT:Q CANAL
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2977
+#EXTINF:-1,PT: PFC
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2963
+#EXTINF:-1,PT:CBS REALITY
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2989
+#EXTINF:-1,PT: TV CINE 1 HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3010
+#EXTINF:-1,PT: MOTORVISION FHD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2980
+#EXTINF:-1,PT: MOTORVISION SD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2964
+#EXTINF:-1,PT:GLOBO TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2982
+#EXTINF:-1,PT:FUEL TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2966
+#EXTINF:-1,PT:EUROSPORT
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2988
+#EXTINF:-1,PT: Kombat Sports
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2997
+#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3012
+#EXTINF:-1,PT: TVI REALITY
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3001
+#EXTINF:-1,PT:CACAVISION HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2985
+#EXTINF:-1,PT: CACA E PESCA
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3014
+#EXTINF:-1,PT: ENTERTAINMENT
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2991
+#EXTINF:-1,PT:BIGGS
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3003
+#EXTINF:-1,PT: Sic
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2173
+#EXTINF:-1,PT: Sic Noticias
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2174
+#EXTINF:-1,PT: Sic Mulher
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2175
+#EXTINF:-1,PT:A&E
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3007
+#EXTINF:-1,PT: TVI
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/4924
+#EXTINF:-1,PT: Tvi 24
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2176
+#EXTINF:-1,PT: Historia
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2190
+#EXTINF:-1,PT: Nat Geo Wild
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2196
+#EXTINF:-1,PT:TRAVEL CHANNEL HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2971
+#EXTINF:-1,PT: Canal Panda
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2202
+#EXTINF:-1,PT:24KITCHEN HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3015
+#EXTINF:-1,PT: A Bola TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/16723
+#EXTINF:-1,PT: Benfica TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2188
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/15349
+#EXTINF:-1,PT: National Geographic HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/15350
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/15348
+#EXTINF:-1,PT: Sporting TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2189
+#EXTINF:-1,PT: WOOHOO
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2967
+#EXTINF:-1,PT: VH1
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3019
+#EXTINF:-1,PT: MTV PORTUGAL
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/2979
+#EXTINF:-1,BR: TVE tv
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3883
+#EXTINF:-1,BR: Vem e Ve TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3888
+#EXTINF:-1,BR: TV Diario HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3886
+#EXTINF:-1,BR: Rede Gospel TV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3117
+#EXTINF:-1,BR: Mana Sat
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3119
+#EXTINF:-1,BR: Brazil 2 HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3123
+#EXTINF:-1,BR: Aracati TV HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3124
+#EXTINF:-1,BR: Aparceida
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3125
+#EXTINF:-1,BR: A&E Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8195
+#EXTINF:-1,BR: Boomerang
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8196
+#EXTINF:-1,BR: Cartoon Network
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8197
+#EXTINF:-1,BR: Discovery Channel
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8198
+#EXTINF:-1,BR: Discovery Turbo
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8203
+#EXTINF:-1,BR: Discovery Civilization
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8199
+#EXTINF:-1,BR: Discovery Home Health
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8200
+#EXTINF:-1,BR: Disney Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8204
+#EXTINF:-1,BR: TV Faap
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8206
+#EXTINF:-1,BR: Fox Life Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8209
+#EXTINF:-1,BR: Globo News
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8211
+#EXTINF:-1,BR: Sport Tv2
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8213
+#EXTINF:-1,BR: HBO Family Brazil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8215
+#EXTINF:-1,BR: HBO Plus Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8216
+#EXTINF:-1,BR: MTV
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8217
+#EXTINF:-1,BR: History Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8218
+#EXTINF:-1,BR: Multishow
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8220
+#EXTINF:-1,BR: Nat Geo Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8221
+#EXTINF:-1,BR: Nick Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8222
+#EXTINF:-1,BR: Paramount Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8224
+#EXTINF:-1,BR: Tv Brasil.
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8227
+#EXTINF:-1,BR: Canal Tv RIO
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8228
+#EXTINF:-1,BR: Rede Records News
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8153
+#EXTINF:-1,BR: Futura Tv
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8230
+#EXTINF:-1,BR: SPORT TV 1
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8244
+#EXTINF:-1,BR: SPORT TV 2
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8243
+#EXTINF:-1,BR: SPORT TV 3
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8242
+#EXTINF:-1,BR: Sport Tv
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8232
+#EXTINF:-1,BR: Redecanais Action Cinema
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8233
+#EXTINF:-1,BR: Redecanais Animation Cinema
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8234
+#EXTINF:-1,BR: Record News  FHD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/9274
+#EXTINF:-1,BR: REDETV HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/9272
+#EXTINF:-1,BR: Tv Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/9278
+#EXTINF:-1,BR: TV Globo HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8149
+#EXTINF:-1,BR: TV Globo Premium HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8150
+#EXTINF:-1,BR: TV Record
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8151
+#EXTINF:-1,BR: TV Series  HD
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8152
+#EXTINF:-1,BR: Universal Brasil
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8239
+#EXTINF:-1,BR: SBT
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/8240
+#EXTINF:-1,BR: Tv Escola
+http://albanica.online:1557/Jonbllaca1/fSi7cxnyAi/3885
