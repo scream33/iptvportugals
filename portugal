@@ -12,235 +12,317 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1
 #EXTM3U
-#EXTINF:-1,|PT| 24KITCHEN
-http://tv.bestiptv-shop.com:7000/873974867/439074973/257
-#EXTINF:-1,|PT| A BOLA TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/207
-#EXTINF:-1,|PT| AFRO MUSIC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/205
-#EXTINF:-1,|PT| AMC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/256
-#EXTINF:-1,|PT| AXN Black
-http://tv.bestiptv-shop.com:7000/873974867/439074973/204
-#EXTINF:-1,|PT| AXN BLACK HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/160
-#EXTINF:-1,|PT| AXN HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/203
-#EXTINF:-1,|PT| AXN WHITE HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/202
-#EXTINF:-1,|PT| BABY FIRST
-http://tv.bestiptv-shop.com:7000/873974867/439074973/166
-#EXTINF:-1,|PT| BABY TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/255
-#EXTINF:-1,|PT| BBC ENTERTAINMENT
-http://tv.bestiptv-shop.com:7000/873974867/439074973/165
-#EXTINF:-1,|PT| BBC WORLD NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/164
-#EXTINF:-1,|PT| BENIFICA TV1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/201
-#EXTINF:-1,|PT| BENIFICA TV1HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/200
-#EXTINF:-1,|PT| BIGGS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/254
-#EXTINF:-1,|PT| BLAZE
-http://tv.bestiptv-shop.com:7000/873974867/439074973/206
-#EXTINF:-1,|PT| BTV 1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/163
-#EXTINF:-1,|PT| CAZA Y PESCA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/199
-#EXTINF:-1,|PT| CANAL HISTORIA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/253
-#EXTINF:-1,|PT| CANAL PANDA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/252
-#EXTINF:-1,|PT| CANAL Q
-http://tv.bestiptv-shop.com:7000/873974867/439074973/251
-#EXTINF:-1,|PT| CASAVISION
-http://tv.bestiptv-shop.com:7000/873974867/439074973/249
-#EXTINF:-1,|PT| CBS REALITY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/248
-#EXTINF:-1,|PT| CINEMUNDO
-http://tv.bestiptv-shop.com:7000/873974867/439074973/247
-#EXTINF:-1,|PT| CM TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/198
-#EXTINF:-1,|PT| CNN
-http://tv.bestiptv-shop.com:7000/873974867/439074973/162
-#EXTINF:-1,|PT| DISCOVERY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/197
-#EXTINF:-1,|PT| DISCOVERY SHOWCASE FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/168
-#EXTINF:-1,|PT| DISNEY CHANNEL
-http://tv.bestiptv-shop.com:7000/873974867/439074973/246
-#EXTINF:-1,|PT| DISNEY JUNIOR
-http://tv.bestiptv-shop.com:7000/873974867/439074973/245
-#EXTINF:-1,|PT| E!
-http://tv.bestiptv-shop.com:7000/873974867/439074973/196
-#EXTINF:-1,|PT| EURONEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/159
-#EXTINF:-1,|PT| EUROSPORT 1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/244
-#EXTINF:-1,|PT| EUROSPORT 1HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/154
-#EXTINF:-1,|PT| EUROSPORT 2
-http://tv.bestiptv-shop.com:7000/873974867/439074973/243
-#EXTINF:-1,|PT| EUROSPORT NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/153
-#EXTINF:-1,|PT| FOOD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/242
-#EXTINF:-1,|PT| FOX COMEDY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/167
-#EXTINF:-1,|PT| FOX CRIME HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/195
-#EXTINF:-1,|PT| FOX HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/194
-#EXTINF:-1,|PT| FOX LIFE HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/241
-#EXTINF:-1,|PT| FOX MOVIES
-http://tv.bestiptv-shop.com:7000/873974867/439074973/240
-#EXTINF:-1,|PT| FOXCRIME HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/158
-#EXTINF:-1,|PT| FUEL TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/239
-#EXTINF:-1,|PT| GLOBO NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/157
-#EXTINF:-1,|PT| GLOBO PREM
-http://tv.bestiptv-shop.com:7000/873974867/439074973/193
-#EXTINF:-1,|PT| HOLLYWOOD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/238
-#EXTINF:-1,|PT| JIM JAM
-http://tv.bestiptv-shop.com:7000/873974867/439074973/237
-#EXTINF:-1,|PT| KOMBAT SPORT
-http://tv.bestiptv-shop.com:7000/873974867/439074973/236
-#EXTINF:-1,|PT| MCS Lifestyle
-http://tv.bestiptv-shop.com:7000/873974867/439074973/235
-#EXTINF:-1,|PT| MOTORSPORT TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/234
-#EXTINF:-1,|PT| MOTORVISION
-http://tv.bestiptv-shop.com:7000/873974867/439074973/233
-#EXTINF:-1,|PT| MTV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/191
-#EXTINF:-1,|PT| NAT GEO HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/192
-#EXTINF:-1,|PT| NAT GEO WILD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/190
-#EXTINF:-1,|PT| NBA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/232
-#EXTINF:-1,|PT| NICKELODEON
-http://tv.bestiptv-shop.com:7000/873974867/439074973/231
-#EXTINF:-1,|PT| ODISSEIA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/189
-#EXTINF:-1,|PT| PFC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/188
-#EXTINF:-1,|PT| PORTO CANAL
-http://tv.bestiptv-shop.com:7000/873974867/439074973/230
-#EXTINF:-1,|PT| RECORD NEWS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/259
-#EXTINF:-1,|PT| RTP 1
-http://tv.bestiptv-shop.com:7000/873974867/439074973/170
-#EXTINF:-1,|PT| RTP 2
-http://tv.bestiptv-shop.com:7000/873974867/439074973/169
-#EXTINF:-1,|PT| RTP 2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/152
-#EXTINF:-1,|PT| RTP ACORES
-http://tv.bestiptv-shop.com:7000/873974867/439074973/229
-#EXTINF:-1,|PT| RTP AFRICA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/258
-#EXTINF:-1,|PT| RTP MADEIRA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/161
-#EXTINF:-1,|PT| RTP MEMORIA
-http://tv.bestiptv-shop.com:7000/873974867/439074973/228
-#EXTINF:-1,|PT| RTP1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/187
-#EXTINF:-1,|PT| RTP3
-http://tv.bestiptv-shop.com:7000/873974867/439074973/186
-#EXTINF:-1,|PT| SIC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/185
-#EXTINF:-1,|PT| SIC CARAS HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/184
-#EXTINF:-1,|PT| SIC HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/227
-#EXTINF:-1,|PT| SIC K
-http://tv.bestiptv-shop.com:7000/873974867/439074973/183
-#EXTINF:-1,|PT| SIC MULHER
-http://tv.bestiptv-shop.com:7000/873974867/439074973/226
-#EXTINF:-1,|PT| SIC NOTICIAS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/225
-#EXTINF:-1,|PT| SIC RADICAL
-http://tv.bestiptv-shop.com:7000/873974867/439074973/224
-#EXTINF:-1,|PT| SPORT TV+ FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/181
-#EXTINF:-1,|PT| SPORT TV1 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/182
-#EXTINF:-1,|PT| SPORT TV1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/223
-#EXTINF:-1,|PT| SPORT TV2 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/180
-#EXTINF:-1,|PT| SPORT TV2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/222
-#EXTINF:-1,|PT| SPORT TV3 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/179
-#EXTINF:-1,|PT| SPORT TV3 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/221
-#EXTINF:-1,|PT| SPORT TV4 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/178
-#EXTINF:-1,|PT| SPORT TV4 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/220
-#EXTINF:-1,|PT| SPORT TV5 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/219
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541369
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541368
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541367
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541366
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541365
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541364
-#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541363
-#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541362
-#EXTINF:-1,|PT| ELEVEN SPORTS 6 FHD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/575541361
-#EXTINF:-1,|PT| SPORTING TV
-http://tv.bestiptv-shop.com:7000/873974867/439074973/177
-#EXTINF:-1,|PT| SYFY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/218
-#EXTINF:-1,|PT| SYFY HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/156
-#EXTINF:-1,|PT| TLC
-http://tv.bestiptv-shop.com:7000/873974867/439074973/176
-#EXTINF:-1,|PT| TOROS
-http://tv.bestiptv-shop.com:7000/873974867/439074973/217
-#EXTINF:-1,|PT| TRAVEL CHANNEL HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/216
-#EXTINF:-1,|PT| TV GLOBO
-http://tv.bestiptv-shop.com:7000/873974867/439074973/215
-#EXTINF:-1,|PT| TV RECORD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/214
-#EXTINF:-1,|PT| TV SERIE HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/155
-#EXTINF:-1,|PT| TV SERIES
-http://tv.bestiptv-shop.com:7000/873974867/439074973/213
-#EXTINF:-1,|PT| TVCINE 1 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/175
-#EXTINF:-1,|PT| TVCINE 2 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/174
-#EXTINF:-1,|PT| TVCINE 3 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/173
-#EXTINF:-1,|PT| TVCINE 4 HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/172
-#EXTINF:-1,|PT| TVI
-http://tv.bestiptv-shop.com:7000/873974867/439074973/171
-#EXTINF:-1,|PT| TVI FICCAO
-http://tv.bestiptv-shop.com:7000/873974867/439074973/212
-#EXTINF:-1,|PT| TVI HD
-http://tv.bestiptv-shop.com:7000/873974867/439074973/211
-#EXTINF:-1,|PT| TVI REALITY
-http://tv.bestiptv-shop.com:7000/873974867/439074973/210
-#EXTINF:-1,|PT| TVI24
-http://tv.bestiptv-shop.com:7000/873974867/439074973/209
-#EXTINF:-1,|PT| MCS LIFE STYLE
-http://tv.bestiptv-shop.com:7000/873974867/439074973/208
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/159
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/160
+#EXTINF:-1,PT: VH1 CLASSIC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4293
+#EXTINF:-1,PT: VH1
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3945
+#EXTINF:-1,PT: TVI Reality (A Quinta)
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3946
+#EXTINF:-1,PT: TVI REALITY
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3974
+#EXTINF:-1,PT: TVI 24
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3947
+#EXTINF:-1,PT: TVI
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3948
+#EXTINF:-1,PT: TVCseries
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3949
+#EXTINF:-1,PT: TVC HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4294
+#EXTINF:-1,PT: TV RECORD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3950
+#EXTINF:-1,PT: TV Globo Premium
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3951
+#EXTINF:-1,PT: TV GLOBO
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3952
+#EXTINF:-1,PT: TV CINE 4
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3990
+#EXTINF:-1,PT: TV CINE 3 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3989
+#EXTINF:-1,PT: TV CINE 2  HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3988
+#EXTINF:-1,PT: TV CINE 1  HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3987
+#EXTINF:-1,PT: TOUROS TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3953
+#EXTINF:-1,PT: TLC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3954
+#EXTINF:-1,PT: SYFY
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3933
+#EXTINF:-1,PT: SPORTING TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3991
+#EXTINF:-1,PT: SPORT TV 5HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2496
+#EXTINF:-1,PT: SPORT TV 5
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3997
+#EXTINF:-1,PT: SPORT TV 4HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2495
+#EXTINF:-1,PT: SPORT TV 4
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3995
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3994
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3993
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3992
+#EXTINF:-1,PT: SIC RADICAL
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3934
+#EXTINF:-1,PT: SIC NOTICIAS
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3935
+#EXTINF:-1,PT: SIC MULHER
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3955
+#EXTINF:-1,PT: Sic
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3998
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3956
+#EXTINF:-1,PT: RTP ÁFRICA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3957
+#EXTINF:-1,PT: RTP AÇORES
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3958
+#EXTINF:-1,PT: RTP 3
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3986
+#EXTINF:-1,PT: RTP 2
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3999
+#EXTINF:-1,PT: RTP 1
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4000
+#EXTINF:-1,PT: PORTO CANAL
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3936
+#EXTINF:-1,PT: PFC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3959
+#EXTINF:-1,PT: ODISSEIA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3960
+#EXTINF:-1,PT: NICKELODEON
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3961
+#EXTINF:-1,PT: Nat Geo Wild
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3962
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3963
+#EXTINF:-1,PT: MTV PORTUGAL
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4295
+#EXTINF:-1,PT: Mtv Portuga
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3941
+#EXTINF:-1,PT: MOV HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4001
+#EXTINF:-1,PT: MOTORVISION TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/934
+#EXTINF:-1,PT: MOTORVISION
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4296
+#EXTINF:-1,PT: MOTORS TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3964
+#EXTINF:-1,PT: JIM JAM
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4297
+#EXTINF:-1,PT: HOLLYWOOD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3937
+#EXTINF:-1,PT: GLOBO
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4298
+#EXTINF:-1,PT: FUEL TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4299
+#EXTINF:-1,PT: FOX TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3938
+#EXTINF:-1,PT: FOX MOVIES
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3996
+#EXTINF:-1,PT: FOX LIFE
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3939
+#EXTINF:-1,PT: FOX CRIME
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3940
+#EXTINF:-1,PT: Fox Comedy
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3965
+#EXTINF:-1,PT: EUROSPORT
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3942
+#EXTINF:-1,PT: E! Entertainment
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3966
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3967
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3968
+#EXTINF:-1,PT: Discovery HD Showcase
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3969
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3970
+#EXTINF:-1,PT: CM TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3971
+#EXTINF:-1,PT: CINEMUNDO
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3972
+#EXTINF:-1,PT: CBS REALITY
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4300
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4301
+#EXTINF:-1,PT: CANAL Q
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3975
+#EXTINF:-1,PT: CANAL PANDA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3976
+#EXTINF:-1,PT: CANAL HISTÓRIA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3977
+#EXTINF:-1,PT: CAÇA & PESCA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3978
+#EXTINF:-1,PT: BENFICA TV 2
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3943
+#EXTINF:-1,PT: BENFICA TV 1
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3944
+#EXTINF:-1,PT: BABY TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3979
+#EXTINF:-1,PT: AXN WHITE
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3984
+#EXTINF:-1,PT: AXN
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3985
+#EXTINF:-1,PT: AMC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3980
+#EXTINF:-1,PT: A BOLA TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3981
+#EXTINF:-1,PT: A & E
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3982
+#EXTINF:-1,PT: 24 KITCHEN
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3983
+#EXTINF:-1,PT:  Historia
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4302
+#EXTINF:-1,PT:  Fox Crime
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4303
+#EXTINF:-1,PT: RTP MADEIRA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/6622
+#EXTINF:-1,PT: AMC HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7034
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7031
+#EXTINF:-1,PT: AXN HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7033
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7032
+#EXTINF:-1,PT: BTV 1 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7039
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7047
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7046
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7027
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7028
+#EXTINF:-1,PT: FOX HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7030
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7029
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7045
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7053
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7052
+#EXTINF:-1,PT: SPORT TV+
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7050
+#EXTINF:-1,PT: SPORT TV+  HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7051
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7049
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7043
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7042
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7041
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7040
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7048
+#EXTINF:-1,PT: SyFy HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7026
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7038
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7037
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7036
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7035
+#EXTINF:-1,PT: SPORT TV 3HD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/158
+#EXTINF:-1,PT: Eurosport new
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/28
+#EXTINF:-1,PT: Eurosport 1
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/27
+#EXTINF:-1,PT: DISCOVERY HD 1080 SHOWCASE
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7722
+#EXTINF:-1,PT: FASHION TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7720
+#EXTINF:-1,PT: Fine Living Network HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7719
+#EXTINF:-1,PT: FOX Movies HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7726
+#EXTINF:-1,PT: HOLLYWOOD HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7728
+#EXTINF:-1,PT: MOV HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7729
+#EXTINF:-1,PT: Nat Geo Wild HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7723
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7724
+#EXTINF:-1,PT: Outdoor Channel HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7721
+#EXTINF:-1,PT: SPORT TV  HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7731
+#EXTINF:-1,PT: SUNDANCE HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7727
+#EXTINF:-1,PT: TRAVEL CHANNEL HD 1080
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7725
+#EXTINF:-1,PT: Panda Biggs
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/8526
+#EXTINF:-1,PT: TVI Fic
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16144
+#EXTINF:-1,PT: TVI FHD
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16181
+#EXTINF:-1,PT: Benfica TV 1 backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16731
+#EXTINF:-1,PT: Sport TV  backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16742
+#EXTINF:-1,PT: Sport TV 1 backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16741
+#EXTINF:-1,PT: Sport TV 1 HD backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16740
+#EXTINF:-1,PT: Sport TV 2 backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16739
+#EXTINF:-1,PT: Sport TV 2 HD backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16738
+#EXTINF:-1,PT: Sport TV 3 backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16737
+#EXTINF:-1,PT: Sport TV 3 HD backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16736
+#EXTINF:-1,PT: Sport TV 4 backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16735
+#EXTINF:-1,PT: Sport TV 4 HD backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16734
+#EXTINF:-1,PT: Sport TV 5 backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16733
+#EXTINF:-1,PT: Sport TV 5 HD backup
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16732
+#EXTINF:-1,PT: ARTV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/17079
+#EXTINF:-1,PT: CAçAVISION
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/17491
+#EXTINF:-1,PT: Abola TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/26868
+#EXTINF:-1,PT: Afro Music
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/26601
+#EXTINF:-1,PT: Baby First
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19204
+#EXTINF:-1,PT: C MUSIC
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19202
+#EXTINF:-1,PT: CLUBBING TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19203
+#EXTINF:-1,PT: DOG TV
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19198
+#EXTINF:-1,PT: EUROSPORT 2
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19205
+#EXTINF:-1,PT: MCS EXTREME
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19200
+#EXTINF:-1,PT: TV GALICIA
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19197
+#EXTINF:-1,PT: TVI REALITY CAMARA 1
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19206
+#EXTINF:-1,PT: TVI REALITY CAMARA 3
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19208
+#EXTINF:-1,PT: TVI REALITY CAMARA 4
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19209
+#EXTINF:-1,PT: SIC Caras
+http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/31557
