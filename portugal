@@ -14,317 +14,169 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1
 #EXTM3U
-#EXTINF:-1,PT: SPORT TV 2 HD(1)
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/159
-#EXTINF:-1,PT:SPORT TV 1 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/160
-#EXTINF:-1,PT: VH1 CLASSIC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4293
-#EXTINF:-1,PT: VH1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3945
-#EXTINF:-1,PT: TVI Reality (A Quinta)
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3946
-#EXTINF:-1,PT: TVI REALITY
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3974
-#EXTINF:-1,PT: TVI 24
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3947
-#EXTINF:-1,PT: TVI
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3948
-#EXTINF:-1,PT: TVCseries
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3949
-#EXTINF:-1,PT: TVC HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4294
-#EXTINF:-1,PT: TV RECORD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3950
-#EXTINF:-1,PT: TV Globo Premium
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3951
-#EXTINF:-1,PT: TV GLOBO
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3952
-#EXTINF:-1,PT: TV CINE 4
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3990
-#EXTINF:-1,PT: TV CINE 3 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3989
-#EXTINF:-1,PT: TV CINE 2  HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3988
-#EXTINF:-1,PT: TV CINE 1  HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3987
-#EXTINF:-1,PT: TOUROS TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3953
-#EXTINF:-1,PT: TLC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3954
-#EXTINF:-1,PT: SYFY
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3933
-#EXTINF:-1,PT: SPORTING TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3991
-#EXTINF:-1,PT: SPORT TV 5HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2496
-#EXTINF:-1,PT: SPORT TV 5
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3997
-#EXTINF:-1,PT: SPORT TV 4HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/2495
-#EXTINF:-1,PT: SPORT TV 4
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3995
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3994
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3993
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3992
-#EXTINF:-1,PT: SIC RADICAL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3934
-#EXTINF:-1,PT: SIC NOTICIAS
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3935
-#EXTINF:-1,PT: SIC MULHER
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3955
-#EXTINF:-1,PT: Sic
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3998
-#EXTINF:-1,PT: RTP MEMÓRIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3956
-#EXTINF:-1,PT: RTP ÁFRICA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3957
-#EXTINF:-1,PT: RTP AÇORES
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3958
-#EXTINF:-1,PT: RTP 3
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3986
-#EXTINF:-1,PT: RTP 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3999
-#EXTINF:-1,PT: RTP 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4000
-#EXTINF:-1,PT: PORTO CANAL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3936
-#EXTINF:-1,PT: PFC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3959
-#EXTINF:-1,PT: ODISSEIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3960
-#EXTINF:-1,PT: NICKELODEON
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3961
-#EXTINF:-1,PT: Nat Geo Wild
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3962
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3963
-#EXTINF:-1,PT: MTV PORTUGAL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4295
-#EXTINF:-1,PT: Mtv Portuga
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3941
-#EXTINF:-1,PT: MOV HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4001
-#EXTINF:-1,PT: MOTORVISION TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/934
-#EXTINF:-1,PT: MOTORVISION
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4296
-#EXTINF:-1,PT: MOTORS TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3964
-#EXTINF:-1,PT: JIM JAM
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4297
-#EXTINF:-1,PT: HOLLYWOOD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3937
-#EXTINF:-1,PT: GLOBO
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4298
-#EXTINF:-1,PT: FUEL TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4299
-#EXTINF:-1,PT: FOX TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3938
-#EXTINF:-1,PT: FOX MOVIES
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3996
-#EXTINF:-1,PT: FOX LIFE
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3939
-#EXTINF:-1,PT: FOX CRIME
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3940
-#EXTINF:-1,PT: Fox Comedy
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3965
-#EXTINF:-1,PT: EUROSPORT
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3942
-#EXTINF:-1,PT: E! Entertainment
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3966
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3967
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3968
-#EXTINF:-1,PT: Discovery HD Showcase
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3969
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3970
-#EXTINF:-1,PT: CM TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3971
-#EXTINF:-1,PT: CINEMUNDO
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3972
-#EXTINF:-1,PT: CBS REALITY
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4300
-#EXTINF:-1,PT: CARTOON  NETWORK
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4301
-#EXTINF:-1,PT: CANAL Q
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3975
-#EXTINF:-1,PT: CANAL PANDA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3976
-#EXTINF:-1,PT: CANAL HISTÓRIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3977
-#EXTINF:-1,PT: CAÇA & PESCA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3978
-#EXTINF:-1,PT: BENFICA TV 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3943
-#EXTINF:-1,PT: BENFICA TV 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3944
-#EXTINF:-1,PT: BABY TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3979
-#EXTINF:-1,PT: AXN WHITE
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3984
-#EXTINF:-1,PT: AXN
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3985
-#EXTINF:-1,PT: AMC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3980
-#EXTINF:-1,PT: A BOLA TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3981
-#EXTINF:-1,PT: A & E
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3982
-#EXTINF:-1,PT: 24 KITCHEN
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/3983
-#EXTINF:-1,PT:  Historia
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4302
-#EXTINF:-1,PT:  Fox Crime
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/4303
-#EXTINF:-1,PT: RTP MADEIRA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/6622
-#EXTINF:-1,PT: AMC HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7034
-#EXTINF:-1,PT: AXN BLACK HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7031
-#EXTINF:-1,PT: AXN HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7033
-#EXTINF:-1,PT: AXN WHITE HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7032
-#EXTINF:-1,PT: BTV 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7039
-#EXTINF:-1,PT: EUROSPORT 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7047
-#EXTINF:-1,PT: FIGHT NETWORK HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7046
-#EXTINF:-1,PT: FOX Comedy HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7027
-#EXTINF:-1,PT: FOX CRIME HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7028
-#EXTINF:-1,PT: FOX HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7030
-#EXTINF:-1,PT: FOX LIFE HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7029
-#EXTINF:-1,PT: FUEL TV HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7045
-#EXTINF:-1,PT: SIC NOTICIAS HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7053
-#EXTINF:-1,PT: SIC RADICAL HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7052
-#EXTINF:-1,PT: SPORT TV+
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7050
-#EXTINF:-1,PT: SPORT TV+  HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7051
-#EXTINF:-1,PT: SPORT TV 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7049
-#EXTINF:-1,PT: SPORT TV 2 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7043
-#EXTINF:-1,PT: SPORT TV 3 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7042
-#EXTINF:-1,PT: SPORT TV 4 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7041
-#EXTINF:-1,PT: SPORT TV 5 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7040
-#EXTINF:-1,PT: Sporting TV HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7048
-#EXTINF:-1,PT: SyFy HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7026
-#EXTINF:-1,PT: TVCINE 1 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7038
-#EXTINF:-1,PT: TVCINE 2 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7037
-#EXTINF:-1,PT: TVCINE 3 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7036
-#EXTINF:-1,PT: TVCINE 4 HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7035
-#EXTINF:-1,PT: SPORT TV 3HD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/158
-#EXTINF:-1,PT: Eurosport new
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/28
-#EXTINF:-1,PT: Eurosport 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/27
-#EXTINF:-1,PT: DISCOVERY HD 1080 SHOWCASE
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7722
-#EXTINF:-1,PT: FASHION TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7720
-#EXTINF:-1,PT: Fine Living Network HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7719
-#EXTINF:-1,PT: FOX Movies HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7726
-#EXTINF:-1,PT: HOLLYWOOD HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7728
-#EXTINF:-1,PT: MOV HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7729
-#EXTINF:-1,PT: Nat Geo Wild HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7723
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7724
-#EXTINF:-1,PT: Outdoor Channel HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7721
-#EXTINF:-1,PT: SPORT TV  HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7731
-#EXTINF:-1,PT: SUNDANCE HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7727
-#EXTINF:-1,PT: TRAVEL CHANNEL HD 1080
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/7725
-#EXTINF:-1,PT: Panda Biggs
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/8526
-#EXTINF:-1,PT: TVI Fic
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16144
-#EXTINF:-1,PT: TVI FHD
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16181
-#EXTINF:-1,PT: Benfica TV 1 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16731
-#EXTINF:-1,PT: Sport TV  backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16742
-#EXTINF:-1,PT: Sport TV 1 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16741
-#EXTINF:-1,PT: Sport TV 1 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16740
-#EXTINF:-1,PT: Sport TV 2 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16739
-#EXTINF:-1,PT: Sport TV 2 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16738
-#EXTINF:-1,PT: Sport TV 3 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16737
-#EXTINF:-1,PT: Sport TV 3 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16736
-#EXTINF:-1,PT: Sport TV 4 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16735
-#EXTINF:-1,PT: Sport TV 4 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16734
-#EXTINF:-1,PT: Sport TV 5 backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16733
-#EXTINF:-1,PT: Sport TV 5 HD backup
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/16732
-#EXTINF:-1,PT: ARTV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/17079
-#EXTINF:-1,PT: CAçAVISION
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/17491
-#EXTINF:-1,PT: Abola TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/26868
-#EXTINF:-1,PT: Afro Music
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/26601
-#EXTINF:-1,PT: Baby First
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19204
-#EXTINF:-1,PT: C MUSIC
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19202
-#EXTINF:-1,PT: CLUBBING TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19203
-#EXTINF:-1,PT: DOG TV
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19198
-#EXTINF:-1,PT: EUROSPORT 2
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19205
-#EXTINF:-1,PT: MCS EXTREME
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19200
-#EXTINF:-1,PT: TV GALICIA
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19197
-#EXTINF:-1,PT: TVI REALITY CAMARA 1
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19206
-#EXTINF:-1,PT: TVI REALITY CAMARA 3
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19208
-#EXTINF:-1,PT: TVI REALITY CAMARA 4
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/19209
-#EXTINF:-1,PT: SIC Caras
-http://iptvfree1.com:6969/live:ced61b68af247a24/EttCGEGRfr345dSd/31557
+#EXTINF:-1,Pt | Axn Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12362
+#EXTINF:-1,Pt | Canal Panda
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12359
+#EXTINF:-1,Pt | Cmtv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12376
+#EXTINF:-1,Pt | Crime Investigation
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12360
+#EXTINF:-1,Pt | Rtp 1
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12371
+#EXTINF:-1,Pt | Rtp 2
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12372
+#EXTINF:-1,Pt | Rtp 3
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12369
+#EXTINF:-1,Pt | Sic
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12370
+#EXTINF:-1,Pt | Sic Mulher
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12373
+#EXTINF:-1,Pt | Sic Noticias
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12375
+#EXTINF:-1,Pt | Sport Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12361
+#EXTINF:-1,Pt | Sport Tv 1 Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12368
+#EXTINF:-1,Pt | Sport Tv 2 Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12367
+#EXTINF:-1,Pt | Sport Tv 3 Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12366
+#EXTINF:-1,Pt | Sport Tv 4 Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12365
+#EXTINF:-1,Pt | Tv Series
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12363
+#EXTINF:-1,Pt | Tvcine 1
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12377
+#EXTINF:-1,Pt | Tvcine 2
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12378
+#EXTINF:-1,Pt | Tvcine 3
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12379
+#EXTINF:-1,Pt | Tvcine 4
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12380
+#EXTINF:-1,Pt | Tvi
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12381
+#EXTINF:-1,Pt | Tvi 24
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12364
+#EXTINF:-1,Pt | Tvi Ficcao
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/12374
+#EXTINF:-1,Pt | 24 Kitchen
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21222
+#EXTINF:-1,Pt | A Bola Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21221
+#EXTINF:-1,Pt | Amc
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21220
+#EXTINF:-1,Pt | Axn Black Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21219
+#EXTINF:-1,Pt | Axn White
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21218
+#EXTINF:-1,Pt | Baby Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21217
+#EXTINF:-1,Pt | Barca Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21216
+#EXTINF:-1,Pt | Benfica Tv Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21215
+#EXTINF:-1,Pt | Biggs
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21214
+#EXTINF:-1,Pt | Caça E Pesca
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21213
+#EXTINF:-1,Pt | CaÇavision
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21212
+#EXTINF:-1,Pt | Canal Q
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21211
+#EXTINF:-1,Pt | Cbs Reality
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21209
+#EXTINF:-1,Pt | Cinemundo
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21208
+#EXTINF:-1,Pt | Discovery Channel
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21207
+#EXTINF:-1,Pt | Discovery Showcase
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21206
+#EXTINF:-1,Pt | Disney Channel
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21205
+#EXTINF:-1,Pt | Disney Junior
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21204
+#EXTINF:-1,Pt | Eleven Sports 1hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21203
+#EXTINF:-1,Pt | Eleven Sports 2hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21202
+#EXTINF:-1,Pt | Eleven Sports 3hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21201
+#EXTINF:-1,Pt | Eleven Sports 4hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21200
+#EXTINF:-1,Pt | Eleven Sports 5hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21199
+#EXTINF:-1,Pt | Eleven Sports 6hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21198
+#EXTINF:-1,Pt | Eurosport 1
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21197
+#EXTINF:-1,Pt | Eurosport 2
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21196
+#EXTINF:-1,Pt | Fox Comedy
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21195
+#EXTINF:-1,Pt | Fox Crime
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21194
+#EXTINF:-1,Pt | Fox Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21193
+#EXTINF:-1,Pt | Fox Life Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21192
+#EXTINF:-1,Pt | Fox Movies
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21191
+#EXTINF:-1,Pt | Fuel Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21190
+#EXTINF:-1,Pt | Historia
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21189
+#EXTINF:-1,Pt | Hollywood
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21188
+#EXTINF:-1,Pt | Jimjam
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21187
+#EXTINF:-1,Pt | Kombat Sport
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21186
+#EXTINF:-1,Pt | Motorvision
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21185
+#EXTINF:-1,Pt | Nat Geo
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21184
+#EXTINF:-1,Pt | Nat Geo Wild
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21183
+#EXTINF:-1,Pt | Nickelodeon
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21182
+#EXTINF:-1,Pt | Odissea
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21181
+#EXTINF:-1,Pt | Pfc
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21180
+#EXTINF:-1,Pt | Porto Canal
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21179
+#EXTINF:-1,Pt | Real Madrid Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21178
+#EXTINF:-1,Pt | Rtp Africa
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21177
+#EXTINF:-1,Pt | Sic Caras
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21176
+#EXTINF:-1,Pt | Sic K
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21175
+#EXTINF:-1,Pt | Sic Radical
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21174
+#EXTINF:-1,Pt | Sport Tv 1hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21173
+#EXTINF:-1,Pt | Sport Tv 2hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21172
+#EXTINF:-1,Pt | Sport Tv 3hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21171
+#EXTINF:-1,Pt | Sport Tv 5 Hd
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21170
+#EXTINF:-1,Pt | Sporting Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21169
+#EXTINF:-1,Pt | Syfy
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21168
+#EXTINF:-1,Pt | Tlc
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21167
+#EXTINF:-1,Pt | Toros Tv
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21166
+#EXTINF:-1,Pt | Tv Globo
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21165
+#EXTINF:-1,Pt | Tv Globo Premium
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21164
+#EXTINF:-1,Pt | Tv Record
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21163
+#EXTINF:-1,Pt | Tvi Reality
+http://filbox.eu:8080/XjkzqPnzLC/cPunL4BvD6/21162
