@@ -9,8 +9,21 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_sl
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/12/tcv-cabo-verde.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV CABO VERDE[/B][/I][/COLOR]
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1 timeout=10
 #EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_ARTV.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV PARLAMENTO[/B][/I][/COLOR]
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)
+#EXTINF:-1 tvg-id="tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV FÁTIMA[/B][/I][/COLOR]
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
+
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1
 #EXTM3U
@@ -208,3 +221,123 @@ http://viptv.accesss.me:25461/1111/2222/12662
 http://viptv.accesss.me:25461/1111/2222/12661
 #EXTINF:-1,PT-VH1
 http://viptv.accesss.me:25461/1111/2222/12660
+#EXTINF:0,[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]SKY NEWS (UK) [/B][/I][/COLOR]
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/200px-BBC_World_News_red.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]BBC WORLD NEWS (UK) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CNN (USA) [/B][/I][/COLOR]
+http://4.31.30.145:9001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CBS_News.svg/220px-CBS_News.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CBS NEWS (USA) [/B][/I][/COLOR]
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/sgk7abcu1/hjgj.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]ABC NEWS (USA) [/B][/I][/COLOR]
+http://abclive.abcnews.com/i/abc_live1@136327/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/xt91og0qh/image.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]MSNBC (USA) [/B][/I][/COLOR]
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_296_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/90/Wgn9newsopen.jpg/revision/latest?cb=20151210042859" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]WGN NEWS CHICAGO (USA) [/B][/I][/COLOR]
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/8/87/WRC-TV_NEWS_4_LOGO.png/revision/latest?cb=20130111024825" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]WRC NEWS 4 (USA) [/B][/I][/COLOR]
+http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]BLOOMBERG (USA) [/B][/I][/COLOR]
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]FRANCE 24 (FRA) [/B][/I][/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]SKY TG24 (ITA) [/B][/I][/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/ed/Rai_News_24_possible_new_logo.svg/revision/latest?cb=20170531211640" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]RAI NEWS 24 (ITA) [/B][/I][/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]TVE 24 (ESP) [/B][/I][/COLOR]
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CABLE NOTICIAS (COL) [/B][/I][/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/ahwh9550p/al_jazeera_channel_qa_hd.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]AL JAZEERA-UK (QAT) [/B][/I][/COLOR]
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/q0yik02p5/5_YEHGFD.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]RT AMERICA (RUS) [/B][/I][/COLOR]
+http://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://s26.postimg.org/fs61e6end/MKjx_L41p_400x400.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]RT UK (RUS) [/B][/I][/COLOR]
+http://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1 tvg-logo="http://www.channelnewsasia.com/blob/8396140/57b5cc8a1e0e24b2b35df65b9a69bf48/cna-logo-data.jpg" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]CHANNEL NEWS ASIA  [/B][/I][/COLOR]
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 tvg-logo="http://download-logos.com/uploads/posts/2016-10/thumbs/dw-deutsche-welle-logo-logotype-all-logos-emblems-brands-pictures-gallery_1.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]DW LATINO  [/B][/I][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-logo="ann7_za.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]DW (ALE)[/B][/I][/COLOR]
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.ann7.com/wp-content/uploads/sites/4/2015/10/final-ann7-logo-2015.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]ANN7 SOUTH AFRICA [/B][/I][/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-mid.stream 
+#EXTINF:0,[COLOR mediumslateblue]» » RÁDIOS « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1 radio="true"tvg-logo="http://pt.radioonline.fm/images/tsf-radio.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TSF [/B][/I][/COLOR]
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 radio="true"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Radio_Comercial.jpg/305px-Logo_Radio_Comercial.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO COMERCIAL[/B][/I][/COLOR]
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68465.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM CLUBBING [/B][/I][/COLOR]
+http://19553.live.streamtheworld.com/RFMCLUBBINGAAC_SC?TGT=TuneIn&DIST=TuneIn
+#EXTINF:-1 radio="true"tvg-logo="http://pt.radioonline.fm/images/Radio-94FM.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]94FM [/B][/I][/COLOR]
+http://195.8.58.150:35022
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/s/68401.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOSTALGIA [/B][/I][/COLOR]
+http://centova.radios.pt:8435
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68415.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SUPER FM [/B][/I][/COLOR]
+http://94.23.76.235:9956/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68404.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]HIPER FM [/B][/I][/COLOR]
+http://85.25.73.243:10460/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68377.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 1 [/B][/I][/COLOR]
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68427.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA 2 [/B][/I][/COLOR]
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68379.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MEGA HITS [/B][/I][/COLOR]
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68463.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TROPICAL FM [/B][/I][/COLOR]
+http://radio1.suaradionanet.net:10308/stream?type=.flv
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68382.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RENASCENÇA [/B][/I][/COLOR]
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68376.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM [/B][/I][/COLOR]
+http://19553.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68430.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RFM 80 [/B][/I][/COLOR]
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68380.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ORBITAL [/B][/I][/COLOR]
+http://195.23.85.126:8401/1
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68814.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RLCB DANCE[/B][/I][/COLOR]
+http://rlcbdance.no-ip.org:8431/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/134437.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOTAL FM[/B][/I][/COLOR]
+http://94.126.173.23:8000/;stream/1
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68387.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]NOVA ERA[/B][/I][/COLOR]
+http://stream.radio.com.pt:9478/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68416.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TOP 80[/B][/I][/COLOR]
+http://live.top80.fm:8086/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/69953.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADAR [/B][/I][/COLOR]
+http://stream.radio.com.pt:8497/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68385.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]AMÁLIA [/B][/I][/COLOR]
+http://stream.radio.com.pt:9496/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68422.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]SIM [/B][/I][/COLOR]
+http://62.48.143.117/RADIO_SIM_SC
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68538.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TORRES NOVAS FM [/B][/I][/COLOR]
+http://centova.radios.pt:8475
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/101711.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]CIDADE FM [/B][/I][/COLOR]
+http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8
+#EXTINF:-1 radio="true"tvg-logo="http://player.streamguys.com/rastamusic/sgplayer/include/assets/img/album_art.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]REGAEE RADIO 808[/B][/I][/COLOR]
+http://66.225.205.5:80
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68397.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]FESTIVAL[/B][/I][/COLOR]
+http://centova.radios.pt:9520/stream/1/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68464.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]Rádio Universidade Coimbra[/B][/I][/COLOR]
+http://ruc2.cidadedecoimbra.com:8000
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68584.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]DOURO NACIONAL[/B][/I][/COLOR]
+http://94.23.76.235:9996/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68420.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]POPULAR FM[/B][/I][/COLOR]
+http://195.8.58.150:32281/
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68388.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]OXIGENIO[/B][/I][/COLOR]
+http://centova.radios.pt:9498
+#EXTINF:-1 radio="true"tvg-logo="http://www.ultrafm.pt/images/ultrafm-logo_peq.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ULTRA FM[/B][/I][/COLOR]
+http://centova.radios.pt:9506
+#EXTINF:-1 radio="true"tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/11/Antena_Minho_4dc1839e93466.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]ANTENA MINHO[/B][/I][/COLOR]
+http://centova.radios.pt:9464
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68850.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO SATURNO[/B][/I][/COLOR]
+http://radiosaturno.dyndns.org:8000
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68399.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]MARGINAL[/B][/I][/COLOR]
+http://centova.radios.pt:8499
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68406.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]ONDA VIVA[/B][/I][/COLOR]
+http://centova.radios.pt:9524/stream
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68440.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]PLACARD[/B][/I][/COLOR]
+http://213.239.218.99:7098/;?1475760096281.aac
+#EXTINF:-1 radio="true"tvg-logo="http://cdn.sintonizate.net/r/68439.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO NOVA [/B][/I][/COLOR]
+http://centova.radios.pt:9528/stream/1/
