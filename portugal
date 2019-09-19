@@ -26,200 +26,208 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://energyiptv.streamtv.to:8080/live/GoVS3y4BA1
 #EXTM3U
-#EXTINF:-1,PT-AMC
-http://viptv.accesss.me:25461/1111/2222/12756
-#EXTINF:-1,PT-AMC HD
-http://viptv.accesss.me:25461/1111/2222/12755
-#EXTINF:-1,PT-AXN Black HD
-http://viptv.accesss.me:25461/1111/2222/12754
-#EXTINF:-1,PT-AXN HD
-http://viptv.accesss.me:25461/1111/2222/12753
-#EXTINF:-1,PT-AXN White HD
-http://viptv.accesss.me:25461/1111/2222/12752
-#EXTINF:-1,PT-Baby First
-http://viptv.accesss.me:25461/1111/2222/12751
-#EXTINF:-1,PT-Baby TV
-http://viptv.accesss.me:25461/1111/2222/12750
-#EXTINF:-1,PT-Biggs
-http://viptv.accesss.me:25461/1111/2222/12749
-#EXTINF:-1,PT-BTV 1 HD
-http://viptv.accesss.me:25461/1111/2222/12748
-#EXTINF:-1,PT-CanÄ¿Âªo Nova
-http://viptv.accesss.me:25461/1111/2222/12747
-#EXTINF:-1,PT-Canal NOS
-http://viptv.accesss.me:25461/1111/2222/12746
-#EXTINF:-1,PT-Canal Panda
-http://viptv.accesss.me:25461/1111/2222/12745
-#EXTINF:-1,PT-Canal Q
-http://viptv.accesss.me:25461/1111/2222/12744
-#EXTINF:-1,PT-Cartoon Network
-http://viptv.accesss.me:25461/1111/2222/12743
-#EXTINF:-1,PT-Cinemundo
-http://viptv.accesss.me:25461/1111/2222/12742
-#EXTINF:-1,PT-CMTV
-http://viptv.accesss.me:25461/1111/2222/12741
-#EXTINF:-1,PT-Crime   Investigation
-http://viptv.accesss.me:25461/1111/2222/12740
-#EXTINF:-1,PT-Discovery Channel
-http://viptv.accesss.me:25461/1111/2222/12739
-#EXTINF:-1,PT-Discovery HD Showcase
-http://viptv.accesss.me:25461/1111/2222/12738
-#EXTINF:-1,PT-Disney Channel
-http://viptv.accesss.me:25461/1111/2222/12737
-#EXTINF:-1,PT-Disney Junior
-http://viptv.accesss.me:25461/1111/2222/12736
-#EXTINF:-1,PT-E! Entertainment
-http://viptv.accesss.me:25461/1111/2222/12735
-#EXTINF:-1,PT-Eleven Sports 1 HD
-http://viptv.accesss.me:25461/1111/2222/12734
-#EXTINF:-1,PT-Eleven Sports 2 HD
-http://viptv.accesss.me:25461/1111/2222/12733
-#EXTINF:-1,PT-Eleven Sports 3
-http://viptv.accesss.me:25461/1111/2222/12732
-#EXTINF:-1,PT-Eleven Sports 4
-http://viptv.accesss.me:25461/1111/2222/12731
-#EXTINF:-1,PT-Eurosport 1
-http://viptv.accesss.me:25461/1111/2222/12730
-#EXTINF:-1,PT-Eurosport 1 HD
-http://viptv.accesss.me:25461/1111/2222/12729
-#EXTINF:-1,PT-Eurosport 2
-http://viptv.accesss.me:25461/1111/2222/12728
-#EXTINF:-1,PT-FOX Comedy
-http://viptv.accesss.me:25461/1111/2222/12727
-#EXTINF:-1,PT-FOX Crime HD
-http://viptv.accesss.me:25461/1111/2222/12726
-#EXTINF:-1,PT-FOX HD
-http://viptv.accesss.me:25461/1111/2222/12725
-#EXTINF:-1,PT-FOX Life HD
-http://viptv.accesss.me:25461/1111/2222/12724
-#EXTINF:-1,PT-FOX Movies
-http://viptv.accesss.me:25461/1111/2222/12723
-#EXTINF:-1,PT-Fuel TV
-http://viptv.accesss.me:25461/1111/2222/12722
-#EXTINF:-1,PT-Globo
-http://viptv.accesss.me:25461/1111/2222/12721
-#EXTINF:-1,PT-Globo Premium
-http://viptv.accesss.me:25461/1111/2222/12720
-#EXTINF:-1,PT-HistÃ°ria
-http://viptv.accesss.me:25461/1111/2222/12719
-#EXTINF:-1,PT-Hollywood
-http://viptv.accesss.me:25461/1111/2222/12718
-#EXTINF:-1,PT-Hollywood HD
-http://viptv.accesss.me:25461/1111/2222/12717
-#EXTINF:-1,PT-Jim Jam
-http://viptv.accesss.me:25461/1111/2222/12716
-#EXTINF:-1,PT-Kombat Sport
-http://viptv.accesss.me:25461/1111/2222/12715
-#EXTINF:-1,PT-MCS Extreme
-http://viptv.accesss.me:25461/1111/2222/12714
-#EXTINF:-1,PT-Motorvision
-http://viptv.accesss.me:25461/1111/2222/12713
-#EXTINF:-1,PT-MTV Portugal
-http://viptv.accesss.me:25461/1111/2222/12712
-#EXTINF:-1,PT-Nat Geo Wild
-http://viptv.accesss.me:25461/1111/2222/12711
-#EXTINF:-1,PT-National Geographic HD
-http://viptv.accesss.me:25461/1111/2222/12710
-#EXTINF:-1,PT-Nick Jr.
-http://viptv.accesss.me:25461/1111/2222/12709
-#EXTINF:-1,PT-Nickelodeon
-http://viptv.accesss.me:25461/1111/2222/12708
-#EXTINF:-1,PT-Odisseia
-http://viptv.accesss.me:25461/1111/2222/12707
-#EXTINF:-1,PT-PFC
-http://viptv.accesss.me:25461/1111/2222/12706
-#EXTINF:-1,PT-Porto Canal
-http://viptv.accesss.me:25461/1111/2222/12705
-#EXTINF:-1,PT-RTP .frica
-http://viptv.accesss.me:25461/1111/2222/12704
-#EXTINF:-1,PT-RTP 1
-http://viptv.accesss.me:25461/1111/2222/12703
-#EXTINF:-1,PT-RTP 2
-http://viptv.accesss.me:25461/1111/2222/12702
-#EXTINF:-1,PT-RTP 3
-http://viptv.accesss.me:25461/1111/2222/12701
-#EXTINF:-1,PT-RTP AÄ¿ores
-http://viptv.accesss.me:25461/1111/2222/12700
-#EXTINF:-1,PT-RTP Madeira
-http://viptv.accesss.me:25461/1111/2222/12699
-#EXTINF:-1,PT-RTP MemÃ°ria
-http://viptv.accesss.me:25461/1111/2222/12698
-#EXTINF:-1,PT-SIC
-http://viptv.accesss.me:25461/1111/2222/12697
-#EXTINF:-1,PT-SIC Caras
-http://viptv.accesss.me:25461/1111/2222/12696
-#EXTINF:-1,PT-SIC K
-http://viptv.accesss.me:25461/1111/2222/12695
-#EXTINF:-1,PT-SIC Mulher
-http://viptv.accesss.me:25461/1111/2222/12694
-#EXTINF:-1,PT-Sic Noticias
-http://viptv.accesss.me:25461/1111/2222/12693
-#EXTINF:-1,PT-SIC Radical
-http://viptv.accesss.me:25461/1111/2222/12692
-#EXTINF:-1,PT-Sky News
-http://viptv.accesss.me:25461/1111/2222/12691
-#EXTINF:-1,PT-SPORT TV
-http://viptv.accesss.me:25461/1111/2222/12690
-#EXTINF:-1,PT-Sport TV 1
-http://viptv.accesss.me:25461/1111/2222/12689
-#EXTINF:-1,PT-Sport TV 1 HD
-http://viptv.accesss.me:25461/1111/2222/12688
-#EXTINF:-1,PT-Sport TV 1 HD NOS
-http://viptv.accesss.me:25461/1111/2222/12687
-#EXTINF:-1,PT-Sport TV 2
-http://viptv.accesss.me:25461/1111/2222/12686
-#EXTINF:-1,PT-Sport TV 2 HD
-http://viptv.accesss.me:25461/1111/2222/12685
-#EXTINF:-1,PT-Sport TV 3
-http://viptv.accesss.me:25461/1111/2222/12684
-#EXTINF:-1,PT-Sport TV 3 HD
-http://viptv.accesss.me:25461/1111/2222/12683
-#EXTINF:-1,PT-Sport TV 4
-http://viptv.accesss.me:25461/1111/2222/12682
-#EXTINF:-1,PT-Sport TV 5
-http://viptv.accesss.me:25461/1111/2222/12681
-#EXTINF:-1,PT-Sporting TV
-http://viptv.accesss.me:25461/1111/2222/12680
-#EXTINF:-1,PT-TLC
-http://viptv.accesss.me:25461/1111/2222/12679
-#EXTINF:-1,PT-Toros TV
-http://viptv.accesss.me:25461/1111/2222/12678
-#EXTINF:-1,PT-Travel Channel HD
-http://viptv.accesss.me:25461/1111/2222/12677
-#EXTINF:-1,PT-TV FÃ†tima
-http://viptv.accesss.me:25461/1111/2222/12676
-#EXTINF:-1,PT-TV Galicia
-http://viptv.accesss.me:25461/1111/2222/12675
-#EXTINF:-1,PT-TV Record
-http://viptv.accesss.me:25461/1111/2222/12674
-#EXTINF:-1,PT-TVCine 1 HD
-http://viptv.accesss.me:25461/1111/2222/12673
-#EXTINF:-1,PT-TVCine 2
-http://viptv.accesss.me:25461/1111/2222/12672
-#EXTINF:-1,PT-TVCine 2 HD
-http://viptv.accesss.me:25461/1111/2222/12671
-#EXTINF:-1,PT-TVCine 3 HD
-http://viptv.accesss.me:25461/1111/2222/12670
-#EXTINF:-1,PT-TVCine 4
-http://viptv.accesss.me:25461/1111/2222/12669
-#EXTINF:-1,PT-TVCine 4 HD
-http://viptv.accesss.me:25461/1111/2222/12668
-#EXTINF:-1,PT-TVE 24h
-http://viptv.accesss.me:25461/1111/2222/12667
-#EXTINF:-1,PT-TVE Internacional
-http://viptv.accesss.me:25461/1111/2222/12666
-#EXTINF:-1,PT-TVI
-http://viptv.accesss.me:25461/1111/2222/12665
-#EXTINF:-1,PT-TVI 24
-http://viptv.accesss.me:25461/1111/2222/12664
-#EXTINF:-1,PT-TVI FicÄ¿Âªo
-http://viptv.accesss.me:25461/1111/2222/12663
-#EXTINF:-1,PT-TVI Reality
-http://viptv.accesss.me:25461/1111/2222/12662
-#EXTINF:-1,PT-TVSÃ˜ries HD
-http://viptv.accesss.me:25461/1111/2222/12661
-#EXTINF:-1,PT-VH1
-http://viptv.accesss.me:25461/1111/2222/12660
+#EXTINF:-1,RTP 1 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2615
+#EXTINF:-1,RTP 2 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2616
+#EXTINF:-1,RTP 3 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2617
+#EXTINF:-1,RTP ACORES HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2621
+#EXTINF:-1,RTP MEMORIA HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2618
+#EXTINF:-1,RTP AFRICA HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2620
+#EXTINF:-1,RTP INTER HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50199
+#EXTINF:-1,RTP MADEIRA HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2619
+#EXTINF:-1,TPA (Angola)
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/70066
+#EXTINF:-1,TCV Cabo.
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/56881
+#EXTINF:-1,DISNEY JUNIOR .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2651
+#EXTINF:-1,DISNEY CHANNEL .HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2650
+#EXTINF:-1,NICKLODEON HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2648
+#EXTINF:-1,CARTON NETWORK .HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2649
+#EXTINF:-1,PANDA BIGGS HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2653
+#EXTINF:-1,JIMJAM HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50194
+#EXTINF:-1,PANDA HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2652
+#EXTINF:-1,National  Geographic  HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6294
+#EXTINF:-1,NAT GEO WILD .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2646
+#EXTINF:-1,DISCOVERY CHANNEL .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5453
+#EXTINF:-1,DISCOVERY SHOWCASE .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5452
+#EXTINF:-1,Odisseia HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5451
+#EXTINF:-1,CANAL HISTÓRIA HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2641
+#EXTINF:-1,E! HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6307
+#EXTINF:-1,24 KITCHEN .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50192
+#EXTINF:-1,BABY FIRST HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50195
+#EXTINF:-1,CAÇA PESCA
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50202
+#EXTINF:-1,CAçAVISION HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50201
+#EXTINF:-1,MY CUISINE HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50191
+#EXTINF:-1,TRAVEL-CHANNEL HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50190
+#EXTINF:-1,TVI HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5449
+#EXTINF:-1,TVI 24 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50228
+#EXTINF:-1,TVI Reality HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5447
+#EXTINF:-1,TVI Ficção HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5448
+#EXTINF:-1,SIC HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2622
+#EXTINF:-1,SIC MULHER HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2624
+#EXTINF:-1,SIC Radical HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6280
+#EXTINF:-1,SIC NOTICIAS HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2623
+#EXTINF:-1,SIC KIDS HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50193
+#EXTINF:-1,SIC CARAS HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6281
+#EXTINF:-1,TV Globo
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/9681
+#EXTINF:-1,TV Globo Premium HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/9682
+#EXTINF:-1,TV Record HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/9683
+#EXTINF:-1,MTV PORTUGAL HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2647
+#EXTINF:-1,SYFY .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5450
+#EXTINF:-1,VH1
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/5446
+#EXTINF:-1,TLC .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50188
+#EXTINF:-1,A BOLA HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50203
+#EXTINF:-1,AFRO MUSIC. HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50184
+#EXTINF:-1,AMC HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50196
+#EXTINF:-1,BLAZE
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50227
+#EXTINF:-1,PORTO CANAL HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50230
+#EXTINF:-1,CANçAO NOVA HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50224
+#EXTINF:-1,CBS REALITY HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50229
+#EXTINF:-1,MCM-TOP HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50186
+#EXTINF:-1,FUEL HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50200
+#EXTINF:-1,CM TV HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6287
+#EXTINF:-1,PFC HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50206
+#EXTINF:-1,TVCINE 1 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2627
+#EXTINF:-1,TVCINE 2 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2628
+#EXTINF:-1,TVCINE 3 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2629
+#EXTINF:-1,TVCINE 4 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2630
+#EXTINF:-1,Hollywood  HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6298
+#EXTINF:-1,CINE MUNDO HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2632
+#EXTINF:-1,CINE MUNDO .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6299
+#EXTINF:-1,FOX LIFE HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2644
+#EXTINF:-1,Fox  Life  HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6302
+#EXTINF:-1,FOX  HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2643
+#EXTINF:-1,Fox  Movies  HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6303
+#EXTINF:-1,Fox  Comedy  HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6304
+#EXTINF:-1,FOX CRIME HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2645
+#EXTINF:-1,AXN HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/2642
+#EXTINF:-1,AXN White HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6305
+#EXTINF:-1,AXN Black HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6306
+#EXTINF:-1,Porto Canal HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50225
+#EXTINF:-1,REAL MADRID HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50211
+#EXTINF:-1,EUROSPORT 2HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50207
+#EXTINF:-1,KOMBAT  SPORT
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50209
+#EXTINF:-1,MOTORVISION HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50204
+#EXTINF:-1,NBA .HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50205
+#EXTINF:-1,TOROS TV HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50198
+#EXTINF:-1,RECORD NEWS HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50226
+#EXTINF:-1,Benfica TV HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/11401
+#EXTINF:-1,Sporting TV HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/9680
+#EXTINF:-1,SPORT TV HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50197
+#EXTINF:-1,SPORT TV 1 HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50223
+#EXTINF:-1,SPORT TV 1 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6726
+#EXTINF:-1,SPORT TV 2 HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50231
+#EXTINF:-1,SPORT TV 2 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6727
+#EXTINF:-1,SPORT TV 3 HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50222
+#EXTINF:-1,SPORT TV 3 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6728
+#EXTINF:-1,SPORTV 4 HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50221
+#EXTINF:-1,SPORT TV 4 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6729
+#EXTINF:-1,SPORT TV 5 HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50220
+#EXTINF:-1,SPORT TV 5 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/6730
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50215
+#EXTINF:-1,ELEVEN SPORTS  1 HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50218
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50214
+#EXTINF:-1,ELEVEN SPORTS  2  HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50217
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50213
+#EXTINF:-1,ELEVEN SPORTS  3  HD+
+http://nettv-xcruiser.com:8000/uUjFYW2Lz7/vemqPBKRwn/50216
 #EXTINF:0,[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="NOTÍCIAS INTERNACIONAIS",[COLOR yellowgreen][I][B]SKY NEWS (UK) [/B][/I][/COLOR]
