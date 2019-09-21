@@ -26,287 +26,154 @@ http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 #EXTM3U
 #EXTM3U
-#EXTINF:-1,PT: RTP 1
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2511
-#EXTINF:-1,PT: RTP 1 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2512
-#EXTINF:-1,PT: RTP 2
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2509
-#EXTINF:-1,PT: RTP 2 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2510
-#EXTINF:-1,PT: RTP 3
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2508
-#EXTINF:-1,PT: SIC
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2500
-#EXTINF:-1,PT: SIC HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2501
-#EXTINF:-1,PT: TVI HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2492
-#EXTINF:-1,PT: A BOLA TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2486
-#EXTINF:-1,PT: AMC HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14984
-#EXTINF:-1,PT: AMC
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2460
-#EXTINF:-1,PT: ARTV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2485
-#EXTINF:-1,PT: AXN BLACK HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2474
-#EXTINF:-1,PT: AXN HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2473
-#EXTINF:-1,PT: AXN WHITE HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2472
-#EXTINF:-1,PT: BABY TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2455
-#EXTINF:-1,PT: BTV HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2438
-#EXTINF:-1,PT: CINEMUNDO
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2459
-#EXTINF:-1,PT: Histðria
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2453
-#EXTINF:-1,PT: CMTV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2503
-#EXTINF:-1,PT: CMTV HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2502
-#EXTINF:-1,PT: EUROSPORT 1
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2440
-#EXTINF:-1,PT: EUROSPORT 2
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2439
-#EXTINF:-1,PT: BBC ENTERTAINMENT
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2429
-#EXTINF:-1,PT: FOX COMEDY
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2471
-#EXTINF:-1,PT: FOX COMEDY HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2470
-#EXTINF:-1,PT: FOX CRIME HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2469
-#EXTINF:-1,PT: FOX HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2468
-#EXTINF:-1,PT: FOX LIFE HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2467
-#EXTINF:-1,PT: FOX MOVIES
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2466
-#EXTINF:-1,PT: FOX MOVIES HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2465
-#EXTINF:-1,PT: FOX NEWS
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2487
-#EXTINF:-1,PT: FUEL TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2449
-#EXTINF:-1,PT: FUEL TV HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2448
-#EXTINF:-1,PT: HOLLYWOOD HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2461
-#EXTINF:-1,PT: HOLLYWOOD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2462
-#EXTINF:-1,PT: KOMBAT SPORT
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2428
-#EXTINF:-1,PT: MOTORS VISION TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2437
-#EXTINF:-1,PT: MTV PORTUGAL
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2446
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2450
-#EXTINF:-1,PT: Nat Geo Wild
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14115
-#EXTINF:-1,PT: DISCOVERY SHOWCASE HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14983
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2451
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2458
-#EXTINF:-1,PT: DISNEY JOENIOR
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2457
-#EXTINF:-1,PT: JIM JAM
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2454
-#EXTINF:-1,PT: NICK JR.
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14985
-#EXTINF:-1,PT: Canal Panda
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14119
-#EXTINF:-1,PT: Bloomberg
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14112
-#EXTINF:-1,PT: NICKELODEON PT
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2456
-#EXTINF:-1,PT: ODISSEIA
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2452
-#EXTINF:-1,PT: CANAL NOS
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2427
-#EXTINF:-1,PT: RECORD NEWS D
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2488
-#EXTINF:-1,PT: RTP A?ORES
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2507
-#EXTINF:-1,PT: RTP FRICA
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2506
-#EXTINF:-1,PT: RTP MADEIRA
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2505
-#EXTINF:-1,PT: RTP Memðria
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2504
-#EXTINF:-1,PT: SIC CARAS
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2497
-#EXTINF:-1,PT: SIC KIDS
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2498
-#EXTINF:-1,PT: SIC MULHER
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2496
-#EXTINF:-1,PT: SIC Not?cias
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2499
-#EXTINF:-1,PT: SIC RADICAL
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2495
-#EXTINF:-1,PT: SPORT TV +   HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2436
-#EXTINF:-1,PT: SPORT TV 1
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2444
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2435
-#EXTINF:-1,PT: SPORT TV 2
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2443
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2434
-#EXTINF:-1,PT: SPORT TV 3
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2442
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2433
-#EXTINF:-1,PT: SPORT TV 4
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2441
-#EXTINF:-1,PT: SPORT TV 4 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2432
-#EXTINF:-1,PT: SPORT TV 5 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2431
-#EXTINF:-1,PT: SPORTING TV HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2430
-#EXTINF:-1,PT: SYFY HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2463
-#EXTINF:-1,PT: SYFY
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2464
-#EXTINF:-1,PT: TRACE URBAN PT
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2447
-#EXTINF:-1,PT: TV GLOBO
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2490
-#EXTINF:-1,PT: TV GLOBO PREMIUM
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2489
-#EXTINF:-1,PT: TV RECORD HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2494
-#EXTINF:-1,PT: TV SØries
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2480
-#EXTINF:-1,PT: TVCINE 1
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2484
-#EXTINF:-1,PT: TVCINE 1 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2479
-#EXTINF:-1,PT: TVCINE 2
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2483
-#EXTINF:-1,PT: TVCINE 2 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2478
-#EXTINF:-1,PT: TVCINE 3
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2482
-#EXTINF:-1,PT: TVCINE 3 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2477
-#EXTINF:-1,PT: TVCINE 4
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2481
-#EXTINF:-1,PT: TVCINE 4 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2476
-#EXTINF:-1,PT: TVI 24
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2491
-#EXTINF:-1,PT: TVI Fic?ªo
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2493
-#EXTINF:-1,PT: TVSØries HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2475
-#EXTINF:-1,PT: 24 Kitchen HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14096
-#EXTINF:-1,PT: Afro Music
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14127
-#EXTINF:-1,PT: Angelus TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14126
-#EXTINF:-1,PT: BBC World News
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14092
-#EXTINF:-1,PT: Biggs
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14076
-#EXTINF:-1,PT: Blaze
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14084
-#EXTINF:-1,PT: BTV 1 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14102
-#EXTINF:-1,PT: Ca?avision
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14101
-#EXTINF:-1,PT: Can??o Nova
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14110
-#EXTINF:-1,PT: Canal Q
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14108
-#EXTINF:-1,PT: CBS Reality
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14130
-#EXTINF:-1,PT: Channel 1 Russia
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14124
-#EXTINF:-1,PT: CNBC Europe
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14113
-#EXTINF:-1,PT: CNN
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14085
-#EXTINF:-1,PT: Deutsche Welle
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14129
-#EXTINF:-1,PT: Disney Channel Forever
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14117
-#EXTINF:-1,PT: E! Entertainment
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14122
-#EXTINF:-1,PT: Eurochannel
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14140
-#EXTINF:-1,PT: Euronews
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14087
-#EXTINF:-1,PT: Eurosport 1 HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14097
-#EXTINF:-1,PT: France 24
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14081
-#EXTINF:-1,PT: FTV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14114
-#EXTINF:-1,PT: Globo Now
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14106
-#EXTINF:-1,PT: Kuriakos TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14100
-#EXTINF:-1,PT: MCM POP
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14121
-#EXTINF:-1,PT: Mezzo
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14094
-#EXTINF:-1,PT: My Cuisine
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14103
-#EXTINF:-1,PT: NBA TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14109
-#EXTINF:-1,PT: PFC
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14111
-#EXTINF:-1,PT: Porto Canal
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14118
-#EXTINF:-1,PT: Real Madrid TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14138
-#EXTINF:-1,PT: SKY News
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14083
-#EXTINF:-1,PT: SPORT TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14093
-#EXTINF:-1,PT: TLC
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14075
-#EXTINF:-1,PT: Toros TV
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14078
-#EXTINF:-1,PT: Trace Urban
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14132
-#EXTINF:-1,PT: Travel Channel HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14099
-#EXTINF:-1,PT: TV Galicia
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14116
-#EXTINF:-1,PT: TV Record
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14135
-#EXTINF:-1,PT: TV5 Monde
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14091
-#EXTINF:-1,PT: TVE 24H
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14082
-#EXTINF:-1,PT: TVE Internacional
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14090
-#EXTINF:-1,PT: TVEi
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14079
-#EXTINF:-1,PT: TVI
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14120
-#EXTINF:-1,PT: TVI Reality
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14080
-#EXTINF:-1,PT: TVS?ries HD
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14098
-#EXTINF:-1,PT: VH1
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14086
-#EXTINF:-1,PT: VH1 CLASSIC
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/2445
-#EXTINF:-1,PT: CALA E PESCA
-http://www.jadobox.eu:8000/mwdv64grg9/uLFyu4Q3A6/14987
-
+#EXTINF:-1, PT:Hollywood
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2087
+#EXTINF:-1, PT:Nat geo
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2083
+#EXTINF:-1, PT:Fox Crime
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2090
+#EXTINF:-1, PT:24 KITCHEN
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2116
+#EXTINF:-1, PT:A Bola TV
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2115
+#EXTINF:-1, PT:AXN White
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2110
+#EXTINF:-1, PT:AXN Black
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2111
+#EXTINF:-1, PT:AXN
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2112
+#EXTINF:-1, PT:AMC
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2113
+#EXTINF:-1, PT:Baby TV
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2109
+#EXTINF:-1, PT:Eleven Sports2
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2927
+#EXTINF:-1, PT:Disney Channel
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/1809
+#EXTINF:-1, PT:Eleven Sports1
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2892
+#EXTINF:-1, PT:Benfica HD
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/86
+#EXTINF:-1, PT:Mov
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2084
+#EXTINF:-1, PT:Motorvizion TV
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2085
+#EXTINF:-1, PT:Jim Jam
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2086
+#EXTINF:-1, PT:Fox Movies
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2088
+#EXTINF:-1, PT:Fox Life
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2089
+#EXTINF:-1, PT:Fox Comedy
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2091
+#EXTINF:-1, PT:Fox
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2092
+#EXTINF:-1, PT:Fuel TV
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2093
+#EXTINF:-1, PT:EuroNews
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2094
+#EXTINF:-1, PT:EuroSport 2
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2095
+#EXTINF:-1, PT:EuroSport 1
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2096
+#EXTINF:-1, PT:E! Entertainment
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2097
+#EXTINF:-1, PT:Disney Junior
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2098
+#EXTINF:-1, PT:Discovery Showcase
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2099
+#EXTINF:-1, PT:Discovery Channel
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2100
+#EXTINF:-1, PT:CM TV
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2101
+#EXTINF:-1, PT:SBT Brasil
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2069
+#EXTINF:-1, PT:RTP Memoria
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2070
+#EXTINF:-1, PT:RTP MADEIRA
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2071
+#EXTINF:-1, PT:RTP Africa
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2073
+#EXTINF:-1, PT:RTP ACores
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2074
+#EXTINF:-1, PT:RTP 3
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2075
+#EXTINF:-1, PT:RTP 2
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2076
+#EXTINF:-1, PT:RTP 1
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2077
+#EXTINF:-1, PT:Porto Canal
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2078
+#EXTINF:-1, PT:PFC
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2079
+#EXTINF:-1, PT:Odessia
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2080
+#EXTINF:-1, PT:Nickelodeon pt
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2081
+#EXTINF:-1, PT:Nat Geo Wild
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2082
+#EXTINF:-1, PT:Cinemundo
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2102
+#EXTINF:-1, PT:Cartoon Network
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2104
+#EXTINF:-1, PT:Canal Q
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2105
+#EXTINF:-1, PT:Canal Panda
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2106
+#EXTINF:-1, PT:Caca & Pesca
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2107
+#EXTINF:-1, PT:Biggs
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2108
+#EXTINF:-1, PT:Sport TV 5
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2062
+#EXTINF:-1, PT:SIC
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2068
+#EXTINF:-1, PT:SIC CARAS
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2067
+#EXTINF:-1, PT:Sic Kids
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2066
+#EXTINF:-1, PT:SIC MULHER
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2065
+#EXTINF:-1, PT:SIC NOTICIAS
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2064
+#EXTINF:-1, PT:SIC RADICAL
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2063
+#EXTINF:-1, PT:Syfy
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2060
+#EXTINF:-1, PT:Sporting TV
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2061
+#EXTINF:-1, PT:TLC
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2059
+#EXTINF:-1, PT:TV Record
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2052
+#EXTINF:-1, PT:TV Globo Premium
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2053
+#EXTINF:-1, PT:TV Globo
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2054
+#EXTINF:-1, PT:TV Cine 4
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2058
+#EXTINF:-1, PT:TV Cine 3
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2057
+#EXTINF:-1, PT:TV Cine 2
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2056
+#EXTINF:-1, PT:TV Cine 1
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2055
+#EXTINF:-1, PT:TVI
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2051
+#EXTINF:-1, PT:TVI 24
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2050
+#EXTINF:-1, PT:TVI FICao
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2049
+#EXTINF:-1, PT:TVI Reality
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2048
+#EXTINF:-1, PT:SportTV 1
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/7001
+#EXTINF:-1, PT:SportTV 2
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/7002
+#EXTINF:-1, PT:Sporttv 3
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/7003
+#EXTINF:-1, PT:Sporttv 4
+http://iptv.atlasiptv.net:88/552738351481634/552738351481634/7004
 
 #EXTINF:0,[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]
 http://0.0.0.0:1234
