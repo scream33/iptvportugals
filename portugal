@@ -21,27 +21,17 @@ rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sap
 http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
 #EXTINF:-1 tvg-id="tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV FÁTIMA[/B][/I][/COLOR]
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png",SIC NOTICIAS
-rtmp://213.13.26.42/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?live=rtmp%3A%2F%2F%7B%24hostname%7D%2Flive%2Fsicnoticias&file=http%3A%2F%2Frd3.videos.sapo.pt%2Fsyqqba8JjeKyS8WFMA1H%2Fmov%2F24&autoStart=1 live=1 
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png" group-title="PORTUGAL”,SIC
-http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2019 - TeamBlue)
-http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" group-title="PORTUGAL",SIC NOTICIAS (Copyright © 2019 - TeamBlue)
-http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2019 - TeamBlue)
-http://live.impresa.pt/live/sic/sic540p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" group-title="PORTUGAL",SIC (Copyright © 2019 - TeamBlue)
-http://live.impresa.pt/live/sic/sic360p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2019 - TeamBlue)
+
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo/SIC.png" group-title="Entertainment",SIC
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://ptiptv.tk/logo/TVI.png" group-title="Entertainment",TVI
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" group-title="PORTUGAL",TVI (Copyright © 2019 - TeamBlue)
-http://188.93.238.153:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo/SICN.png" group-title="News",SIC Notícias
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
 #EXTINF:-1,PT| [COLOR yellow][I][B]uploading please wait[/B][/I][/COLOR](005)
 http://123.456.78.1
-#EXTM3U
+
 #EXTINF:-1, PT:Hollywood
 http://iptv.atlasiptv.net:88/552738351481634/552738351481634/2087
 #EXTINF:-1, PT:Nat geo
