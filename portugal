@@ -33,174 +33,295 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 http://123.456.78.1
 
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20616
-#EXTINF:-1,RTP 2 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20617
-#EXTINF:-1,RTP 3 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20627
-#EXTINF:-1,RTP Acores
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20618
-#EXTINF:-1,RTP Africa
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20619
-#EXTINF:-1,RTP Madeira
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20620
-#EXTINF:-1,TVI 24 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20629
-#EXTINF:-1,TVI Ficçao HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20622
-#EXTINF:-1,TVI HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20621
-#EXTINF:-1,TVI Reality HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20623
-#EXTINF:-1,Afro Music PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20698
-#EXTINF:-1,SIC HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20624
-#EXTINF:-1,SIC Kids PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20673
-#EXTINF:-1,SIC Mulher HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20625
-#EXTINF:-1,SIC Noticias HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20628
-#EXTINF:-1,SIC Radical HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20626
-#EXTINF:-1,CM TV HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20630
-#EXTINF:-1,Euronews PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20631
-#EXTINF:-1,Sport TV + HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20632
-#EXTINF:-1,Sport TV 1 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20633
-#EXTINF:-1,Sport TV 2 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20634
-#EXTINF:-1,Sport TV 3 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20635
-#EXTINF:-1,Sport TV 4 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20636
-#EXTINF:-1,Sport TV 5 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20637
-#EXTINF:-1,Eleven sport 1 (Barca vs Valence )
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20638
-#EXTINF:-1,Eleven Sports 2 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20639
-#EXTINF:-1,Eleven Sports 3 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20640
-#EXTINF:-1,Eleven Sports 4 HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20641
-#EXTINF:-1,Eleven Sports 5 HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20642
-#EXTINF:-1,Sporting Tv HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20645
-#EXTINF:-1,Benfica TV HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20643
-#EXTINF:-1,NBA HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20644
-#EXTINF:-1,Eurosport 1 HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20646
-#EXTINF:-1,Eurosport 2 HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20647
-#EXTINF:-1,Motorvision HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20648
-#EXTINF:-1,TVC 1 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20649
-#EXTINF:-1,TVC 2 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20650
-#EXTINF:-1,TVC 3 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20651
-#EXTINF:-1,TVC 4 HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20652
-#EXTINF:-1,TV Series HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20653
-#EXTINF:-1,Hollywood HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20654
-#EXTINF:-1,Fox Crime HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20658
-#EXTINF:-1,Fox HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20655
-#EXTINF:-1,Fox Movies PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20657
-#EXTINF:-1,FoxLife HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20656
-#EXTINF:-1,Fox Comedy HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20659
-#EXTINF:-1,24 Kitchen HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20690
-#EXTINF:-1,TV Globo HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20699
-#EXTINF:-1,TV Globo premuim HD
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20700
-#EXTINF:-1,TLC HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20691
-#EXTINF:-1,Travel channel HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20692
-#EXTINF:-1,Fuel TV HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20688
-#EXTINF:-1,Historia HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20677
-#EXTINF:-1,MTV HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20695
-#EXTINF:-1,My Cuisine HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20693
-#EXTINF:-1,SyFy HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20661
-#EXTINF:-1,MCM POP PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20697
-#EXTINF:-1,MCM TOP PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20696
-#EXTINF:-1,VH1 HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20694
-#EXTINF:-1,Nick JR HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20667
-#EXTINF:-1,Nickeledeon HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20666
-#EXTINF:-1,Panda HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20672
-#EXTINF:-1,Panda Piggs PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20671
-#EXTINF:-1,Cartoon Network PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20675
-#EXTINF:-1,Disney Channel PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20669
-#EXTINF:-1,Disney Junior PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20674
-#EXTINF:-1,Baby Tv PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20670
-#EXTINF:-1,Jim Jam PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20668
-#EXTINF:-1,Sundance Channel HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20660
-#EXTINF:-1,AMC HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20665
-#EXTINF:-1,AXN Black HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20664
-#EXTINF:-1,AXN HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20662
-#EXTINF:-1,Axn White HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20663
-#EXTINF:-1,CBS Reality HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20685
-#EXTINF:-1,Discovery Channel HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20680
-#EXTINF:-1,Discovery Showcase HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20681
-#EXTINF:-1,E! Entertainment HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20686
-#EXTINF:-1,Odisseia PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20687
-#EXTINF:-1,Caçavision
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20684
-#EXTINF:-1,Caça e Pesca
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20683
-#EXTINF:-1,Fine Line Network PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20682
-#EXTINF:-1,National Geo Wild
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20679
-#EXTINF:-1,National Geo HD PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20678
-#EXTINF:-1,Crime Investigation PT
-http://iptvboxy.com:8000/Fluessonic/Fluessonic/20676
+#EXTINF:-1,PT: AMC HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9646
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9645
+#EXTINF:-1,PT: AXN HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9644
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9643
+#EXTINF:-1,PT: BTV 1 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9642
+#EXTINF:-1,PT: Discovery Channel FHD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31446
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9641
+#EXTINF:-1,PT: FOX Movies HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9640
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9639
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9638
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9637
+#EXTINF:-1,PT: FOX HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9636
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9635
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9634
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9633
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9632
+#EXTINF:-1,PT: SPORT TV+HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16057
+#EXTINF:-1,PT: SPORT TV 1 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16056
+#EXTINF:-1,PT: SPORT TV 2 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16055
+#EXTINF:-1,PT: SPORT TV 3 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16054
+#EXTINF:-1,PT: SPORT TV 4 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16053
+#EXTINF:-1,PT: SPORT TV 5 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16052
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9625
+#EXTINF:-1,PT: TVCINE 1 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16051
+#EXTINF:-1,PT: TVCINE 2 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16050
+#EXTINF:-1,PT: TVCINE 3 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16049
+#EXTINF:-1,PT: TVCINE 4 HD 1080P
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16048
+#EXTINF:-1,PT: SyFy HD 1080
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9624
+#EXTINF:-1,PT: Sport TV1
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6494
+#EXTINF:-1,PT: Sport TV2
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6495
+#EXTINF:-1,PT: Sport TV3
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6496
+#EXTINF:-1,PT: Sport TV4
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6497
+#EXTINF:-1,PT: Sport TV5
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6498
+#EXTINF:-1,PT: Sport TV NBA HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4483
+#EXTINF:-1,PT: TV Cine 1HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6499
+#EXTINF:-1,PT: TV Cine 2HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6500
+#EXTINF:-1,PT: TV Cine 3HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6501
+#EXTINF:-1,PT: TV Cine 4HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6502
+#EXTINF:-1,PT: TV SERIES
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6503
+#EXTINF:-1,PT: TV SERIES FHD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31447
+#EXTINF:-1,PT: RTP 1
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3643
+#EXTINF:-1,PT: RTP 2 HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/5427
+#EXTINF:-1,PT: RTP 2
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3654
+#EXTINF:-1,PT: RTP 3
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3642
+#EXTINF:-1,PT: SIC
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4476
+#EXTINF:-1,PT: TVI HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/955
+#EXTINF:-1,PT: TVI
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4477
+#EXTINF:-1,PT: 24 Kitchen HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12609
+#EXTINF:-1,PT: A Bola TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4482
+#EXTINF:-1,PT: Blaze
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4495
+#EXTINF:-1,PT: AandE TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12599
+#EXTINF:-1,PT: Afro Music
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4496
+#EXTINF:-1,PT: AMC
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3667
+#EXTINF:-1,PT: AR TV HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12604
+#EXTINF:-1,PT: AXN BLACK HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4669
+#EXTINF:-1,PT: AXN HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4667
+#EXTINF:-1,PT: AXN WHITE HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4668
+#EXTINF:-1,PT: BABY TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3666
+#EXTINF:-1,PT: Biggs
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12623
+#EXTINF:-1,PT: BTV 1 HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3645
+#EXTINF:-1,PT: Canal 11 FHD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/30725
+#EXTINF:-1,PT: Caçae Pesca
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12627
+#EXTINF:-1,PT: CAÇÃVISION
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4666
+#EXTINF:-1,PT: Canal de Historia
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3665
+#EXTINF:-1,PT: Canal Panda
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3664
+#EXTINF:-1,PT: Canal Q
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/28964
+#EXTINF:-1,PT: Cinemundo
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3663
+#EXTINF:-1,PT: CM TV HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15202
+#EXTINF:-1,PT: CM TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3662
+#EXTINF:-1,PT: Crime & Incvestigation
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12598
+#EXTINF:-1,PT: Discovery Channel
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4490
+#EXTINF:-1,PT: Discovery Showcase HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12597
+#EXTINF:-1,PT: Disney Channel
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4493
+#EXTINF:-1,PT: Disney Junior
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3661
+#EXTINF:-1,PT: E! Entertainment
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12621
+#EXTINF:-1,PT: EuroNews
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12626
+#EXTINF:-1,PT: EUROSPORT HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/1520
+#EXTINF:-1,PT: EUROSPORT 2
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12367
+#EXTINF:-1,PT: FightBOX HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12602
+#EXTINF:-1,PT: Food Network
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12607
+#EXTINF:-1,PT: FOX Comedy
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4488
+#EXTINF:-1,PT: FOX CRIME HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4665
+#EXTINF:-1,PT: FOX HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4664
+#EXTINF:-1,PT: FOX LIFE HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4663
+#EXTINF:-1,PT: FOX Movies
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4489
+#EXTINF:-1,PT: FOX News
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12622
+#EXTINF:-1,PT: France 24
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12616
+#EXTINF:-1,PT: Fuel TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4484
+#EXTINF:-1,PT: Fine Living Network FHD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31317
+#EXTINF:-1,PT: Kuriakos Kids
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31321
+#EXTINF:-1,PT: LOCALVISAO TV HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31319
+#EXTINF:-1,PT: MACAU TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31320
+#EXTINF:-1,PT: NOW
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31322
+#EXTINF:-1,PT: SANTUARIO DE FATIMA HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31318
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4661
+#EXTINF:-1,PT: Hollywood HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4486
+#EXTINF:-1,PT: JIM JAM
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3660
+#EXTINF:-1,PT: MCM TOP
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4498
+#EXTINF:-1,PT: My Cuisine
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12625
+#EXTINF:-1,PT: MCS LifeStyle
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12596
+#EXTINF:-1,PT: Fashion TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3659
+#EXTINF:-1,PT: Motorvision
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4485
+#EXTINF:-1,PT: Canal 180
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4497
+#EXTINF:-1,PT: MTV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3658
+#EXTINF:-1,PT: Nat Geo Wild
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4491
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4662
+#EXTINF:-1,PT: NBA HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12603
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31316
+#EXTINF:-1,PT: Nickelodeon
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3657
+#EXTINF:-1,PT: ODISSEIA
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/1517
+#EXTINF:-1,PT: Panda
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4492
+#EXTINF:-1,PT: PANDA BIGGS
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3656
+#EXTINF:-1,PT: PFC
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4660
+#EXTINF:-1,PT: Porto Canal
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3655
+#EXTINF:-1,PT: Regiões TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12620
+#EXTINF:-1,PT: RTP Açores
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4481
+#EXTINF:-1,PT: RTP Africa
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4480
+#EXTINF:-1,PT: RTP MADEIRA
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3653
+#EXTINF:-1,PT: RTP MEMORIA
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3652
+#EXTINF:-1,PT: SIC K
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3651
+#EXTINF:-1,PT: Sic Kids
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4494
+#EXTINF:-1,PT: Sic Caras
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/14615
+#EXTINF:-1,PT: SIC MULHER
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3650
+#EXTINF:-1,PT: SIC NOTICIAS
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3649
+#EXTINF:-1,PT: SIC Radical
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4479
+#EXTINF:-1,PT: SKYNews
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12615
+#EXTINF:-1,PT: MÁS CHIC
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12613
+#EXTINF:-1,PT: MVM
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12619
+#EXTINF:-1,PT: Kuriakos TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12600
+#EXTINF:-1,PT: DOG HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/14629
+#EXTINF:-1,PT: SyFy
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4487
+#EXTINF:-1,PT: TCV Cabo Verde
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12612
+#EXTINF:-1,PT: TLC
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12611
+#EXTINF:-1,PT: Toros TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12610
+#EXTINF:-1,PT: TPA ANGOLA
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12614
+#EXTINF:-1,PT: Trace TV
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12617
+#EXTINF:-1,PT: Travel HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12605
+#EXTINF:-1,PT: TV Globo
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/5426
+#EXTINF:-1,PT: Tv Record
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3648
+#EXTINF:-1,PT: Tvi 24
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3647
+#EXTINF:-1,PT: TVI FICCAO
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3646
+#EXTINF:-1,PT: TVI Reality
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4478
+#EXTINF:-1,PT: VH1
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12618
+#EXTINF:-1,PT: ZAP VIVA HD
+http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31315
+
 
 #EXTINF:0,[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]
 http://0.0.0.0:1234
