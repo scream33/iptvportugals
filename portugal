@@ -29,8 +29,8 @@ http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo/SICN.png" group-title="News",SIC Notícias
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 
-#EXTINF:-1,PT| [COLOR yellow][I][B]news radio jornal da madeira na lista radios by
-Aurelio updating cantinho da madeira[/B][/I][/COLOR](005)
+#EXTINF:-1,PT| [COLOR yellow][I][B]radio jornal da madeira na lista radios byAurelio updating cantinho da madeira[/B][/I][/COLOR](005)
+#EXTINF:-1,PT| [COLOR yellow][I][B]updating cantinho da madeira[/B][/I][/COLOR](005)
 http://123.456.78.1
 
 #EXTM3U
