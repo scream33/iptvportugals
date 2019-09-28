@@ -370,7 +370,7 @@ rtmp://46.4.25.213/live-ann7/ann7-mid.stream
 #EXTINF:0,[COLOR mediumslateblue]» » RÁDIOS « «[/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1radio="true"tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/cantinho-da-madeira.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]Radio cantinho da madeira[/B][/I][/COLOR]
-https://pt.radioonline.fm/oucam/Radio-Cantinho-da-Madeira
+https://www.radio.es/s/cantinhodamadeira
 #EXTINF:-1 radio="true"tvg-logo="https://img.radios.com.br/radio/lg/radio8702_1439401340.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]Radio jornal da madeira[/B][/I][/COLOR]
 http://194.38.136.130:8000/stream
 #EXTINF:-1 radio="true"tvg-logo="http://pt.radioonline.fm/images/tsf-radio.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TSF [/B][/I][/COLOR]
