@@ -227,6 +227,10 @@ http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
 rtmp://46.4.25.213/live-ann7/ann7-mid.stream 
 #EXTINF:0,[COLOR mediumslateblue]» » RÁDIOS « «[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1radio="true"tvg-logo="https://cdn.webrad.io/images/logos/radioonline-com-pt/cantinho-da-madeira.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]Radio cantinho da madeira[/B][/I][/COLOR]
+https://www.radio.net/s/cantinhodamadeira
+#EXTINF:-1 radio="true"tvg-logo="https://img.radios.com.br/radio/lg/radio8702_1439401340.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]Radio jornal da madeira[/B][/I][/COLOR]
+http://194.38.136.130:8000/stream
 #EXTINF:-1 radio="true"tvg-logo="http://pt.radioonline.fm/images/tsf-radio.png" group-title="RADIOS",[COLOR mediumslateblue][I][B]TSF [/B][/I][/COLOR]
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-1 radio="true"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Radio_Comercial.jpg/305px-Logo_Radio_Comercial.jpg" group-title="RADIOS",[COLOR mediumslateblue][I][B]RADIO COMERCIAL[/B][/I][/COLOR]
