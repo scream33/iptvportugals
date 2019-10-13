@@ -34,413 +34,704 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 http://123.456.78.1
 
 #EXTM3U
-#EXTINF:-1,PT| A BOLA TV
-http://line.dynoconnect.me:8000/linda3/LINDA3/7309
-#EXTINF:-1,PT| KOMBAT SPORT
-http://line.dynoconnect.me:8000/linda3/LINDA3/40324
-#EXTINF:-1,PT| SPORT TV + FHD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7265
-#EXTINF:-1,PT| SPORT TV 1 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7264
-#EXTINF:-1,PT| SPORT TV 2 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7263
-#EXTINF:-1,PT| SPORT TV 3 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7262
-#EXTINF:-1,PT| SPORT TV 4 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7261
-#EXTINF:-1,PT| SPORT TV 5 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7260
-#EXTINF:-1,PT| SPORTING TV HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7259
-#EXTINF:-1,PT| ELEVEN SPORTS 1 FHD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40337
-#EXTINF:-1,PT| ELEVEN SPORTS 1
-http://line.dynoconnect.me:8000/linda3/LINDA3/40336
-#EXTINF:-1,PT| ELEVEN SPORTS 2 FHD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40335
-#EXTINF:-1,PT| ELEVEN SPORTS 2
-http://line.dynoconnect.me:8000/linda3/LINDA3/40334
-#EXTINF:-1,PT| ELEVEN SPORTS 3 FHD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40333
-#EXTINF:-1,PT| ELEVEN SPORTS 3
-http://line.dynoconnect.me:8000/linda3/LINDA3/40332
-#EXTINF:-1,PT| ELEVEN SPORTS 4 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40331
-#EXTINF:-1,PT| ELEVEN SPORTS 5 FHD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40329
-#EXTINF:-1,PT| ELEVEN SPORTS 6 FHD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40327
-#EXTINF:-1,PT| MOTORS TV
-http://line.dynoconnect.me:8000/linda3/LINDA3/7281
-#EXTINF:-1,PT| AXN HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7306
-#EXTINF:-1,PT| AXN BLACK HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7307
-#EXTINF:-1,PT| AXN WHITE HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7305
-#EXTINF:-1,PT| TV SERIES HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7251
-#EXTINF:-1,PT| CANAL HOLLYWOOD HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40323
-#EXTINF:-1,PT| CINEMUNDO
-http://line.dynoconnect.me:8000/linda3/LINDA3/40319
-#EXTINF:-1,PT| AMC HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40322
-#EXTINF:-1,PT| TV CINE 1 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7256
-#EXTINF:-1,PT| TV CINE 2 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7255
-#EXTINF:-1,PT| TV CINE 3 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7254
-#EXTINF:-1,PT| TV CINE 4 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/7253
-#EXTINF:-1,PT| SYFY HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40321
-#EXTINF:-1,PT| CANCAO NOVA
-http://line.dynoconnect.me:8000/linda3/LINDA3/7297
-#EXTINF:-1,PT| TRACE TV HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/40302
-#EXTINF:-1,PT| ICONCERTS
-http://line.dynoconnect.me:8000/linda3/LINDA3/40301
-#EXTINF:-1,PT| MCM POP
-http://line.dynoconnect.me:8000/linda3/LINDA3/40299
-#EXTINF:-1,PT| MCM TOP
-http://line.dynoconnect.me:8000/linda3/LINDA3/40298
-#EXTINF:-1,PT| MEZZO
-http://line.dynoconnect.me:8000/linda3/LINDA3/40297
-#EXTINF:-1,PT| MTV DANCE
-http://line.dynoconnect.me:8000/linda3/LINDA3/40296
-#EXTINF:-1,PT| MTV PORTUGAL
-http://line.dynoconnect.me:8000/linda3/LINDA3/40295
-#EXTINF:-1,PT| VH1
-http://line.dynoconnect.me:8000/linda3/LINDA3/40294
-#EXTINF:-1,PT| VH1 CLASSIC
-http://line.dynoconnect.me:8000/linda3/LINDA3/40293
-#EXTINF:-1,PT| AE PORTUGAL
-http://line.dynoconnect.me:8000/linda3/LINDA3/54151
-#EXTINF:-1,PT| AR TV CANAL PARLEMENTO
-http://line.dynoconnect.me:8000/linda3/LINDA3/54150
-#EXTINF:-1,PT| BBC ENTERTAINMENT
-http://line.dynoconnect.me:8000/linda3/LINDA3/40315
-#EXTINF:-1,PT| BENFICA TV HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/54152
-#EXTINF:-1,PT| BLOOMBERG TV EUROPE
-http://line.dynoconnect.me:8000/linda3/LINDA3/54153
-#EXTINF:-1,PT| CANAL NOS
-http://line.dynoconnect.me:8000/linda3/LINDA3/54154
-#EXTINF:-1,PT| CM TV
-http://line.dynoconnect.me:8000/linda3/LINDA3/54155
-#EXTINF:-1,PT| DISCOVERY SHOWCASE HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/54157
-#EXTINF:-1,PT| EURO NEWS PORTUGUES
-http://line.dynoconnect.me:8000/linda3/LINDA3/54158
-#EXTINF:-1,PT| EUROSPORT 1 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/54159
-#EXTINF:-1,PT| EUROSPORT 2 HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/54160
-#EXTINF:-1,PT| FOX
-http://line.dynoconnect.me:8000/linda3/LINDA3/54162
-#EXTINF:-1,PT| FOX MOVIES
-http://line.dynoconnect.me:8000/linda3/LINDA3/54161
-#EXTINF:-1,PT| FUEL TV EUROPE
-http://line.dynoconnect.me:8000/linda3/LINDA3/54163
-#EXTINF:-1,PT| GALICIA TV EUROPA
-http://line.dynoconnect.me:8000/linda3/LINDA3/54164
-#EXTINF:-1,PT| NBA SPORT HD
-http://line.dynoconnect.me:8000/linda3/LINDA3/45344
-#EXTINF:-1,PT| TLC PAN REGIONAL
-http://line.dynoconnect.me:8000/linda3/LINDA3/54166
-#EXTINF:-1,PT| TVE INTERNATIONAL EUROPA
-http://line.dynoconnect.me:8000/linda3/LINDA3/54167
-
-#EXTINF:-1,PT: AMC HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9646
-#EXTINF:-1,PT: AXN BLACK HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9645
-#EXTINF:-1,PT: AXN HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9644
-#EXTINF:-1,PT: AXN WHITE HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9643
-#EXTINF:-1,PT: BTV 1 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9642
-#EXTINF:-1,PT: Discovery Channel FHD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31446
-#EXTINF:-1,PT: EUROSPORT 1 HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9641
-#EXTINF:-1,PT: FOX Movies HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9640
-#EXTINF:-1,PT: FIGHT NETWORK HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9639
-#EXTINF:-1,PT: FOX Comedy HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9638
-#EXTINF:-1,PT: FOX CRIME HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9637
-#EXTINF:-1,PT: FOX HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9636
-#EXTINF:-1,PT: FOX LIFE HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9635
-#EXTINF:-1,PT: FUEL TV HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9634
-#EXTINF:-1,PT: SIC NOTICIAS HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9633
-#EXTINF:-1,PT: SIC RADICAL HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9632
-#EXTINF:-1,PT: SPORT TV+HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16057
-#EXTINF:-1,PT: SPORT TV 1 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16056
-#EXTINF:-1,PT: SPORT TV 2 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16055
-#EXTINF:-1,PT: SPORT TV 3 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16054
-#EXTINF:-1,PT: SPORT TV 4 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16053
-#EXTINF:-1,PT: SPORT TV 5 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16052
-#EXTINF:-1,PT: Sporting TV HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9625
-#EXTINF:-1,PT: TVCINE 1 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16051
-#EXTINF:-1,PT: TVCINE 2 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16050
-#EXTINF:-1,PT: TVCINE 3 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16049
-#EXTINF:-1,PT: TVCINE 4 HD 1080P
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/16048
-#EXTINF:-1,PT: SyFy HD 1080
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/9624
-#EXTINF:-1,PT: Sport TV1
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6494
-#EXTINF:-1,PT: Sport TV2
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6495
-#EXTINF:-1,PT: Sport TV3
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6496
-#EXTINF:-1,PT: Sport TV4
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6497
-#EXTINF:-1,PT: Sport TV5
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6498
-#EXTINF:-1,PT: Sport TV NBA HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4483
-#EXTINF:-1,PT: TV Cine 1HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6499
-#EXTINF:-1,PT: TV Cine 2HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6500
-#EXTINF:-1,PT: TV Cine 3HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6501
-#EXTINF:-1,PT: TV Cine 4HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6502
-#EXTINF:-1,PT: TV SERIES
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/6503
-#EXTINF:-1,PT: TV SERIES FHD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31447
-#EXTINF:-1,PT: RTP 1
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3643
-#EXTINF:-1,PT: RTP 2 HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/5427
-#EXTINF:-1,PT: RTP 2
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3654
-#EXTINF:-1,PT: RTP 3
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3642
-#EXTINF:-1,PT: SIC
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4476
-#EXTINF:-1,PT: TVI HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/955
-#EXTINF:-1,PT: TVI
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4477
-#EXTINF:-1,PT: 24 Kitchen HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12609
-#EXTINF:-1,PT: A Bola TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4482
-#EXTINF:-1,PT: Blaze
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4495
-#EXTINF:-1,PT: AandE TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12599
-#EXTINF:-1,PT: Afro Music
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4496
-#EXTINF:-1,PT: AMC
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3667
-#EXTINF:-1,PT: AR TV HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12604
-#EXTINF:-1,PT: AXN BLACK HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4669
-#EXTINF:-1,PT: AXN HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4667
-#EXTINF:-1,PT: AXN WHITE HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4668
-#EXTINF:-1,PT: BABY TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3666
-#EXTINF:-1,PT: Biggs
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12623
-#EXTINF:-1,PT: BTV 1 HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3645
-#EXTINF:-1,PT: Canal 11 FHD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/30725
-#EXTINF:-1,PT: Caçae Pesca
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12627
-#EXTINF:-1,PT: CAÇÃVISION
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4666
-#EXTINF:-1,PT: Canal de Historia
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3665
-#EXTINF:-1,PT: Canal Panda
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3664
-#EXTINF:-1,PT: Canal Q
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/28964
-#EXTINF:-1,PT: Cinemundo
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3663
-#EXTINF:-1,PT: CM TV HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/15202
-#EXTINF:-1,PT: CM TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3662
-#EXTINF:-1,PT: Crime & Incvestigation
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12598
-#EXTINF:-1,PT: Discovery Channel
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4490
-#EXTINF:-1,PT: Discovery Showcase HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12597
-#EXTINF:-1,PT: Disney Channel
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4493
-#EXTINF:-1,PT: Disney Junior
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3661
-#EXTINF:-1,PT: E! Entertainment
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12621
-#EXTINF:-1,PT: EuroNews
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12626
-#EXTINF:-1,PT: EUROSPORT HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/1520
-#EXTINF:-1,PT: EUROSPORT 2
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12367
-#EXTINF:-1,PT: FightBOX HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12602
-#EXTINF:-1,PT: Food Network
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12607
-#EXTINF:-1,PT: FOX Comedy
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4488
-#EXTINF:-1,PT: FOX CRIME HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4665
-#EXTINF:-1,PT: FOX HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4664
-#EXTINF:-1,PT: FOX LIFE HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4663
-#EXTINF:-1,PT: FOX Movies
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4489
-#EXTINF:-1,PT: FOX News
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12622
-#EXTINF:-1,PT: France 24
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12616
-#EXTINF:-1,PT: Fuel TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4484
-#EXTINF:-1,PT: Fine Living Network FHD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31317
-#EXTINF:-1,PT: Kuriakos Kids
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31321
-#EXTINF:-1,PT: LOCALVISAO TV HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31319
-#EXTINF:-1,PT: MACAU TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31320
-#EXTINF:-1,PT: NOW
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31322
-#EXTINF:-1,PT: SANTUARIO DE FATIMA HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31318
-#EXTINF:-1,PT: GLOBO PREMIUM
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4661
-#EXTINF:-1,PT: Hollywood HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4486
-#EXTINF:-1,PT: JIM JAM
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3660
-#EXTINF:-1,PT: MCM TOP
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4498
-#EXTINF:-1,PT: My Cuisine
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12625
-#EXTINF:-1,PT: MCS LifeStyle
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12596
-#EXTINF:-1,PT: Fashion TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3659
-#EXTINF:-1,PT: Motorvision
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4485
-#EXTINF:-1,PT: Canal 180
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4497
-#EXTINF:-1,PT: MTV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3658
-#EXTINF:-1,PT: Nat Geo Wild
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4491
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4662
-#EXTINF:-1,PT: NBA HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12603
-#EXTINF:-1,PT: NOS STUDIOS HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31316
-#EXTINF:-1,PT: Nickelodeon
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3657
-#EXTINF:-1,PT: ODISSEIA
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/1517
-#EXTINF:-1,PT: Panda
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4492
-#EXTINF:-1,PT: PANDA BIGGS
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3656
-#EXTINF:-1,PT: PFC
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4660
-#EXTINF:-1,PT: Porto Canal
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3655
-#EXTINF:-1,PT: Regiões TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12620
-#EXTINF:-1,PT: RTP Açores
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4481
-#EXTINF:-1,PT: RTP Africa
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4480
-#EXTINF:-1,PT: RTP MADEIRA
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3653
-#EXTINF:-1,PT: RTP MEMORIA
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3652
-#EXTINF:-1,PT: SIC K
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3651
-#EXTINF:-1,PT: Sic Kids
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4494
-#EXTINF:-1,PT: Sic Caras
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/14615
-#EXTINF:-1,PT: SIC MULHER
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3650
-#EXTINF:-1,PT: SIC NOTICIAS
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3649
-#EXTINF:-1,PT: SIC Radical
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4479
-#EXTINF:-1,PT: SKYNews
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12615
-#EXTINF:-1,PT: MÁS CHIC
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12613
-#EXTINF:-1,PT: MVM
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12619
-#EXTINF:-1,PT: Kuriakos TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12600
-#EXTINF:-1,PT: DOG HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/14629
-#EXTINF:-1,PT: SyFy
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4487
-#EXTINF:-1,PT: TCV Cabo Verde
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12612
-#EXTINF:-1,PT: TLC
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12611
-#EXTINF:-1,PT: Toros TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12610
-#EXTINF:-1,PT: TPA ANGOLA
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12614
-#EXTINF:-1,PT: Trace TV
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12617
-#EXTINF:-1,PT: Travel HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12605
-#EXTINF:-1,PT: TV Globo
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/5426
-#EXTINF:-1,PT: Tv Record
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3648
-#EXTINF:-1,PT: Tvi 24
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3647
-#EXTINF:-1,PT: TVI FICCAO
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/3646
-#EXTINF:-1,PT: TVI Reality
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/4478
-#EXTINF:-1,PT: VH1
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/12618
-#EXTINF:-1,PT: ZAP VIVA HD
-http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/31315
+#EXTINF:-1,PT : RTP 1 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/812.ts
+#EXTINF:-1,PT : RTP 2 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/813.ts
+#EXTINF:-1,PT : SIC [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/814.ts
+#EXTINF:-1,PT : TVI [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/815.ts
+#EXTINF:-1,PT : SIC NOTICIAS [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/816.ts
+#EXTINF:-1,PT : TVI 24 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/818.ts
+#EXTINF:-1,PT : RTP 3 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/817.ts
+#EXTINF:-1,PT : PORTO CANAL [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/878.ts
+#EXTINF:-1,PT : TVSERIES [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/912.ts
+#EXTINF:-1,PT : CMTV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/836.ts
+#EXTINF:-1,PT : GLOBO NOW [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/863.ts
+#EXTINF:-1,PT : GLOBO [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/862.ts
+#EXTINF:-1,PT : TVI REALITY [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/911.ts
+#EXTINF:-1,PT : TVI FICCAO [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/910.ts
+#EXTINF:-1,PT : A BOLA TV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/820.ts
+#EXTINF:-1,PT : CANAL 11 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/832.ts
+#EXTINF:-1,PT : SPORT TV   [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/890.ts
+#EXTINF:-1,PT : SPORT TV 1 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/891.ts
+#EXTINF:-1,PT : SPORT TV 2 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/892.ts
+#EXTINF:-1,PT : SPORT TV 3 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/893.ts
+#EXTINF:-1,PT : SPORT TV 4 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/894.ts
+#EXTINF:-1,PT : SPORT TV 5 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/895.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 5 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/847.ts
+#EXTINF:-1,PT : BTV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/828.ts
+#EXTINF:-1,PT : SPORT TV NBA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/896.ts
+#EXTINF:-1,PT : SPORTING TV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/897.ts
+#EXTINF:-1,PT : EUROSPORT 2 HD [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/852.ts
+#EXTINF:-1,PT : MOTORVISION [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/869.ts
+#EXTINF:-1,PT : KOMBAT SPORT [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/867.ts
+#EXTINF:-1,PT : CACAVISION [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/831.ts
+#EXTINF:-1,PT : CACA E PESCA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/830.ts
+#EXTINF:-1,PT : DOG TV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/841.ts
+#EXTINF:-1,PT : PFC [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/877.ts
+#EXTINF:-1,PT : CINEMUNDO [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/835.ts
+#EXTINF:-1,PT : TVCINE 1 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/906.ts
+#EXTINF:-1,PT : TVCINE 2 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/907.ts
+#EXTINF:-1,PT : TVCINE 3 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/908.ts
+#EXTINF:-1,PT : TVCINE 4 [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/909.ts
+#EXTINF:-1,PT : FOX MOVIES [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/858.ts
+#EXTINF:-1,PT : FOX LIFE [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/857.ts
+#EXTINF:-1,PT : FOX CRIME [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/856.ts
+#EXTINF:-1,PT : FOX COMEDY [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/855.ts
+#EXTINF:-1,PT : AXN WHITE [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/825.ts
+#EXTINF:-1,PT : AXN BLACK [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/824.ts
+#EXTINF:-1,PT : AXN [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/823.ts
+#EXTINF:-1,PT : AMC [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/822.ts
+#EXTINF:-1,PT : TV RECORD [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/905.ts
+#EXTINF:-1,PT : TRACE URBAN [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/904.ts
+#EXTINF:-1,PT : TRACE TOCA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/903.ts
+#EXTINF:-1,PT : TPA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/902.ts
+#EXTINF:-1,PT : SYFY [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/898.ts
+#EXTINF:-1,PT : SKY NEWS [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/889.ts
+#EXTINF:-1,PT : SIC RADICAL [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/888.ts
+#EXTINF:-1,PT : SIC K [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/886.ts
+#EXTINF:-1,PT : RUSSIA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/884.ts
+#EXTINF:-1,PT : RTP MEMORIA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/883.ts
+#EXTINF:-1,PT : RTP MADEIRA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/882.ts
+#EXTINF:-1,PT : RTP AFRICA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/881.ts
+#EXTINF:-1,PT : RTP ACORES [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/880.ts
+#EXTINF:-1,PT : RECORD NEWS [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/879.ts
+#EXTINF:-1,PT : PANDA BIGGS [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/876.ts
+#EXTINF:-1,PT : PANDA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/875.ts
+#EXTINF:-1,PT : NICKELODEON [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/873.ts
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC WILD [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/872.ts
+#EXTINF:-1,PT : MY CUISINE [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/870.ts
+#EXTINF:-1,PT : JIM JAM [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/866.ts
+#EXTINF:-1,PT : ODISSEIA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/874.ts
+#EXTINF:-1,PT : HISTORIA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/864.ts
+#EXTINF:-1,PT : GINX ESPORTS TV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/861.ts
+#EXTINF:-1,PT : FUEL TV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/860.ts
+#EXTINF:-1,PT : FRANCE 24 F [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/859.ts
+#EXTINF:-1,PT : FASHION TV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/853.ts
+#EXTINF:-1,PT : EURONEWS [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/850.ts
+#EXTINF:-1,PT : EUROCHANNEL [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/849.ts
+#EXTINF:-1,PT : DISNEY JUNIOR [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/840.ts
+#EXTINF:-1,PT : DISNEY CHANNEL [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/839.ts
+#EXTINF:-1,PT : DISCOVERY CHANNEL [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/838.ts
+#EXTINF:-1,PT : DEUTSCH WELLE [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/837.ts
+#EXTINF:-1,PT : CARTOON NETWORK [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/834.ts
+#EXTINF:-1,PT : CANAL Q [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/833.ts
+#EXTINF:-1,PT : C-MUSIC [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/829.ts
+#EXTINF:-1,PT : BLAZE [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/827.ts
+#EXTINF:-1,PT : BABY TV [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/826.ts
+#EXTINF:-1,PT : ALJAZEERA [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/821.ts
+#EXTINF:-1,PT : 24 KITCHEN [LOW]
+http://okip.poio.kim:8080/live/A123/A1234/819.ts
+#EXTINF:-1,PT : RTP 1 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/915.ts
+#EXTINF:-1,PT : RTP 1 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/914.ts
+#EXTINF:-1,PT : RTP 1
+http://okip.poio.kim:8080/live/A123/A1234/913.ts
+#EXTINF:-1,PT : RTP 2 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/918.ts
+#EXTINF:-1,PT : RTP 2
+http://okip.poio.kim:8080/live/A123/A1234/917.ts
+#EXTINF:-1,PT : SIC [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/921.ts
+#EXTINF:-1,PT : SIC
+http://okip.poio.kim:8080/live/A123/A1234/919.ts
+#EXTINF:-1,PT : TVI [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/924.ts
+#EXTINF:-1,PT : TVI
+http://okip.poio.kim:8080/live/A123/A1234/923.ts
+#EXTINF:-1,PT : SIC NOTICIAS [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/928.ts
+#EXTINF:-1,PT : SIC NOTICIAS
+http://okip.poio.kim:8080/live/A123/A1234/926.ts
+#EXTINF:-1,PT : TVI 24
+http://okip.poio.kim:8080/live/A123/A1234/930.ts
+#EXTINF:-1,PT : RTP 3 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/932.ts
+#EXTINF:-1,PT : RTP 3
+http://okip.poio.kim:8080/live/A123/A1234/931.ts
+#EXTINF:-1,PT : CMTV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/996.ts
+#EXTINF:-1,PT : CMTV
+http://okip.poio.kim:8080/live/A123/A1234/994.ts
+#EXTINF:-1,PT : PORTO CANAL [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1144.ts
+#EXTINF:-1,PT : PORTO CANAL
+http://okip.poio.kim:8080/live/A123/A1234/1143.ts
+#EXTINF:-1,PT : GLOBO INTERNACIONAL
+http://okip.poio.kim:8080/live/A123/A1234/1089.ts
+#EXTINF:-1,PT : GLOBO [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1088.ts
+#EXTINF:-1,PT : GLOBO [HD] (ENCODER V)
+http://okip.poio.kim:8080/live/A123/A1234/1087.ts
+#EXTINF:-1,PT : GLOBO
+http://okip.poio.kim:8080/live/A123/A1234/1086.ts
+#EXTINF:-1,PT : CANAL 11 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/981.ts
+#EXTINF:-1,PT : CANAL 11 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/982.ts
+#EXTINF:-1,PT : CANAL 11
+http://okip.poio.kim:8080/live/A123/A1234/980.ts
+#EXTINF:-1,PT : A BOLA TV [HD]
+http://okip.poio.kim:8080/live/A123/A1234/943.ts
+#EXTINF:-1,PT : A BOLA TV
+http://okip.poio.kim:8080/live/A123/A1234/942.ts
+#EXTINF:-1,PT : SPORT TV   HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1169.ts
+#EXTINF:-1,PT : SPORT TV
+http://okip.poio.kim:8080/live/A123/A1234/1168.ts
+#EXTINF:-1,PT : SPORT TV 1 HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1176.ts
+#EXTINF:-1,PT : SPORT TV 1 (ENCODER V)
+http://okip.poio.kim:8080/live/A123/A1234/1172.ts
+#EXTINF:-1,PT : SPORT TV 1
+http://okip.poio.kim:8080/live/A123/A1234/1171.ts
+#EXTINF:-1,PT : SPORT TV 2 HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1182.ts
+#EXTINF:-1,PT : SPORT TV 2 (ENCODER V)
+http://okip.poio.kim:8080/live/A123/A1234/1179.ts
+#EXTINF:-1,PT : SPORT TV 2
+http://okip.poio.kim:8080/live/A123/A1234/1178.ts
+#EXTINF:-1,PT : SPORT TV 3 HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1187.ts
+#EXTINF:-1,PT : SPORT TV 3
+http://okip.poio.kim:8080/live/A123/A1234/1184.ts
+#EXTINF:-1,PT : SPORT TV 4 HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1192.ts
+#EXTINF:-1,PT : SPORT TV 4 (ENCODER V)
+http://okip.poio.kim:8080/live/A123/A1234/1190.ts
+#EXTINF:-1,PT : SPORT TV 4
+http://okip.poio.kim:8080/live/A123/A1234/1189.ts
+#EXTINF:-1,PT : SPORT TV 5 HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1198.ts
+#EXTINF:-1,PT : SPORT TV 5
+http://okip.poio.kim:8080/live/A123/A1234/1195.ts
+#EXTINF:-1,PT : BTV [HD] (ENCODER B)
+http://okip.poio.kim:8080/live/A123/A1234/975.ts
+#EXTINF:-1,PT : BTV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/974.ts
+#EXTINF:-1,PT : BTV
+http://okip.poio.kim:8080/live/A123/A1234/970.ts
+#EXTINF:-1,PT : SPORTING TV HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1204.ts
+#EXTINF:-1,PT : SPORTING TV
+http://okip.poio.kim:8080/live/A123/A1234/1203.ts
+#EXTINF:-1,PT : EUROSPORT 1 HD [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1054.ts
+#EXTINF:-1,PT : EUROSPORT 1
+http://okip.poio.kim:8080/live/A123/A1234/1053.ts
+#EXTINF:-1,PT : EUROSPORT 2 HD
+http://okip.poio.kim:8080/live/A123/A1234/1056.ts
+#EXTINF:-1,PT : SPORT TV NBA [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1202.ts
+#EXTINF:-1,PT : SPORT TV NBA (ENCODER V)
+http://okip.poio.kim:8080/live/A123/A1234/1200.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 1 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1021.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 1 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1019.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 1
+http://okip.poio.kim:8080/live/A123/A1234/1017.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 2 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1027.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 2 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1025.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 2
+http://okip.poio.kim:8080/live/A123/A1234/1023.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 3 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1033.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 3 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1031.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 3
+http://okip.poio.kim:8080/live/A123/A1234/1029.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 4 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1039.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 4 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1037.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 4
+http://okip.poio.kim:8080/live/A123/A1234/1035.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 5 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1045.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 5 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1042.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 5
+http://okip.poio.kim:8080/live/A123/A1234/1041.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 6 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1050.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 6 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1048.ts
+#EXTINF:-1,PT : ELEVEN SPORTS 6
+http://okip.poio.kim:8080/live/A123/A1234/1046.ts
+#EXTINF:-1,PT : MOTORVISION [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1115.ts
+#EXTINF:-1,PT : MOTORVISION
+http://okip.poio.kim:8080/live/A123/A1234/1114.ts
+#EXTINF:-1,PT : PFC
+http://okip.poio.kim:8080/live/A123/A1234/1142.ts
+#EXTINF:-1,PT : TOROS TV [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1217.ts
+#EXTINF:-1,PT : TOROS TV
+http://okip.poio.kim:8080/live/A123/A1234/1216.ts
+#EXTINF:-1,PT : DOG TV [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1012.ts
+#EXTINF:-1,PT : DOG TV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1013.ts
+#EXTINF:-1,PT : DOG TV
+http://okip.poio.kim:8080/live/A123/A1234/1011.ts
+#EXTINF:-1,PT : CACAVISION
+http://okip.poio.kim:8080/live/A123/A1234/979.ts
+#EXTINF:-1,PT : CACA E PESCA
+http://okip.poio.kim:8080/live/A123/A1234/977.ts
+#EXTINF:-1,PT : ZAP VIVA [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1257.ts
+#EXTINF:-1,PT : VH1
+http://okip.poio.kim:8080/live/A123/A1234/1256.ts
+#EXTINF:-1,PT : UM EUROPA
+http://okip.poio.kim:8080/live/A123/A1234/1255.ts
+#EXTINF:-1,PT : TVI REALITY
+http://okip.poio.kim:8080/live/A123/A1234/1248.ts
+#EXTINF:-1,PT : TVI INTERNACIONAL
+http://okip.poio.kim:8080/live/A123/A1234/1246.ts
+#EXTINF:-1,PT : TVE INTERNACIONAL
+http://okip.poio.kim:8080/live/A123/A1234/1243.ts
+#EXTINF:-1,PT : TVE 24H
+http://okip.poio.kim:8080/live/A123/A1234/1242.ts
+#EXTINF:-1,PT : TVI FICCAO
+http://okip.poio.kim:8080/live/A123/A1234/1245.ts
+#EXTINF:-1,PT : TVSERIES [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1254.ts
+#EXTINF:-1,PT : TVSERIES
+http://okip.poio.kim:8080/live/A123/A1234/1253.ts
+#EXTINF:-1,PT : HOLLYWOOD HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1095.ts
+#EXTINF:-1,PT : HOLLYWOOD
+http://okip.poio.kim:8080/live/A123/A1234/1093.ts
+#EXTINF:-1,PT : TVCINE 1 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1233.ts
+#EXTINF:-1,PT : TVCINE 1
+http://okip.poio.kim:8080/live/A123/A1234/1232.ts
+#EXTINF:-1,PT : TVCINE 2 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1236.ts
+#EXTINF:-1,PT : TVCINE 2
+http://okip.poio.kim:8080/live/A123/A1234/1235.ts
+#EXTINF:-1,PT : TVCINE 3 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1238.ts
+#EXTINF:-1,PT : TVCINE 3
+http://okip.poio.kim:8080/live/A123/A1234/1237.ts
+#EXTINF:-1,PT : TVCINE 4 [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1240.ts
+#EXTINF:-1,PT : TVCINE 4
+http://okip.poio.kim:8080/live/A123/A1234/1239.ts
+#EXTINF:-1,PT : FOX MOVIES HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1077.ts
+#EXTINF:-1,PT : FOX MOVIES
+http://okip.poio.kim:8080/live/A123/A1234/1075.ts
+#EXTINF:-1,PT : FOX LIFE HD [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1073.ts
+#EXTINF:-1,PT : FOX LIFE HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1074.ts
+#EXTINF:-1,PT : FOX LIFE
+http://okip.poio.kim:8080/live/A123/A1234/1072.ts
+#EXTINF:-1,PT : FOX CRIME HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1070.ts
+#EXTINF:-1,PT : FOX CRIME
+http://okip.poio.kim:8080/live/A123/A1234/1069.ts
+#EXTINF:-1,PT : FOX COMEDY HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1068.ts
+#EXTINF:-1,PT : FOX COMEDY
+http://okip.poio.kim:8080/live/A123/A1234/1066.ts
+#EXTINF:-1,PT : FOX [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1064.ts
+#EXTINF:-1,PT : FOX [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1065.ts
+#EXTINF:-1,PT : FOX
+http://okip.poio.kim:8080/live/A123/A1234/1063.ts
+#EXTINF:-1,PT : CINEMUNDO [HD]
+http://okip.poio.kim:8080/live/A123/A1234/991.ts
+#EXTINF:-1,PT : CINEMUNDO [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/992.ts
+#EXTINF:-1,PT : CINEMUNDO
+http://okip.poio.kim:8080/live/A123/A1234/990.ts
+#EXTINF:-1,PT : AXN WHITE
+http://okip.poio.kim:8080/live/A123/A1234/958.ts
+#EXTINF:-1,PT : AXN HD [HD]
+http://okip.poio.kim:8080/live/A123/A1234/952.ts
+#EXTINF:-1,PT : AXN HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/953.ts
+#EXTINF:-1,PT : AXN BLACK HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/956.ts
+#EXTINF:-1,PT : AXN BLACK
+http://okip.poio.kim:8080/live/A123/A1234/955.ts
+#EXTINF:-1,PT : AXN
+http://okip.poio.kim:8080/live/A123/A1234/951.ts
+#EXTINF:-1,PT : AMC
+http://okip.poio.kim:8080/live/A123/A1234/947.ts
+#EXTINF:-1,PT : TV5 MONDE
+http://okip.poio.kim:8080/live/A123/A1234/1231.ts
+#EXTINF:-1,PT : TV RECORD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1230.ts
+#EXTINF:-1,PT : TV RECORD
+http://okip.poio.kim:8080/live/A123/A1234/1229.ts
+#EXTINF:-1,PT : TV MOCAMBIQUE INTERNACIONAL
+http://okip.poio.kim:8080/live/A123/A1234/1228.ts
+#EXTINF:-1,PT : TV MOCAMBIQUE
+http://okip.poio.kim:8080/live/A123/A1234/1227.ts
+#EXTINF:-1,PT : TV GALICIA
+http://okip.poio.kim:8080/live/A123/A1234/1226.ts
+#EXTINF:-1,PT : TRAVEL CHANNEL [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1225.ts
+#EXTINF:-1,PT : TRAVEL CHANNEL
+http://okip.poio.kim:8080/live/A123/A1234/1224.ts
+#EXTINF:-1,PT : TRACE URBAN [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1223.ts
+#EXTINF:-1,PT : TRACE URBAN
+http://okip.poio.kim:8080/live/A123/A1234/1221.ts
+#EXTINF:-1,PT : TRACE TOCA [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1220.ts
+#EXTINF:-1,PT : TRACE TOCA
+http://okip.poio.kim:8080/live/A123/A1234/1219.ts
+#EXTINF:-1,PT : TPA
+http://okip.poio.kim:8080/live/A123/A1234/1218.ts
+#EXTINF:-1,PT : TLC
+http://okip.poio.kim:8080/live/A123/A1234/1215.ts
+#EXTINF:-1,PT : THE QYOU [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1214.ts
+#EXTINF:-1,PT : THE FOOD NETWORK [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1213.ts
+#EXTINF:-1,PT : THE FOOD NETWORK
+http://okip.poio.kim:8080/live/A123/A1234/1211.ts
+#EXTINF:-1,PT : TCV Internacional.
+http://okip.poio.kim:8080/live/A123/A1234/1210.ts
+#EXTINF:-1,PT : SYFY [HD] (ENCODER V)
+http://okip.poio.kim:8080/live/A123/A1234/1208.ts
+#EXTINF:-1,PT : SYFY [HD] (ENCODER P1)
+http://okip.poio.kim:8080/live/A123/A1234/1207.ts
+#EXTINF:-1,PT : SYFY [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1209.ts
+#EXTINF:-1,PT : SYFY
+http://okip.poio.kim:8080/live/A123/A1234/1206.ts
+#EXTINF:-1,PT : SKY NEWS [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1167.ts
+#EXTINF:-1,PT : SKY NEWS
+http://okip.poio.kim:8080/live/A123/A1234/1166.ts
+#EXTINF:-1,PT : SIC RADICAL [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1164.ts
+#EXTINF:-1,PT : SIC RADICAL
+http://okip.poio.kim:8080/live/A123/A1234/1163.ts
+#EXTINF:-1,PT : SIC MULHER [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1162.ts
+#EXTINF:-1,PT : SIC MULHER
+http://okip.poio.kim:8080/live/A123/A1234/1161.ts
+#EXTINF:-1,PT : SIC K [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1160.ts
+#EXTINF:-1,PT : SIC K
+http://okip.poio.kim:8080/live/A123/A1234/1158.ts
+#EXTINF:-1,PT : SIC INTERNACIONAL
+http://okip.poio.kim:8080/live/A123/A1234/1157.ts
+#EXTINF:-1,PT : SIC CARAS
+http://okip.poio.kim:8080/live/A123/A1234/1154.ts
+#EXTINF:-1,PT : SAUDE [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1152.ts
+#EXTINF:-1,PT : RUSSIA
+http://okip.poio.kim:8080/live/A123/A1234/1150.ts
+#EXTINF:-1,PT : RTP MEMORIA
+http://okip.poio.kim:8080/live/A123/A1234/937.ts
+#EXTINF:-1,PT : RTP MADEIRA
+http://okip.poio.kim:8080/live/A123/A1234/936.ts
+#EXTINF:-1,PT : RTP INTERNACIONAL
+http://okip.poio.kim:8080/live/A123/A1234/935.ts
+#EXTINF:-1,PT : RTP AFRICA
+http://okip.poio.kim:8080/live/A123/A1234/934.ts
+#EXTINF:-1,PT : RTP ACORES
+http://okip.poio.kim:8080/live/A123/A1234/933.ts
+#EXTINF:-1,PT : RT DOC [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1149.ts
+#EXTINF:-1,PT : RT DOC
+http://okip.poio.kim:8080/live/A123/A1234/1148.ts
+#EXTINF:-1,PT : REGIOES TV
+http://okip.poio.kim:8080/live/A123/A1234/1147.ts
+#EXTINF:-1,PT : RED BULL TV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1146.ts
+#EXTINF:-1,PT : RECORD NEWS
+http://okip.poio.kim:8080/live/A123/A1234/1145.ts
+#EXTINF:-1,PT : PANDA BIGGS
+http://okip.poio.kim:8080/live/A123/A1234/1141.ts
+#EXTINF:-1,PT : PANDA
+http://okip.poio.kim:8080/live/A123/A1234/1140.ts
+#EXTINF:-1,PT : OUTDOOR [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1139.ts
+#EXTINF:-1,PT : ODISSEIA [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1138.ts
+#EXTINF:-1,PT : ODISSEIA
+http://okip.poio.kim:8080/live/A123/A1234/1136.ts
+#EXTINF:-1,PT : NOS STUDIOS [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1135.ts
+#EXTINF:-1,PT : NOS STUDIOS
+http://okip.poio.kim:8080/live/A123/A1234/1134.ts
+#EXTINF:-1,PT : NICKELODEON
+http://okip.poio.kim:8080/live/A123/A1234/1133.ts
+#EXTINF:-1,PT : NICK JR
+http://okip.poio.kim:8080/live/A123/A1234/1132.ts
+#EXTINF:-1,PT : NHK WORLD JAPAN
+http://okip.poio.kim:8080/live/A123/A1234/1131.ts
+#EXTINF:-1,PT : NBA TV
+http://okip.poio.kim:8080/live/A123/A1234/1130.ts
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC WILD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1129.ts
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC WILD
+http://okip.poio.kim:8080/live/A123/A1234/1127.ts
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1126.ts
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC
+http://okip.poio.kim:8080/live/A123/A1234/1123.ts
+#EXTINF:-1,PT : MYZEN TV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1122.ts
+#EXTINF:-1,PT : MY CUISINE
+http://okip.poio.kim:8080/live/A123/A1234/1121.ts
+#EXTINF:-1,PT : MVM
+http://okip.poio.kim:8080/live/A123/A1234/1120.ts
+#EXTINF:-1,PT : MTV LIVE HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1119.ts
+#EXTINF:-1,PT : MTV [HD] (ENCODER V)
+http://okip.poio.kim:8080/live/A123/A1234/1117.ts
+#EXTINF:-1,PT : MTV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1118.ts
+#EXTINF:-1,PT : MTV
+http://okip.poio.kim:8080/live/A123/A1234/1116.ts
+#EXTINF:-1,PT : MIAMI TV
+http://okip.poio.kim:8080/live/A123/A1234/1113.ts
+#EXTINF:-1,PT : MEZZO
+http://okip.poio.kim:8080/live/A123/A1234/1112.ts
+#EXTINF:-1,PT : MCM TOP
+http://okip.poio.kim:8080/live/A123/A1234/1111.ts
+#EXTINF:-1,PT : MCM POP
+http://okip.poio.kim:8080/live/A123/A1234/1110.ts
+#EXTINF:-1,PT : MAS CHIC
+http://okip.poio.kim:8080/live/A123/A1234/1109.ts
+#EXTINF:-1,PT : MACAU TV
+http://okip.poio.kim:8080/live/A123/A1234/1108.ts
+#EXTINF:-1,PT : LUXE TV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1107.ts
+#EXTINF:-1,PT : LOCALVISAO [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1106.ts
+#EXTINF:-1,PT : LOCALVISAO
+http://okip.poio.kim:8080/live/A123/A1234/1105.ts
+#EXTINF:-1,PT : KURIAKOS TV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1104.ts
+#EXTINF:-1,PT : KURIAKOS Music [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1103.ts
+#EXTINF:-1,PT : KURIAKOS Kids [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1102.ts
+#EXTINF:-1,PT : KURIAKOS Cine [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1101.ts
+#EXTINF:-1,PT : KOMBAT SPORT
+http://okip.poio.kim:8080/live/A123/A1234/1100.ts
+#EXTINF:-1,PT : JIM JAM
+http://okip.poio.kim:8080/live/A123/A1234/1099.ts
+#EXTINF:-1,PT : ICONCERTS [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1097.ts
+#EXTINF:-1,PT : HISTORIA
+http://okip.poio.kim:8080/live/A123/A1234/1092.ts
+#EXTINF:-1,PT : GINX ESPORTS TV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1085.ts
+#EXTINF:-1,PT : GINX ESPORTS TV
+http://okip.poio.kim:8080/live/A123/A1234/1084.ts
+#EXTINF:-1,PT : GAMETOON
+http://okip.poio.kim:8080/live/A123/A1234/1083.ts
+#EXTINF:-1,PT : FUEL TV HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1082.ts
+#EXTINF:-1,PT : FUEL TV
+http://okip.poio.kim:8080/live/A123/A1234/1081.ts
+#EXTINF:-1,PT : FRANCE 24 F
+http://okip.poio.kim:8080/live/A123/A1234/1080.ts
+#EXTINF:-1,PT : FRANCE 24 E
+http://okip.poio.kim:8080/live/A123/A1234/1079.ts
+#EXTINF:-1,PT : FOX NEWS
+http://okip.poio.kim:8080/live/A123/A1234/1078.ts
+#EXTINF:-1,PT : FIGHT Network HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1061.ts
+#EXTINF:-1,PT : FATIMA TV
+http://okip.poio.kim:8080/live/A123/A1234/1060.ts
+#EXTINF:-1,PT : FASHION TV [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1059.ts
+#EXTINF:-1,PT : FASHION TV
+http://okip.poio.kim:8080/live/A123/A1234/1058.ts
+#EXTINF:-1,PT : EURONEWS
+http://okip.poio.kim:8080/live/A123/A1234/1052.ts
+#EXTINF:-1,PT : EUROCHANNEL
+http://okip.poio.kim:8080/live/A123/A1234/1051.ts
+#EXTINF:-1,PT : E! ENTERTAINMENT [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1016.ts
+#EXTINF:-1,PT : E! ENTERTAINMENT
+http://okip.poio.kim:8080/live/A123/A1234/1014.ts
+#EXTINF:-1,PT : DISNEY JUNIOR
+http://okip.poio.kim:8080/live/A123/A1234/1010.ts
+#EXTINF:-1,PT : DISNEY CHANNEL
+http://okip.poio.kim:8080/live/A123/A1234/1009.ts
+#EXTINF:-1,PT : DISCOVERY CHANNEL HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1008.ts
+#EXTINF:-1,PT : DISCOVERY CHANNEL
+http://okip.poio.kim:8080/live/A123/A1234/1005.ts
+#EXTINF:-1,PT : DEUTSCHE WELLE
+http://okip.poio.kim:8080/live/A123/A1234/1004.ts
+#EXTINF:-1,PT : CUBAVISION INTERNACIONAL
+http://okip.poio.kim:8080/live/A123/A1234/1003.ts
+#EXTINF:-1,PT : CRIME INVESTIGATION
+http://okip.poio.kim:8080/live/A123/A1234/1002.ts
+#EXTINF:-1,PT : COMBATE [HD]
+http://okip.poio.kim:8080/live/A123/A1234/1000.ts
+#EXTINF:-1,PT : COMBATE [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/1001.ts
+#EXTINF:-1,PT : COMBATE
+http://okip.poio.kim:8080/live/A123/A1234/999.ts
+#EXTINF:-1,PT : CNN
+http://okip.poio.kim:8080/live/A123/A1234/998.ts
+#EXTINF:-1,PT : CNBC EUROPE
+http://okip.poio.kim:8080/live/A123/A1234/997.ts
+#EXTINF:-1,PT : CLUBBING TV
+http://okip.poio.kim:8080/live/A123/A1234/993.ts
+#EXTINF:-1,PT : CHANNEL 1 RUSSIA
+http://okip.poio.kim:8080/live/A123/A1234/989.ts
+#EXTINF:-1,PT : CBS REALITY
+http://okip.poio.kim:8080/live/A123/A1234/988.ts
+#EXTINF:-1,PT : CBS News.
+http://okip.poio.kim:8080/live/A123/A1234/987.ts
+#EXTINF:-1,PT : CBS NEWS
+http://okip.poio.kim:8080/live/A123/A1234/986.ts
+#EXTINF:-1,PT : CARTOON NETWORK
+http://okip.poio.kim:8080/live/A123/A1234/985.ts
+#EXTINF:-1,PT : CANCAO NOVA
+http://okip.poio.kim:8080/live/A123/A1234/984.ts
+#EXTINF:-1,PT : CANAL Q
+http://okip.poio.kim:8080/live/A123/A1234/983.ts
+#EXTINF:-1,PT : BOOMERANG
+http://okip.poio.kim:8080/live/A123/A1234/969.ts
+#EXTINF:-1,PT : BLOOMBERG
+http://okip.poio.kim:8080/live/A123/A1234/968.ts
+#EXTINF:-1,PT : BLAZE HD [FHD]
+http://okip.poio.kim:8080/live/A123/A1234/967.ts
+#EXTINF:-1,PT : BLAZE
+http://okip.poio.kim:8080/live/A123/A1234/966.ts
+#EXTINF:-1,PT : BEBLACK CLASSIK
+http://okip.poio.kim:8080/live/A123/A1234/965.ts
+#EXTINF:-1,PT : BEBLACK CARIBEAN
+http://okip.poio.kim:8080/live/A123/A1234/964.ts
+#EXTINF:-1,PT : BEBLACK AFRICA
+http://okip.poio.kim:8080/live/A123/A1234/963.ts
+#EXTINF:-1,PT : BBC WORLD NEWS
+http://okip.poio.kim:8080/live/A123/A1234/962.ts
+#EXTINF:-1,PT : BBC ENTERTAINMENT
+http://okip.poio.kim:8080/live/A123/A1234/961.ts
+#EXTINF:-1,PT : BABY TV
+http://okip.poio.kim:8080/live/A123/A1234/960.ts
+#EXTINF:-1,PT : ARTV
+http://okip.poio.kim:8080/live/A123/A1234/950.ts
+#EXTINF:-1,PT : ALJAZEERA [HD]
+http://okip.poio.kim:8080/live/A123/A1234/946.ts
+#EXTINF:-1,PT : ALJAZEERA
+http://okip.poio.kim:8080/live/A123/A1234/945.ts
+#EXTINF:-1,PT : AFRO MUSIC
+http://okip.poio.kim:8080/live/A123/A1234/944.ts
+#EXTINF:-1,PT : 24 KITCHEN
+http://okip.poio.kim:8080/live/A123/A1234/940.ts
+#EXTINF:-1,PT : 180 [HD]
+http://okip.poio.kim:8080/live/A123/A1234/939.ts
+#EXTINF:-1,PT : 180
+http://okip.poio.kim:8080/live/A123/A1234/1244.ts
+#EXTINF:-1,PT : 1 1
+http://okip.poio.kim:8080/live/A123/A1234/938.ts
+#EXTINF:-1,PT : TVI MOSAICO
+http://okip.poio.kim:8080/live/A123/A1234/1247.ts
+#EXTINF:-1,PT : TVI REALITY CAM 4
+http://okip.poio.kim:8080/live/A123/A1234/1252.ts
+#EXTINF:-1,PT : TVI REALITY CAM 3
+http://okip.poio.kim:8080/live/A123/A1234/1251.ts
+#EXTINF:-1,PT : TVI REALITY CAM 2
+http://okip.poio.kim:8080/live/A123/A1234/1250.ts
+#EXTINF:-1,PT : TVI REALITY CAM 1
+http://okip.poio.kim:8080/live/A123/A1234/1249.ts
 
 
 #EXTINF:0,[COLOR yellowgreen]» » NOTÍCIAS INTERNACIONAIS « «[/COLOR]
