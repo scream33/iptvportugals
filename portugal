@@ -1,26 +1,164 @@
-
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/219px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg/220px-Futuro_log%C3%B3tipo_da_RTP_Madeira.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RtpMemoria_positivo_horiz_RGB.png/250px-RtpMemoria_positivo_horiz_RGB.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTP1_2016.png/200px-RTP1_2016.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Rtp2_2016_logo.png/250px-Rtp2_2016_logo.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 2[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/RTP%C3%81frica.png/250px-RTP%C3%81frica.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg/220px-RTP_A%C3%A7ores_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/200px-Rtp3.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 3 [/B][/I][/COLOR]
-https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
-#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/12/tcv-cabo-verde.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV CABO VERDE[/B][/I][/COLOR]
-rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1 timeout=10
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Tvi_24.png/200px-Tvi_24.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]
-http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8?mag
-#EXTINF:-1 tvg-id="tvg-logo="http://tvfatima.com/logo.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]TV FÁTIMA[/B][/I][/COLOR]
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTM3U
+#EXTINF:0,A Bola TV
+http://62.203.143.51:9981/play/BolaTV
+#EXTINF:0,AMC
+http://62.203.143.51:9981/play/AMC
+#EXTINF:0,ARTV
+http://62.203.143.51:9981/play/ARTV
+#EXTINF:0,AXN Black HD
+http://62.203.143.51:9981/play/BlackHD
+#EXTINF:0,AXN HD
+http://62.203.143.51:9981/play/AXNHD
+#EXTINF:0,AXN White HD
+http://62.203.143.51:9981/play/WhiteHD
+#EXTINF:0,Afro Music
+http://62.203.143.51:9981/play/AfroMu
+#EXTINF:0,BTV HD
+http://62.203.143.51:9981/play/BTVHD
+#EXTINF:0,Baby TV
+http://62.203.143.51:9981/play/BabyTV
+#EXTINF:0,Bloomberg
+http://62.203.143.51:9981/play/Bloomb
+#EXTINF:0,CBS Reality
+http://62.203.143.51:9981/play/CBSRea
+#EXTINF:0,CMTV
+http://62.203.143.51:9981/play/CMTV
+#EXTINF:0,CNBC Europe
+http://62.203.143.51:9981/play/CNBCEu
+#EXTINF:0,Canal Panda
+http://62.203.143.51:9981/play/CanalPan
+#EXTINF:0,Canal Q
+http://62.203.143.51:9981/play/CanalQ
+#EXTINF:0,Canhttp://62.203.143.51:9981/play/Can%C4%BFNov
+#EXTINF:0,Cartoon Network
+http://62.203.143.51:9981/play/CartNet
+#EXTINF:0,Cinemundo
+http://62.203.143.51:9981/play/Cinem
+#EXTINF:0,Crime+Investigation
+http://62.203.143.51:9981/play/Crimenve
+#EXTINF:0,Disney Channel
+http://62.203.143.51:9981/play/a0on
+#EXTINF:0,E! Entertainment
+http://62.203.143.51:9981/play/EEnter
+#EXTINF:0,Eleven Sports 1 HD
+http://62.203.143.51:9981/play/Eleven1HD
+#EXTINF:0,Eleven Sports 2 HD
+http://62.203.143.51:9981/play/ElevenSpor2HD
+#EXTINF:0,Eleven Sports 3
+http://62.203.143.51:9981/play/ElevenSpo3
+#EXTINF:0,Eleven Sports 4
+http://62.203.143.51:9981/play/Elevsrts4
+#EXTINF:0,Eleven Sports 5
+http://62.203.143.51:9981/play/EleSports5
+#EXTINF:0,Eleven Sports 6
+http://62.203.143.51:9981/play/ElevenSpo6
+#EXTINF:0,Eurochannel
+http://62.203.143.51:9981/play/Eurocha
+#EXTINF:0,Eurosport 1
+http://62.203.143.51:9981/play/Eur1
+#EXTINF:0,Eurosport 1 HD
+http://62.203.143.51:9981/play/Eusport1HD
+#EXTINF:0,Eurosport 2
+http://62.203.143.51:9981/play/Eurosp2
+#EXTINF:0,FOX Comedy
+http://62.203.143.51:9981/play/FOXCom
+#EXTINF:0,FOX Crime HD
+http://62.203.143.51:9981/play/CrimeH
+#EXTINF:0,FOX HD
+http://62.203.143.51:9981/play/FOXHD
+#EXTINF:0,FOX Life HD
+http://62.203.143.51:9981/play/LifeHD
+#EXTINF:0,FTV
+http://62.203.143.51:9981/play/FTV
+#EXTINF:0,Globo
+http://62.203.143.51:9981/play/Globo
+#EXTINF:0,Histðria
+http://62.203.143.51:9981/play/Hist%C3%B0
+#EXTINF:0,Hollywood
+http://62.203.143.51:9981/play/Holly
+#EXTINF:0,Hollywood HD
+http://62.203.143.51:9981/play/HollHD
+#EXTINF:0,Jim Jam
+http://62.203.143.51:9981/play/JimJ
+#EXTINF:0,Kombat Sport
+http://62.203.143.51:9981/play/KombatSpor
+#EXTINF:0,Kuriakos TV
+http://62.203.143.51:9981/play/KuriakosTV
+#EXTINF:0,MCM POP
+http://62.203.143.51:9981/play/MCMPO
+#EXTINF:0,MTV Portugal
+http://62.203.143.51:9981/play/MTVPor
+#EXTINF:0,NBA TV
+http://62.203.143.51:9981/play/NBATV
+#EXTINF:0,NHK World Japan
+http://62.203.143.51:9981/play/WorldJa
+#EXTINF:0,National Geographic HD
+http://62.203.143.51:9981/play/NationalGeo
+#EXTINF:0,National Geographic Wild
+http://62.203.143.51:9981/play/NatiGeog
+#EXTINF:0,Odisseia
+http://62.203.143.51:9981/play/Odiss
+#EXTINF:0,Playboy TV
+http://62.203.143.51:9981/play/PlayyTV
+#EXTINF:0,Porto Canal
+http://62.203.143.51:9981/play/PortCa
+#EXTINF:0,RTP .frica
+http://62.203.143.51:9981/play/RTPfr
+#EXTINF:0,RTP 1
+http://62.203.143.51:9981/play/RTP1
+#EXTINF:0,RTP 2
+http://62.203.143.51:9981/play/RTP2
+#EXTINF:0,RTP 3
+http://62.203.143.51:9981/play/RTP3
+#EXTINF:0,RTP Ahttp://62.203.143.51:9981/play/A%C4%BFores
+#EXTINF:0,RTP Madeira
+http://62.203.143.51:9981/play/Madeira
+#EXTINF:0,RTP Memðria
+http://62.203.143.51:9981/play/RTPMem%C3%B0
+#EXTINF:0,SIC
+http://62.203.143.51:9981/play/SIC
+#EXTINF:0,SIC Caras
+http://62.203.143.51:9981/play/SICCa
+#EXTINF:0,SIC K
+http://62.203.143.51:9981/play/SICK
+#EXTINF:0,SIC Nothttp://62.203.143.51:9981/play/SICNot%C5%A6
+#EXTINF:0,SIC Radical
+http://62.203.143.51:9981/play/SICRad
+#EXTINF:0,SPORT TV 1
+http://62.203.143.51:9981/play/SPORTTV1
+#EXTINF:0,SPORT TV 1 HD
+http://62.203.143.51:9981/play/SPORTV1HD
+#EXTINF:0,SPORT TV 2
+http://62.203.143.51:9981/play/SPORTV2
+#EXTINF:0,SPORT TV 2 HD
+http://62.203.143.51:9981/play/SPORT2HD
+#EXTINF:0,SPORT TV 3
+http://62.203.143.51:9981/play/SPORT3
+#EXTINF:0,SPORT TV 3 HD
+http://62.203.143.51:9981/play/SPORT3HD
+#EXTINF:0,TV Record
+http://62.203.143.51:9981/play/TVRe
+#EXTINF:0,TVCine 1
+http://62.203.143.51:9981/play/TVCi1
+#EXTINF:0,TVCine 2
+http://62.203.143.51:9981/play/TVCi2
+#EXTINF:0,TVCine 3
+http://62.203.143.51:9981/play/TVCi3
+#EXTINF:0,TVCine 4
+http://62.203.143.51:9981/play/TVCi4
+#EXTINF:0,TVI
+http://62.203.143.51:9981/play/TVI
+#EXTINF:0,TVI 24
+http://62.203.143.51:9981/play/TVI24
+#EXTINF:0,TVI Fichttp://62.203.143.51:9981/play/TVIFic
+#EXTINF:0,TVSØries
+http://62.203.143.51:9981/play/TVS%C3%98ries
+#EXTINF:0,Trace Urban
+http://62.203.143.51:9981/play/TraceUr
+#EXTINF:0,Travel Channel HD
+http://62.203.143.51:9981/play/TravelHD
+#EXTINF:0,Venus
+http://62.203.143.51:9981/play/Venus
 
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo/SIC.png" group-title="Entertainment",SIC
 http://live.impresa.pt/live/sic/sic.m3u8
