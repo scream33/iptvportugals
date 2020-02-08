@@ -1,396 +1,184 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/197.ts
-#EXTINF:-1,RTP 2 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/198.ts
-#EXTINF:-1,SIC LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/199.ts
-#EXTINF:-1,TVI LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/200.ts
-#EXTINF:-1,TVI FICCAO LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/208.ts
-#EXTINF:-1,TVI 24 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/206.ts
-#EXTINF:-1,CMTV LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/201.ts
-#EXTINF:-1,SIC NOTICIAS LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/205.ts
-#EXTINF:-1,FOX HD LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/207.ts
-#EXTINF:-1,SPORT TV 1 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/204.ts
-#EXTINF:-1,SPORT TV 2 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/209.ts
-#EXTINF:-1,SPORT TV 3 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/210.ts
-#EXTINF:-1,SPORT TV 4 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/211.ts
-#EXTINF:-1,SPORT TV 5 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/212.ts
-#EXTINF:-1,Eleven Sport 1 LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/215.ts
-#EXTINF:-1,BTV TV LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/202.ts
-#EXTINF:-1,A BOLA TV LOWquality
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/214.ts
-#EXTINF:-1,RTP 1
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/1.ts
-#EXTINF:-1,RTP 2
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/2.ts
-#EXTINF:-1,SIC
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/3.ts
-#EXTINF:-1,TVI
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/4.ts
-#EXTINF:-1,TVI 24
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/5.ts
-#EXTINF:-1,TVI REALITY
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/8.ts
-#EXTINF:-1,TVI FICCAO
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/9.ts
-#EXTINF:-1,SIC NOTICIAS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/6.ts
-#EXTINF:-1,CMTV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/7.ts
-#EXTINF:-1,SIC MULHER
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/10.ts
-#EXTINF:-1,SIC CARAS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/11.ts
-#EXTINF:-1,SIC RADICAL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/12.ts
-#EXTINF:-1,PORTO CANAL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/15.ts
-#EXTINF:-1,RTP 3
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/13.ts
-#EXTINF:-1,RTP MEMORIA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/82.ts
-#EXTINF:-1,RTP MADEIRA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/19.ts
-#EXTINF:-1,RTP AFRICA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/81.ts
-#EXTINF:-1,RTP ACORES
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/18.ts
-#EXTINF:-1,CBS REALITY
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/56.ts
-#EXTINF:-1,BLAZE
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/79.ts
-#EXTINF:-1,TLC
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/54.ts
-#EXTINF:-1,FUEL TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/88.ts
-#EXTINF:-1,E! ENTERTAINMENT
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/51.ts
-#EXTINF:-1,MY CUISINE
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/72.ts
-#EXTINF:-1,24 KITCHEN
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/70.ts
-#EXTINF:-1,GLOBO NOW
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/97.ts
-#EXTINF:-1,GLOBO
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/14.ts
-#EXTINF:-1,TV RECORD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/96.ts
-#EXTINF:-1,CANAL Q
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/16.ts
-#EXTINF:-1,CANAL 11
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/20.ts
-#EXTINF:-1,SPORT TV  +
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/21.ts
-#EXTINF:-1,SPORT TV 1
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/22.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/27.ts
-#EXTINF:-1,SPORT TV 2
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/23.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/28.ts
-#EXTINF:-1,SPORT TV 3
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/24.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/29.ts
-#EXTINF:-1,SPORT TV 4
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/25.ts
-#EXTINF:-1,SPORT TV 5
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/26.ts
-#EXTINF:-1,BTV 1
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/30.ts
-#EXTINF:-1,BTV 1 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/31.ts
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/32.ts
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/33.ts
-#EXTINF:-1,ELEVEN SPORTS 3
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/34.ts
-#EXTINF:-1,ELEVEN SPORTS 4
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/35.ts
-#EXTINF:-1,ELEVEN SPORTS 5
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/36.ts
-#EXTINF:-1,ELEVEN SPORTS 6
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/37.ts
-#EXTINF:-1,NOS STUDIOS HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/71.ts
-#EXTINF:-1,AXN HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/62.ts
-#EXTINF:-1,AXN BLACK HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/64.ts
-#EXTINF:-1,AXN WHITE HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/63.ts
-#EXTINF:-1,FOX HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/65.ts
-#EXTINF:-1,FOX LIFE HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/69.ts
-#EXTINF:-1,FOX MOVIES
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/68.ts
-#EXTINF:-1,FOX CRIME HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/66.ts
-#EXTINF:-1,FOX COMEDY
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/67.ts
-#EXTINF:-1,TV CINE 1 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/57.ts
-#EXTINF:-1,TV CINE 2 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/58.ts
-#EXTINF:-1,TV CINE 3 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/59.ts
-#EXTINF:-1,TV CINE 4 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/60.ts
-#EXTINF:-1,HOLLYWOOD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/52.ts
-#EXTINF:-1,CINEMUNDO
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/53.ts
-#EXTINF:-1,SYFY
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/76.ts
-#EXTINF:-1,AMC
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/50.ts
-#EXTINF:-1,CANAL PANDA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/42.ts
-#EXTINF:-1,BABY TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/46.ts
-#EXTINF:-1,BIGGS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/43.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/40.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/44.ts
-#EXTINF:-1,NICKELODEON
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/41.ts
-#EXTINF:-1,NICK JR
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/49.ts
-#EXTINF:-1,CARTOON NETWORK
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/47.ts
-#EXTINF:-1,JIM JAM
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/48.ts
-#EXTINF:-1,SIC K
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/45.ts
-#EXTINF:-1,CRIME  INVESTIGATION
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/73.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/74.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/80.ts
-#EXTINF:-1,HISTORIA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/78.ts
-#EXTINF:-1,NAT GEO WILD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/75.ts
-#EXTINF:-1,ODISSEIA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/77.ts
-#EXTINF:-1,CACA E PESCA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/91.ts
-#EXTINF:-1,MTV PORTUGAL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/55.ts
-#EXTINF:-1,AFRO MUSIC
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/95.ts
-#EXTINF:-1,MCM POP
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/94.ts
-#EXTINF:-1,VH1
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/93.ts
-#EXTINF:-1,A BOLA TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/17.ts
-#EXTINF:-1,SPORTING TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/39.ts
-#EXTINF:-1,EUROSPORT 1
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/85.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/87.ts
-#EXTINF:-1,EUROSPORT 2
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/86.ts
-#EXTINF:-1,KOMBAT SPORT
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/38.ts
-#EXTINF:-1,PFC
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/98.ts
-#EXTINF:-1,MOTORVISION
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/89.ts
-#EXTINF:-1,CACAVISION
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/92.ts
-#EXTINF:-1,CANCAO NOVA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/101.ts
-#EXTINF:-1,TV GALICIA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/107.ts
-#EXTINF:-1,TOROS TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/90.ts
-#EXTINF:-1,KURIAKOS TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/100.ts
-#EXTINF:-1,FATIMA TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/213.ts
-#EXTINF:-1,STB HD
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/133.ts
-#EXTINF:-1,BAND
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/136.ts
-#EXTINF:-1,BAND SPORT
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/137.ts
-#EXTINF:-1,BAND NEWS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/141.ts
-#EXTINF:-1,GLOBO BRASIL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/135.ts
-#EXTINF:-1,RECORD HD BRASIL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/134.ts
-#EXTINF:-1,DISNEY BR
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/147.ts
-#EXTINF:-1,HBO
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/146.ts
-#EXTINF:-1,NAT GEO KIDS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/148.ts
-#EXTINF:-1,FOX SPORT 2
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/139.ts
-#EXTINF:-1,ESPN BRASIL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/138.ts
-#EXTINF:-1,SPORT TV 1 BR
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/142.ts
-#EXTINF:-1,SPORT TV 2 BR
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/143.ts
-#EXTINF:-1,SPORT TV 3 BR
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/144.ts
-#EXTINF:-1,SPORT TV 4 BR
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/145.ts
-#EXTINF:-1,PREMIERE
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/149.ts
-#EXTINF:-1,COMBATE
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/140.ts
-#EXTINF:-1,ABC
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/122.ts
-#EXTINF:-1,TELEMUNDO
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/116.ts
-#EXTINF:-1,UNIVISION
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/117.ts
-#EXTINF:-1,UNIMAS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/118.ts
-#EXTINF:-1,NEWS NY
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/124.ts
-#EXTINF:-1,PIX11
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/129.ts
-#EXTINF:-1,FOX 5
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/119.ts
-#EXTINF:-1,AZTECA
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/121.ts
-#EXTINF:-1,NYTV LIFE
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/125.ts
-#EXTINF:-1,Wnbc
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/130.ts
-#EXTINF:-1,WMBQ
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/128.ts
-#EXTINF:-1,wcbs
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/132.ts
-#EXTINF:-1,TELEX
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/127.ts
-#EXTINF:-1,STARTV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/126.ts
-#EXTINF:-1,METV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/123.ts
-#EXTINF:-1,aliento
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/131.ts
-#EXTINF:-1,RFM 80's
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/193.ts
-#EXTINF:-1,RFM
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/191.ts
-#EXTINF:-1,MEGAHITS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/190.ts
-#EXTINF:-1,COMERCIAL
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/195.ts
-#EXTINF:-1,CIDADEFM
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/194.ts
-#EXTINF:-1,A.Fuga.das.Galinhas.2000.PT.720p.BluRay.x264
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/179.mp4
-#EXTINF:-1,A.Fabrica.De.Nada.2017.AC3.PT.DVDRip
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/178.mp4
-#EXTINF:-1,A.Estrela.de.Natal.2017.720p.PT
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/177.mp4
-#EXTINF:-1,A.Dogs.Way.Home.2019.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/176.mp4
-#EXTINF:-1,A.Dogs.Purpose.2017.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/175.mp4
-#EXTINF:-1,A.Million.Ways.to.Die.in.the.West.2014.720p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/189.mp4
-#EXTINF:-1,A.Menina.da.Radio.1944
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/188.mp4
-#EXTINF:-1,A.Mae.e.Que.Sabe.2016.PT
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/187.mp4
-#EXTINF:-1,A.Lenda.do.Dragao.2016.PT.PT.720p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/186.mp4
-#EXTINF:-1,A.Kind.of.Murder.2016.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/185.mp4
-#EXTINF:-1,A.Idade.Do.Gelo.A.Grande.Caca.Ao.Ovo.PT
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/184.mp4
-#EXTINF:-1,A.I.Rising.2018.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/183.mp4
-#EXTINF:-1,A.Hologram.for.the.King.1080p.2016
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/182.mp4
-#EXTINF:-1,A.Ghost.Story.2017.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/181.mp4
-#EXTINF:-1,A.Futile.and.Stupid.Gesture.2018.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/180.mp4
-#EXTINF:-1,A.Dogs.Journey.2019.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/174.mp4
-#EXTINF:-1,A.Cure.for.Wellness.2016.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/173.mp4
-#EXTINF:-1,A.Crooked.Somebody.2018.720p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/172.mp4
-#EXTINF:-1,A.Cinderella.Story.If.the.Shoe.Fits.2016.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/171.mp4
-#EXTINF:-1,A.Casa.Fantasma.2009.720p.PT.PT
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/170.mp4
-#EXTINF:-1,20th.Century.Women.2016.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/159.mp4
-#EXTINF:-1,200.Degrees.2017.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/158.mp4
-#EXTINF:-1,2.22.2017.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/157.mp4
-#EXTINF:-1,1922.2017.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/156.mp4
-#EXTINF:-1,120.Battements.par.Minute.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/154.mp4
-#EXTINF:-1,12.Strong.2018.720p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/153.mp4
-#EXTINF:-1,100.Streets.2016.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/152.mp4
-#EXTINF:-1,100.Metros.2016.720p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/151.mp4
-#EXTINF:-1,10.Cloverfield.Lane.2016.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/150.mp4
-#EXTINF:-1,A.Cancao.De.Lisboa.2016.Portuguese.DVDRip
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/169.mp4
-#EXTINF:-1,A.Brilliant.Young.Mind.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/168.mp4
-#EXTINF:-1,A.Bela.e.o.Monstro.2017.PT.BDRip
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/167.mp4
-#EXTINF:-1,99.homes.2014.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/166.mp4
-#EXTINF:-1,6.Days.2017
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/165.mp4
-#EXTINF:-1,6.Below.Miracle.on.the.Mountain.2017.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/164.mp4
-#EXTINF:-1,31.2016.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/163.mp4
-#EXTINF:-1,24.Hours.to.Live.2017.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/162.mp4
-#EXTINF:-1,22.July.2018.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/161.mp4
-#EXTINF:-1,21.Over.2013.1080p
-http://molesaclub1.mine.nu:8000/movie/FernandoTio/vsnanvs2k19/160.mp4
-#EXTINF:-1,PLAYBOY TV
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/112.ts
-#EXTINF:-1,HOT
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/111.ts
-#EXTINF:-1,VENUS
-http://molesaclub1.mine.nu:8000/live/FernandoTio/vsnanvs2k19/113.ts
+#EXTM3U url-tvg="https://ptiptv.tk/guia.xml"
+#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://ptiptv.tk/logo?i=RTP1" group-title="Entertainment",RTP 1
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTP2" tvg-logo="https://ptiptv.tk/logo?i=RTP2" group-title="Entertainment",RTP 2
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://ptiptv.tk/logo?i=TVI" group-title="Entertainment",TVI
+http://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://ptiptv.tk/logo?i=RTP3" group-title="News",RTP 3
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="TVI24" tvg-logo="https://ptiptv.tk/logo?i=TVI24" group-title="News",TVI 24
+http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://ptiptv.tk/logo?i=ARTV" group-title="News",ARTV
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPM" tvg-logo="https://ptiptv.tk/logo?i=RTPM" group-title="Entertainment",RTP Memória
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVIREAL" group-title="Entertainment",TVI Reality
+http://video-auth7.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAC" tvg-logo="https://ptiptv.tk/logo?i=RTPAC" group-title="Entertainment",RTP Açores
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTPMD" tvg-logo="https://ptiptv.tk/logo?i=RTPMD" group-title="Entertainment",RTP Madeira
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTPI" tvg-logo="https://ptiptv.tk/logo?i=RTPI" group-title="Entertainment",RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="RTPA" tvg-logo="https://ptiptv.tk/logo?i=RTPA" group-title="Entertainment",RTP África
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="https://ptiptv.tk/logo?i=PORTO" group-title="Entertainment",Porto Canal
+https://ptiptv.tk/porto.m3u8?fEei1nWfTZGpPkFVJ41VCJeiKIU|referer=http://portocanal.sapo.pt/live
+#EXTINF:-1 tvg-id="SKYN" tvg-logo="https://ptiptv.tk/logo?i=SKYN" tvg-language="en" group-title="News",Sky News 🇬🇧
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+#EXTINF:-1 tvg-id="BLOOM" tvg-logo="https://ptiptv.tk/logo?i=BLOOM" tvg-language="en" group-title="News",Bloomberg 🇬🇧
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="FR24I" tvg-logo="https://ptiptv.tk/logo?i=FR24I" tvg-language="en" group-title="News",France 24 🇬🇧
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="DW-TV" tvg-logo="https://ptiptv.tk/logo?i=DW-TV" tvg-language="en" group-title="News",Deutsche Welle 🇬🇧
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://ptiptv.tk/logo?i=ALJAZ" tvg-language="en" group-title="News",Al Jazeera 🇬🇧
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="RUSST" tvg-logo="https://ptiptv.tk/logo?i=RUSST" tvg-language="en" group-title="News",Russia Today 🇬🇧
+http://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="NHKHD" tvg-logo="https://ptiptv.tk/logo?i=NHKHD" tvg-language="en" group-title="News",NHK World 🇬🇧
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN 🇬🇧
+http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="https://ptiptv.tk/logo?i=CGTNDHD" tvg-language="en" group-title="Documentary",CGTN Documentary 🇬🇧
+http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="TVE24" tvg-logo="https://ptiptv.tk/logo?i=TVE24" tvg-language="es" group-title="News",TVE 24h 🇪🇸
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVEI" tvg-language="es" group-title="Entertainment",TVE 🇪🇸
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=A3INTER" tvg-language="es" group-title="Entertainment",Antena 3 🇪🇸
+https://livestartover-i.akamaized.net/geoantena3/master.m3u8
+#EXTINF:-1 tvg-id="TVGAL" tvg-logo="https://ptiptv.tk/logo?i=TVGAL" tvg-country="ES" tvg-language="gl" group-title="Entertainment",TV Galicia 🇪🇸
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="FR24F" tvg-logo="https://ptiptv.tk/logo?i=FR24F" tvg-language="fr" group-title="News",France 24 🇫🇷
+http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="TV5" tvg-logo="https://ptiptv.tk/logo?i=TV5" tvg-language="fr" group-title="Entertainment",TV5 Monde 🇫🇷
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-id="RAINEWS" tvg-logo="https://ptiptv.tk/logo?i=RAINEWS" tvg-language="it" group-title="News",Rai News 24 🇮🇹
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="DWTVA" tvg-logo="https://ptiptv.tk/logo?i=DWTVA" tvg-language="de" group-title="News",Deutsche Welle 🇩🇪
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Kids",Zig Zag
+https://ptiptv.tk/zigzag.m3u8
+#EXTINF:-1 tvg-id="FTV" tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FTVHD" tvg-logo="https://ptiptv.tk/logo?i=FTVHD" group-title="Lifestyle",Fashion HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TRACE" tvg-logo="https://ptiptv.tk/logo?i=TRACE" group-title="Music",Trace Urban
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="TRACETC" tvg-logo="https://ptiptv.tk/logo?i=TRACETC" group-title="Music",Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:-1 tvg-id="RDP1" tvg-logo="https://ptiptv.tk/logo?i=RDP1" group-title="Entertainment",Antena 1 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP2" tvg-logo="https://ptiptv.tk/logo?i=RDP2" group-title="Entertainment",Antena 2 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP3" tvg-logo="https://ptiptv.tk/logo?i=RDP3" group-title="Entertainment",Antena 3 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP1AC" tvg-logo="https://ptiptv.tk/logo?i=RDP1AC" group-title="Entertainment",Antena 1 Açores 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP1MD" tvg-logo="https://ptiptv.tk/logo?i=RDP1MD" group-title="Entertainment",Antena 1 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDP3MD" tvg-logo="https://ptiptv.tk/logo?i=RDP3MD" group-title="Entertainment",Antena 3 Madeira 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDPI" tvg-logo="https://ptiptv.tk/logo?i=RDPI" group-title="Entertainment",RDP Internacional 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 tvg-id="RDPA" tvg-logo="https://ptiptv.tk/logo?i=RDPA" group-title="Entertainment",RDP África 🎧
+http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1M" group-title="Entertainment",Antena 1 Memória 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1L" group-title="Music",Antena 1 Lusitânia 🎧
+http://streaming-live-app.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1V" group-title="Entertainment",Antena 1 Vida 🎧
+http://streaming-live-app.rtp.pt/liveradio/vida80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1F" group-title="Music",Antena 1 Fado 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2J" group-title="Music",Antena 2 Jazzin’ 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2O" group-title="Music",Antena 2 Ópera 🎧
+http://streaming-live-app.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=ZIGZAGR" group-title="Kids",Rádio ZigZag 🎧
+http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCOM" group-title="Entertainment",Rádio Comercial 🎧
+http://mcrwowza3.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCROCK" group-title="Music",Rádio Comercial Rock 🎧
+http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCDANCE" group-title="Music",Rádio Comercial Dance 🎧
+http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCHIT" group-title="Music",Rádio Comercial One Hit Wonders 🎧
+http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCSOFT" group-title="Music",Rádio Comercial Soft 🎧
+http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCTUGA" group-title="Music",Rádio Comercial Made in Portugal 🎧
+http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80" group-title="Entertainment",M80 Rádio 🎧
+http://mcrwowza3.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8080" group-title="Music",M80 Rádio 80’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80RCK" group-title="Music",M80 Rádio Rock 🎧
+http://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8090" group-title="Music",M80 Rádio 90’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80BAL" group-title="Music",M80 Rádio Ballads 🎧
+http://mcrwowza7.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80POP" group-title="Music",M80 Rádio Pop 🎧
+http://mcrwowza7.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8070" group-title="Music",M80 Rádio 70’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80DNC" group-title="Music",M80 Rádio Dance 🎧
+http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80IND" group-title="Music",M80 Rádio Indie 🎧
+http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80NAC" group-title="Music",M80 Rádio Portugal 🎧
+http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80SOL" group-title="Music",M80 Rádio Soul 🎧
+http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8060" group-title="Music",M80 Rádio 60’s 🎧
+http://mcrwowza7.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDFM" group-title="Entertainment",Cidade FM 🎧
+http://mcrwowza3.mcr.iol.pt/cidade/ngrp:cidade.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDHH" group-title="Music",Cidade Hip Hop 🎧
+http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOFM" group-title="Entertainment",Smooth FM 🎧
+http://mcrwowza3.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOVJZ" group-title="Music",Smooth Vocal Jazz 🎧
+http://mcrwowza7.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOSOL" group-title="Music",Smooth Soul 🎧
+http://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBLS" group-title="Music",Smooth Blues 🎧
+http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBOS" group-title="Music",Smooth Bossa Nova 🎧
+http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOJZ" group-title="Music",Smooth Jazz 🎧
+http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=VDFFM" group-title="Music",Vodafone.FM 🎧
+http://mcrwowza3.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM" group-title="Entertainment",RFM 🎧
+http://19553.live.streamtheworld.com/RFMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM80S" group-title="Music",RFM 80’s 🎧
+http://19553.live.streamtheworld.com/GR80SRFMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOTR" group-title="Music",RFM On The Rock 🎧
+http://19553.live.streamtheworld.com/RFMONTHEROCKAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMDF" group-title="Music",RFM Dancefloor 🎧
+http://19553.live.streamtheworld.com/DANCEONTHEFLOORAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOP" group-title="Music",RFM Oceano Pacífico 🎧
+http://19553.live.streamtheworld.com/OCEANPACIFICAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RENASC" group-title="Entertainment",Rádio Renascença 🎧
+http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MEGAHITS" group-title="Music",Mega Hits 🎧
+http://19553.live.streamtheworld.com/MEGA_HITSAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RSIM" group-title="Entertainment",Rádio Sim 🎧
+http://19553.live.streamtheworld.com/RADIO_SIMAAC
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TSF" group-title="News",TSF Rádio Notícias 🎧
+http://tsfdirecto.tsf.pt/tsfdirecto.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=OBSRV" group-title="News",Rádio Observador 🎧
+http://streamingv2.shoutcast.com/observador_64.aac
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SBSRFM" group-title="Music",SBSR FM 🎧
+http://centova.radios.pt/proxy/435?mp=/stream
+#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RMSW" group-title="Music",Rádio MEO Sudoeste 🎧
+http://centova.radios.pt/proxy/495?mp=/stream
+
 
 
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo/SIC.png" group-title="Entertainment",SIC
